@@ -1,0 +1,2390 @@
+Digital Banking
+1. Digital banking is the move to online banking where banking services are delivered over the internet.
+The advantages for banks and customers are providing more convenient and faster banking services.
+The shift from traditional to digital banking has been gradual and should be rather described in degrees of
+service digitization than through a categorization into yes and no. It involves high levels of process
+automation and web-based services and may include APIs enabling cross-institutional service
+composition to deliver banking products and provide transactions. It provides the ability for users to
+access financial data through desktop, mobile and ATM services
+2. Digital India
+Digital India is a campaign launched by the Government of India to ensure that Government services are
+made available to citizens electronically by improved online infrastructure and by increasing Internet
+connectivity or by making the country digitally empowered in the field of technology.
+It was launched on 1 July 2015 by Prime Minister Narendra Modi. The initiative includes plans to connect
+rural areas with high-speed internet networks. Digital India consists of three core components. These
+include:
+The creation of digital infrastructure
+Delivery of services digitally
+Digital literacy
+Major Advantages of Digital India:
+i. Creation of Digital Infrastructure and Electronic Manufacturing in Native India.
+ii. Digital Empowerment of Native Indian People.
+iii. Delivery of all Government Services electronically (E-Governance).
+iv. A Digital Identification which will verify the end user.
+v. A Mobile for worldwide access to all services.
+vi. A Bank account for Immediate Benefit Transfers of subsidies and payments.
+vii. The program also aims to eliminate all electronics imports from foreign countries by
+2020 and make India a electronics manufacturing super power.
+Other Advantages:
+This website stoIrte wsi ldl ahteal ps uinc hd eacsreasing crime if applied on whole.
+cokies to enabIlet w eislls heenltpia iln s giteetting things done easily.
+It will help in decreasing documentation.
+functionality, as wel as marketing,
+Some of the services which will be provided through this desire effort are Digital
+personalization, and analytics. You
+Locker, e-education, e-health, e-sign and nationwide scholarship portal.
+may change your setings at any time
+It will ostensibly create a lot of jobs.
+or acept the default setings.
+It will be a boost to industry; both large and small enterprises.
+3. A digital bank represents a virtual process that includes online banking and beyond. As an end-to-end
+Privacy Policy
+platform, digital banking must encompass the front end that consumers see, the back end that bankers
+see through their servers and admin control panels and the middleware that connects these nodes.
+Marketing
+Ultimately, a digital bank should facilitate all functional levels of banking on all service delivery platforms.
+In other words, it should have all the same functions as a head office, branch office, online service, bank
+Personalization
+cards, ATM and point of sale machines.
+Analytics
+Save Acept Al
+  
+Page 7
+The reason digital banking is more than just a mobile or online platform is that it includes middleware
+solutions. Middleware is software that bridges operating systems or databases with other applications.
+Financial industry departments such as risk management, product development and marketing must also
+be included in the middle and back end to truly be considered a complete digital bank. Financial
+institutions must be at the forefront of the latest technology to ensure security and compliance with
+government regulations
+4. The earliest forms of digital banking trace back to the advent of ATM machines and cards launched in
+the 1960s. As the internet emerged in the 1980s with early broadband, digital networks began to connect
+retailers with suppliers and consumers to develop needs for early online catalogues and inventory
+software systems.
+By the 1990s the Internet emerged and online banking started becoming the norm. The improvement
+of broadband and ecommerce systems in the early 2000s led to what resembled the modern digital
+banking world today. The proliferation of smartphones through the next decade opened the door for
+transactions on the go beyond ATM machines. Over 60% of consumers now use their smartphones as
+the preferred method for digital banking.
+The challenge for banks is now to facilitate demands that connect vendors with money through channels
+determined by the consumer. This dynamic shapes the basis of customer satisfaction, which can be
+nurtured with Customer Relationship Management (CRM) software. Therefore, CRM must be integrated
+into a digital banking system, since it provides means for banks to directly communicate with their
+customers.
+There is a demand for end-to-end consistency and for services, optimized on convenience and user
+experience. The market provides cross platform front ends, enabling purchase decisions based on
+available technology such as mobile devices, with a desktop or Smart TV at home. In order for banks to
+meet consumer demands, they need to keep focusing on improving digital technology that
+provides agility, scalability and efficiency.
+5. A study conducted in 2015 revealed that 47% of bankers see potential to improve customer
+relationship thr ough digital banking, 44% see it as a means to generate competitive advantage, 32% as a
+channel for new customer acquisition. Only 16% emphasized the potential for cost saving.
+Major benefits of digital benefits are:
+Business efficiency - Not only do digital platforms improve interaction with customers and deliver
+
+their needs more quickly, they also provide methods for making internal functions more efficient.
+While banks have been at the forefront of digital technology at the consumer end for decades, they
+have not completely embraced all the benefits of middleware to accelerate productivity.
+Cost savings - One of the keys for banks to cut costs is automated applications that replace
+
+redundant manual labor. Traditional bank processing is costly, slow and prone to human error,
+This website stores data such as
+according to McKinsey & Company. Relying on people and paper also takes up office space, which
+cokies to enabrlue ness suepn etinael srgitye and storage costs. Digital platforms can future reduce costs through the synergies of
+functionality, as mwoerle a qsu malaitrakteivtien gd,ata and faster response to market changes.
+personalization, and analytics. You
+Increased accuracy - Traditional banks that rely mainly on paper processing can have an error
+
+may change yourar tsee otifn ugps taot 4an0y% t,im wehich requires reworking. Coupled with lack of IT integration between branch and
+or acept the debfaaucklt soeftftiicneg sp.ersonnel, this problem reduces business efficiency. By simplifying the verification
+process, it's easier to implement IT solutions with business software, leading to more accurate
+accounting. Financial accuracy is crucial for banks to comply with government regulations.
+Privacy Policy Improved competitiveness - Digital solutions help manage marketing lists, allowing banks to
+
+reach broader markets and build closer relationships with tech savvy consumers. CRM platforms can
+Marketintgrack customer history and provide quick access to email and other forms of online communication.
+It's effective for executing customer rewards programs that can improve loyalty and satisfaction.
+Personalization
+Greater agility - The use of automation can speed up both external and internal processes, both
+
+Analytics
+oinfc wrehaische dc aenm imphparsoivse wcauss topmlaecre dsa otins farcistkio nm. aFnoallgoewminegn tth. eI ncsotellaapds oef obf afinnkasn chiairli nmga raknedts t irna in2i0n0g8 ,r iasnk
+Save Acept Al
+  
+Page 8
+management professionals, it's possible for risk management software to detect and respond to
+market changes more quickly than even seasoned professionals.
+Enhanced security - All businesses big or small face a growing number of cyber threats that can
+
+damage reputations. In February 2016 the Internal Revenue Service announced it had been hacked
+the previous year, as did several big tech companies. Banks can benefit from extra layers of security
+to protect data.
+In a contemporary Banking era, Digital is a buzzword and Banks have to stay in race for new-gen needs
+of digital banking Digital Banking is not only front end concepts such as Internet Banking, Mobile Banking,
+Direct Banking, Various Banking apps, use of Social Media in Banking, Artificial Intelligence, Robotics,
+Chat-bots, Cognitive computing, Block-chain, Big Data, voice biometrics etc ; however it also includes
+various back-end modernization programs are done to enable overall goals of digital Banking which
+includes legacy modernization, Integration, CRM, Document Imaging / OCR etc. Training course on
+Digital Banking at Udemy called "Story of Digital Banking" has video lectures on this.
+Banks are going through tremendous challenges of competition from non-banking companies and smaller
+Fintech companies. Therefore, in order to fight competition and stay ahead of competition in Digital
+Banking era, it is important for banks to work on not only good web site, social media connect and mobile
+banking etc; but they also need to innovate with new technology disruptions where AI, ML, Block-chain,
+Analyics, cloud become buzzwords.
+6. A key in which digital banks can gain a significant competitive edge is developing a more robust IT
+architecture. By replacing manual back-office procedures with automated software solutions, banks can
+reduce employee errors and speed up processes. This paradigm shift can lead to smaller operational
+units and allow managers to concentrate on improving tasks that require human intervention.
+Automation reduces the need for paper, which inevitably ends up taking up space that can be occupied
+with technology. By using software that accelerates productivity up to 50%, banks can improve customer
+service since they will be able to resolve issues at a faster pace. One way a bank can improve its back
+end business efficiency is to divide hundreds of processes into three categories:
+full automated
+
+partially automated
+
+manual tasks
+
+It still isn't practical to automate all operations for many financial firms, especially those that conduct
+financial reviews or provide investment advice. But the more a bank can replace cumbersome redundant
+manual tasks with automation, the more it can focus on issues that involve direct communication with
+customers. The obstacles currently preventing banks from investing in a more digital back end
+environment are:
+This website stores data such as
+banks have traditionally prioritized launching new products that are still difficult to automate
+
+cokies to enable esential site
+mergers and acquisitions, new products and government regulations have already established
+
+functionality, as wel as marketing,
+complex IT architecture difficult to revise
+personalization, and analytics. You
+IT teams do not always grasp business priorities
+may change your setings at any time
+many banks lack the in-house IT expertise beyond traditional mainframe environments
+or acept the default setings.
+7. Digital cash eliminates many problems associated with physical cash, such as misplacement or the
+Privacy Policy
+potential for money to be stolen or damaged. Additionally, digital cash can be traced and accounted for
+more accurately in cases of disputes. As consumers find an increasing number of purchasing
+Marketing
+opportunities at their fingertips, there is less need to carry physical cash in their wallets.
+Personalization
+Other indications that demand for digital cash is growing are highlighted by the use of peer-to-peer
+payment systems such as PayPal and the rise of untraceable cryptocurrencies such as bitcoin. Almost
+Analytics
+anything imaginable that can be paid with physical cash can theoretically be paid with the swipe of a bank
+Save Acept Al
+  
+Page 9
+card, including parking meters. The problem is this technology is still not omnipresent. Cash circulation
+grew in the United States by 42% between 2007 and 2012, with an average annual growth rate of 7%,
+according to the BBC.
+The concept of an all digital cash economy is no longer just a futuristic dream but it's still unlikely to
+outdate physical cash in the near future. All digital banks are possible as a consumer option, but people
+may still have a need for physical cash in certain situations. ATMs help banks cut overhead, especially if
+they are available at various strategic locations beyond branch offices
+8. Security is a cornerstone of digital banking. Information security is a set of strategies for managing the
+processes, tools and policies necessary to prevent, detect, document and counter threats to digital and
+non-digital information. Information security responsibilities include establishing a set of business
+processes that will protect information assets regardless of how the infor mation is formatted or whether it
+is in transit, is being processed or is at rest in storage.
+Information security pro grams are built around the core objectives of the CIA triad: maintaining
+the confidentiality, integrity and availability of IT systems and business data. These objectives ensure that
+sensitive information is only disclosed to authorized parties (confidentiality), prevent unauthorized
+modification of data (integrity) and guarantee the data can be accessed by authorized parties when
+requested (availability).
+Many large enterprises employ a dedicated security group to implement and maintain the organization's
+information security program. Typically, this group is led by a chief information security officer. The
+security group is generally responsible for conducting risk management, a process through which
+vulnerabilities and threats to information assets are continuously assessed, and the appropriate protective
+controls are decided on and applied. The value of an organization lies within its information -- its security
+is critical for business operations, as well as retaining credibility and earning the trust of clients.
+Thr eats to sensitive and private information come in many different forms, such
+This websitaes s tomreaslw daarteaa snudc hp ahsishing attacks, identity theft and ransomware. To deter attackers and mitigate
+cokies to enable esential site
+vulnerabilities at various points, multiple security controls are implemented and coordinated as part of a
+functionality, as wel as marketing,
+personalizaltaioyne,r eadn dd aenfeanlysteic sin. Ydoeupth strategy. This should minimize the impact of an attack. To be prepared for a
+may change your setings at any time
+or acept thsee cduerfaityu ltb sreeatcinhg, ss.ecurity groups should have an incident response plan (IRP) in place. This should allow
+them to contain and limit the damage, remove the cause and apply updated defense controls.
+Privacy Policy
+PILLERS OF INFORMATION SECURITY
+Marketing
+PersSoencaulirziatyti oisn a constant worry when it comes to information technology. Data theft, hacking, malware and a
+host of other threats are enough to keep any IT professional up at night.
+Analytics
+Information security follows three overarching principles:
+Save Acept Al
+  
+Page 10
+Confidentiality: This means that information is only being seen or used by people who are authorized
+
+to access it.
+Integrity: This means that any changes to the information by an unauthorized user are impossible
+
+(or at least detected), and changes by authorized users are tracked.
+Availability: This means that the information is accessible when authorized users need it.
+
+9. The Payment and Settlement Systems Act 2007, set up by the RBI, provides for the r egulation and
+supervision of payment systems in India and designates the apex institution (RBI) as the authority for that
+purpose and all related matters. To exercise its powers and perform its functions and discharge its duties,
+the RBI is authorized under the Act to constitute a committee of its central board, which is known as the
+Board for Regulation and Supervision of Payment and Settlement Systems (BPSS). The Act also
+provides the legal basis for ‘netting’ and ‘settlement finality’.
+The PSS Act, 2007 received the assent of the President on 20th December 2007 and came into force
+with effect from 12th August 2008
+10. The PSS Act, 2007 provides for the regulation and supervision of payment systems in India and
+designates the Reserve Bank of India (Reserve Bank) as the authority for that purpose and all related
+matters. The Reserve Bank is authorized under the Act to constitute a Committee of its Central Board
+known as the Board for Regulation and Supervision of Payment and Settlement Systems (BPSS), to
+exercise its powers and perform its functions and discharge its duties under this statute. The Act also
+provides the legal basis for “netting” and “settlement finality”. This is of great importance, as in India, other
+than the Real Time Gross Settlement (RTGS) system all other payment systems function on a net
+settlement basis.
+11. Under the PSS Act, 2007, two Regulations have been made by the Reserve Bank of India, namely,
+the Board for Regulation and Supervision of Payment and Settlement Systems Regulations, 2008 and the
+Payment and Settlement Systems Regulations, 2008. Both these Regulations came into force along with
+the PSS Act, 2007 on 12th August 2008
+12. The Board for Regulation and Supervision of Payment and Settlement Systems Regulation, 2008
+deals with the constitution of the Board for Regulation and Supervision of Payment and Settlement
+Systems (BPSS), a Committee of the Central Board of Directors of the Reserve Bank of India. It also
+This website stores data such as
+deals with the composition of the BPSS, its powers and functions, exercising of powers on behalf of
+cokies to eBnPaSbSle, emseeentitniagls s iotef the BPSS and quorum, the constitution of Sub-Committees/Advisory Committees by
+functionalityB, PaSs Sw,e lel atcs. mTahreke tBinPgS, S exercises the powers on behalf of the Reserve Bank, for regulation and
+personalizastiuopne, ravnisdi oann aolfy tthices .p Yaoyument and settlement systems under the PSS Act, 2007.
+may change your setings at any time
+or acept thTeh dee fPaauyltm seetntitn gasn.d Settlement Systems Regulations, 2008 covers matters like form of application for
+authorization for commencing/ carrying on a payment system and grant of authorization, payment
+instructions and determination of standards of payment systems, furnishing of returns/documents/other
+Privacy Poliincyformation, furnishing of accounts and balance sheets by system provider etc
+Marketing
+13. India has multiple payments and settlement systems, both gross and net settlement systems. For
+gross settlement India has a Real Time Gross Settlement (RTGS) system called by the same name and
+Personalization
+net settlement systems include Electronic Clearing Services (ECS Credit), Electronic Clearing Services
+Anal(yEtiCcsS Debit), credit cards, debit cards, the National Electronic Fund Transfer (NEFT) system
+and Immediate Payment Service.
+Save Acept Al
+  
+Page 11
+14. Electronic Payment and Settlement Systems in India
+The Reserve Bank of India is doing its best to encourage alternative methods of payments which will
+bring security and efficiency to the payments system and make the whole process easier for banks.
+The Indian banking sector has been growing successfully, innovating and trying to adopt and implement
+electronic payments to enhance the banking system. Though the Indian payment systems have always
+been dominated by paper-based transactions, e-payments are not far behind. Ever since the introduction
+of e-payments in India, the banking sector has witnessed growth like never before.
+According to a survey by celent, the ratio of e-payments to paper based transactions has considerably
+increased between 2004 and 2008. This has happened as a result of advances in technology and
+increasing consumer awareness of the ease and efficiency of internet and mobile transactions.[2]
+In the case of India, the RBI has played a pivotal role in facilitating e-payments by making it compulsory
+for banks to route high value transactions through Real Time Gross Settlement (RTGS) and also by
+introducing NEFT (National Electronic Funds Transfer) and NECS (National Electronic Clearing Services)
+which has encouraged individuals and businesses to switch ia is clearly one of the fastest growing
+countries for payment cards in the Asia-Pacific region. Behavioral patterns of Indian customers are also
+likely to be influenced by their internet accessibility and usage, which currently is about 32 million PC
+users, 68% of whom have access to the net. However these statistical indications are far from the reality
+where customers still prefer to pay "in line" rather than online, with 63% payments still being made in cash.
+E-payments have to be continuously promoted showing consumers the various routes through which they
+can make these payments like ATM’s, the internet, mobile phones and drop boxes.
+Due to the efforts of the RBI and the (BPSS) now over 75% of all transaction volume are in the electronic
+mode, including both large-value and retail payments. Out of this 75%, 98% come from the RTGS (large-
+value payments) whereas a meager 2% come from retail payments. This means consumers have not yet
+accepted this as a regular means of paying their bills and still prefer conventional methods. Retail
+payments if made via electronic modes are done by ECS (debit and credit), EFT and card payments.[2]
+15.Electronic Clearing Service (ECS Credit)
+Known as "Credit-push" facility or one-to-many facility this method is used mainly for large-value or bulk
+payments where the receiver’s account is credited with the payment from the institution making the
+payment. Such payments are made on a timely-basis like a year, half a year, etc. and used to pay
+salaries, dividends or commissions. Over time it has become one of the most convenient methods of
+making large payments.
+16. Electronic Clearing Services (ECS Debit)
+This website stores data such as
+cokies to eKnnaobwlen e ass emnatianly s-titoe-one or "debit-pull" facility this method is used mainly for small value payments from
+consumers/ individuals to big organizations or companies. It eliminates the need for paper and instead
+functionality, as wel as marketing,
+makes the payment through banks/corporates or government departments. It facilitates individual
+personalization, and analytics. You
+payments like telephone bills, electricity bills, online and card payments and insurance payments. Though
+may change your setings at any time
+easy this method lacks popularity because of lack of consumer awareness.
+or acept the default setings.
+17.Credit cards and Debit cards
+Privacy Po lAicsy mentioned above India is one of the fastest growing countries in the plastic money segment. Already
+there are 130 million cards in circulation, which is likely to increase at a very fast pace due to rampant
+Markceotninsgumerism. India’s card market has been recording a growth rate of 30% in the last 5 years. Card
+payments form an integral part of e-payments in India because customers make many payments on their
+Personalization
+card-paying their bills, transferring funds and shopping.
+Analytics
+Ever since Debit cards entered India, in 1998 they have been growing in number and today they consist
+of nearly 3/4th of the total number of cards in circulation.
+Save Acept Al
+  
+Page 12
+Credit cards have shown a relatively slower growth even though they entered the market one decade
+before debit cards. Only in the last 5 years has there been an impressive growth in the number of credit
+cards- by 74.3% between 2004 and 2008. It is expected to grow at a rate of about 60% considering levels
+of employment and disposable income. Majority of credit card purchases come from expenses on
+jewellery, dining and shopping.
+Another recent innovation in the field of plastic money is co branded credit cards, which combine many
+services into one card-where banks and other retail stores, airlines, telecom companies enter into
+business partnerships. This increases the utility of these cards and hence they are used not only in ATM’s
+but also at Point of sale (POS) terminals and while making payments on the net.
+18.Real-time gross settlement
+The acronym 'RTGS' stands for real time gross settlement. The Reserve Bank of India (India's Central
+Bank) maintains this payment network. Real Time Gross Settlement is a funds transfer mechanism where
+transfer of money takes place from one bank to another on a 'real time' and on 'gross' basis. This is the
+fastest possible money transfer system through the banking channel. Settlement in 'real time' means
+payment transaction is not subjected to any waiting period. The transactions are settled as soon as they
+are processed. 'Gross settlement' means the transaction is settled on one to one basis without bunching
+with any other transaction. Considering that money transfer takes place in the books of the Reserve Bank
+of India, the payment is taken as final and irrevocable.
+Fees for RTGS vary from bank to bank. RBI has prescribed upper limit for the fees which can be charged
+by all banks both for NEFT and RTGS. Both the remitting and receiving must have core banking in place
+to enter into RTGS transactions. Core Banking enabled banks and branches are assigned an Indian
+Financial System Code (IFSC) for RTGS and NEFT purposes. This is an eleven digit alphanumeric code
+and unique to each branch of bank. The first four letters indicate the identity of the bank and remaining
+seven numerals indicate a single branch. This code is provided on the cheque books, which are required
+for transactions along with recipient's account number.
+RTGS is a large value (minimum value of transaction should be ₹2,00,000) funds transfer system
+whereby financial intermediaries can settle interbank transfers for their own account as well as for their
+customers. The system effects final settlement of interbank funds transfers on a continuous, transaction-
+by-transaction basis throughout the processing day. Customers can access the RTGS facility between 9
+am to 4:30 pm (Interbank up to 6:30 pm) on weekdays and 9 am to 2:00 pm (Interbank up to 3:00 pm) on
+Saturdays. However, the timings that the banks follow may vary depending on the bank branch. Time
+Varying Charges has been introduced w.e.f. 1 October 2011 by RBI. The basic purpose of RTGS is to
+facilitate the transactions which need immediate access for the completion of the transaction.
+Banks could use balances maintained under the cash reserve ratio (CRR) and the intra-day liquidity (IDL)
+to be supplied by the central bank, for meeting any eventuality arising out of the real time gross
+settlement (RTGS). The RBI fixed the IDL limit for banks to three times their net owned fund (NOF).
+This website stores data such as
+cokies to eTnhaeb lIeD eLs wseilnl tbiael scithearged at ₹25 per transaction entered into by the bank on the RTGS platform. The
+functionalitym, aasrk wetealbl ales smeacrukreittiiensg ,and treasury bills will have to be placed as collateral with a margin of five per cent.
+personalizaHtioonw,e avnedr ,a tnhael yatpicesx. Yboaunk will also impose severe penalties if the IDL is not paid back at the end of the day.
+may change your setings at any time
+The RTGS service window for customer's transactions is available from 8:00 hours to 19:00 hours on
+or acept the default setings.
+week days and from 8:00 hours to 13:00 hours on Saturdays.
+No Transaction on weekly holidays and public holidays.
+Privacy Policy
+Service Charge for RTGS
+Markae) tIinnwgard transaction– no charge to be levied.
+b) Outward transactions –
+Personalization
+- For transactions of ₹2 lakhs to ₹5 lakhs -up to ₹25 per transaction plus applicable Time Varying
+AnalCythicasrges (₹1/- to ₹5/-); total not exceeding ₹30 per transaction, (+ GST).
+Save Acept Al
+  
+Page 13
+- Above ₹5 lakhs - ₹50 per transaction plus applicable Time Varying Charges (₹1/- to ₹5/-); total charges
+not exceeding ₹55 per transaction, (+ GST).
+No time varying charges are applicable for RTGS transactions settled up to 1300 hrs.
+19.National Electronic Funds Transfer (NEFT)
+Main article: National Electronic Fund Transfer
+[1]
+Started in Nov.-2005, the National Electronic Fund Transfer (NEFT) system is a nationwide system that
+facilitates individuals, firms and corporates to electronically transfer funds from any bank branch to any
+individual, firm or corporate having an account with any other bank branch in the country.It is done via
+electronic messages. Even though it is not on real time basis like RTGS (Real Time Gross Settlement),
+hourly batches are run in order to speed up the transactions.
+For being part of the NEFT funds transfer network, a bank branch has to be NEFT-enabled. NEFT has
+gained popularity due to it saving on time and the ease with which the transactions can be concluded. As
+at end-January 2011, 74,680 branches / offices of 101 banks in the country (out of around 82,400 bank
+branches) are NEFT-enabled. Steps are being taken to further widen the coverage both in terms of banks
+and branches offices. As on 30.12.2017 total no of NEFT enabled branches are increased to 139682 of
+188 Banks. (https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=112)
+20.Indo-Nepal Remittance Facility Scheme
+Indo-Nepal Remittance Facility is a cross-border remittance scheme to transfer funds from India to Nepal,
+enabled under the NEFT Scheme. The scheme was launched to provide a safe and cost-efficient avenue
+to migrant Nepalese workers in India to remit money back to their families in Nepal. A remitter can
+transfer funds up to ₹50,000 (maximum permissible amount) from any of the NEFT-enabled branches in
+India.The beneficiary would receive funds in Nepalese Rupees.
+21.Immediate Payment Service (IMPS)
+Immediate Payment Service (IMPS) is an initiative of National Payments Corporation of India (NPCI). It is
+a service through which money can be transferred immediately from one account to the other account,
+within the same bank or accounts across other banks. Upon registration, both the individuals are issued
+an MMID(Mobile Money Identifier) Code from their respective banks. This is a 7 digit numeric code. To
+initiate the transaction, the sender in his mobile banking application need to enter the registered mobile
+number of the receiver, MMID of the receiver and amount to be transferred. Upon successful transaction,
+the money gets credited in the account of the receiver instantly. This facility is available 24X7 and can be
+used through mobile banking application. Some banks have also started providing this service through
+internet banking profile of their customers. Though most banks offer this facility free of cost to encourage
+paperless payment system, ICICI bank and Axis bank charge for it as per their respective NEFT charges.
+This website stores data such as
+Nowadays, money through this service can be transferred directly also by using the receiver's bank
+cokies to enable esential site
+account number and IFS code. In such case, neither the receiver of the money need to be registered for
+functionality, as wel as marketing,
+mobile banking service of his bank, nor does he need MMID code. IMPS facility differs
+personalization, and analytics. You
+from NEFT and RTGS as there is no time limit to carry out the transaction. This facility can be availed
+may change your setings at any time
+24X7 and on all public and bank holidays including RBI holidays.
+or acept the default setings.
+22.Bharat Bill Payment System
+Privacy PolBichyarat Bill Payment System(BBPS) is an integrated bill payment system in India offering interoperable
+and accessible bill payment service to customers through a network of agents, enabling multiple payment
+Markmeotidnegs, and providing instant confirmation of paymentThis is still in implementation stage. Guidelines for
+implementation of this system were issued on November 28, 2014.
+Personalization
+Analytics
+23.Channels of e-payment
+Save Acept Al
+  
+Page 14
+In their effort to enable customers to make payments the electronic way banks have developed many
+channels of payments viz. the internet, mobiles, ATM’s (Automated Teller Machines) and drop boxes.
+The internet as a channel of payment is one of the most popular especially among the youth. Debit and
+credit payments are made by customers on various bank’s websites for small purchases,(retail payments)
+and retail transfers( ATM transfers).
+ATM’s serve many other purposes, apart from functioning as terminals for withdrawals and balance
+inquiries, such as payment of bills through ATM’s, applications for cheques books and loans can also be
+made via ATM’s.
+Banks also provide telephone and mobile banking facilities. Through call agents payments can be made
+and as the number of telephone and mobile subscribers are expected to rise, so is this channel of
+payment expected to gain popularity.
+Drop boxes provide a solution to those who have no access to the internet or to a telephone or mobile.
+These drop-boxes are kept in the premises of banks and the customers can drop their bills along with the
+bill payment slips in these boxes to be collected by third party agents[
+24.Role of the RBI in encouraging e-payments
+As the apex financial and regulatory institution in the country it is compulsory for the RBI to ensure that
+the payments system in the country is as technologically advanced as possible and in view of this aim,
+the RBI has taken several initiatives to strengthen the e-payments system in India and encourage people
+to adopt it.
+Raghuram Rajan, Ex-Governor, RBI, and Nandan Nilekani, Ex-Chairman, UIDAI and Advisor, NPCI, and
+at the launch of Unified Payments Interface (UPI) in Mumbai.
+Imagine paying for everyday purchases directly from your bank, without the need for carrying cash. The
+RBI's new interface helps you do just that. Reserve Bank of India Governor Raghuram Rajan launched
+the Unified Payments Interface (UPI) system, as its latest offering in boosting digital money transfers.
+The interface has been developed by National Payments Corporation of India (NPCI), the umbrella
+organisation for all retail payments in the country. The UPI seeks to make money transfers easy, quick
+and hassle free.
+The Payment and Settlement Systems Act, 2007 was a major step in this direction. It enables the
+
+RBI to "regulate, supervise and lay down policies involving payment and settlement space in India."
+Apart from some basic instructions to banks as to the personal and confidential nature of customer
+payments, supervising the timely payment and settlement of all transactions, the RBI has actively
+encouraged all banks and consumers to embrace e-payments.
+In pursuit of the above-mentioned goal the RBI has granted NBFC’s (Non-Banking Financial
+This website stores data such as
+Companies) the permission to issue co branded credit cards forming partnerships with commercial
+cokies to enable esential site
+banks.
+functionality, as wel as marketing,
+The Kisan Credit Card Scheme was launched by NABARD in order to meet the credit needs of
+personalization, and analytics. You
+farmers, so that they can be free of paper money hassles and use only plastic money.
+may change your setings at any time
+A domestic card scheme known as RuPay has recently been started by the National Payments
+or acept the default setings.
+Corporation of India (NPCI),promoted by RBI and Indian Banks Association (IBA), inspired
+by Unionpay in China, which will be promoting the use of cards ie. "plastic money". Initially
+functioning as an NPO, Rupay will focus on potential customers from rural and semi-urban areas of
+Privacy Policy
+India. Rupay will have a much wider coverage than Visa, MasterCard or American Express cards
+which have always been used for card-based settlements.
+Marketing
+The NREGA (National Rural Employment Guarantee Scheme) introduced by the Government will
+
+Personaleiznastuiorne rural employment in turn ensuring that the employees get wages. Each employee will have a
+smart card functioning as his personal identification card, driver’s license, credit card which will also
+Analytics
+[2]
+function as an electronic pass book, thus familiarising the rural populations with e-payments
+Save Acept Al
+  
+Page 15
+However, the Indian banking system suffers from some defects due to certain socio-cultural factors which
+hampers the spread of the e-payments culture even though there are many effective electronic payment
+channels and systems in place. Despite the infrastructure being there nearly 63% of all payments are still
+made in cash. A relatively small percentage of the population pays their bills electronically and most of
+that population is from urban India-the metropolitans. Also in some cases the transaction is done partially
+online and partially "offline". The main reason for this apathy to switch to e-payments comes from lack of
+awareness of the customer despite various efforts by the Government.
+25. Block Chain Technology : ICICI Bank is the first bank in the country and among the first few globally
+to exchange and
+authenticate remittance transaction messages as well as original international trade documents related to
+purchase order, invoice,
+shipping & insurance, among others, electronically on block chain in real time.
+The usage of block chain technology simplifies the process and makes it almost instant—to only a few
+minutes. Typically, this
+process takes a few days. The block chain application co-created by ICICI Bank replicates the paper-
+intensive international trade
+finance process as an electronic de centralised ledger, that gives all the participating entities including
+banks the ability to access a
+single source of information.
+CODE NAME DIGITS
+IFSC - Indian Financial System Code 11
+MICR -Magnetic Ink Character Recognition 09
+SWIFT-Society for worldwide interbank Financial Telecommunication ) 11
+PAN- Permanent Account no. 10
+UID /UAN – unique Identification Number 12
+PIN – Postal Index Number 6
+CIN-Cheque Identification Number 7
+BIC ( BANK IDENTIFICATION NUMBER) 8
+26. PREPAID PAYMENT INSTRUMENTS : Eligibility : Banks who comply with the eligibility criteria would
+be permitted to issue all categories of pre-paid payment instruments. Non-Banking Financial Companies
+(NBFCs) and other persons would be permitted to issue only semi-closed system payment instruments.
+Capital requirements : Banks and Non-Banking Financial Companies which comply with the Capital
+Adequacy requirements prescribed by Reserve Bank of India from time-to-time, shall be permitted to
+issue pre-paid payment instruments. All other persons shall have a minimum paid-up capital of Rs 100
+lakh and positive net owned funds. Safeguards against money laundering (KYC/AML/CFT) provisions -
+The maximum value of any pre-paid payment instruments (where specific limits have not been prescribed
+including the amount transferred) shall not exceed Rs 100,000/-.
+This website stores data such as
+Deployment of Money collected: Non-bank persons issuing payment instruments are required to maintain
+cokies to enable esential site
+their outstanding balance in an escrow account with any scheduled commercial bank subject to the
+functionality, as wel as marketing,
+following conditions:- The amount so maintained shall be used only for making payments to the
+personalization, and analytics. You
+participating merchant establishments. No interest is payable by the bank on such balances.
+may change your setings at any time
+Validity: All pre-paid payment instruments issued in the country shall have a minimum validity period of six
+or acept the default setings.
+months from the date of activation/issuance to the holder. The outstanding balance against any payment
+instrument shall not be forfeited unless the holder is cautioned at least 15 days in advance as regards the
+expiry of the validity of the payment instrument.
+Privacy Policy
+27.Money Transfer Service Scheme (MTSS) : The Reserve Bank has issued Master Directions relating
+Marktoe tMinogney Transfer Service Scheme (MTSS), which is a quick and easy way of transferring personal
+remittances from abroad to beneficiaries in India.
+Personalization
+MTSS can be used for inward personal remittances into India, such as, remittances towards family
+maintenance and remittances favouring foreign tourists visiting India and not for outward remittance from
+Analytics
+India.
+Save Acept Al
+  
+Page 16
+The system envisages a tie-up between reputed money transfer companies abroad known as Overseas
+Principals and agents in India known as Indian Agents who would disburse funds to beneficiaries in India
+at ongoing exchange rates. The Indian Agents can in turn also appoint sub-agents to expand their
+network. The Indian Agent is not allowed to remit any amount to the Overseas Principal. Under MTSS,
+the remitters and the beneficiaries are individuals only.
+The Reserve Bank of India may accord necessary permission (authorisation) to any person to act as an
+Indian Agent under the Money Transfer Service Scheme. No person can handle the business of cross-
+border money transfer to India in any capacity unless specifically permitted to do so by the RBI. To
+become MTSS agent, min net owned funds Rs.50 lac. MTSS cap USD 2500 for individual remittance.
+Max remittances 30 received by an individual in India in a calendar year. Min NW of overseas principal
+USD 01 million, as per latest balance sheet.
+28. IMPS
+IMPS offer an instant,24*7 interbank electronic fund transfer service capable of processing person to
+person, person to account and person to merchant remittances via mobile, internet and atms. It is a
+multichannel and multidimensional platform that make the payments possible within fraction of seconds
+with all the standards and integrity maintained for security required for even high worth transactions.
+MMID - Mobile Money Identifier
+Each MMID is a 7 digit code linked to a unique Mobile Number. Different MMIDs can be linked to same
+Mobile Number.
+Both Sender & Receiver have to register for Mobile Banking & get a unique ID called "MMID"
+• Generation of MMID is a One-time process.
+• Remitter (Sender) transfer funds to beneficiary (Receiver) using Mobile no. & 7digit MMID of
+beneficiary.
+IFS Code
+11 digit alphanumeric number, available in the users Cheque book.
+IMPS Fund transfer/Remittance options:
+ Using Mobile number & MMID (P2P)
+ Using Account number & IFS Code (P2A)
+ Using Aadhaar number (ABRS)
+ Using Mobile number & MMID (P2P)
+ Customer Initiated - P2M(Push)
+This website stores data such as
+ Merchant Initiated - P2M(Pull)
+cokies to enable esential site
+functionality, as wel as marketing,
+personalizaUtiosnin, ga nMdo abnialely nticusm. Yboeur & MMID (P2P)
+may changeP ryeosuern stelyt,ti nIMgsP aSt aPneyr stiomne-to-Person (P2P) funds transfer requires the Remitter customer to make funds
+or acept thtrea dnesffaeur ltu sseintgin gBse.neficiary Mobile Number and MMID. Both Remitter as well as Beneficiary needs to
+register their mobile number with their respective bank account and get MMID, in order to send or receive
+funds using IMPS.
+Privacy Policy
+Marketing
+Personalization
+Using Account number & IFS Code (P2A)
+Analytics
+Save Acept Al
+  
+Page 17
+There may be cases where Remitter is enabled on Mobile Banking, but Beneficiary mobile number is not
+registered with any bank account. In such cases, Remitter shall not be able to send money to the
+Beneficiary using Mobile Number & MMID.
+Hence on the merit of the feedback received from the banking community as well as to cater the above
+mentioned need, the IMPS funds transfer has been made possible using Beneficiary account number and
+IFS code as well, in addition to Beneficiary mobile number and MMID.
+Customer Initiated - P2M(Push)
+IMPS Merchant Payments (P2M - Person-to-merchant) service allows customers to make instant, 24*7,
+interbank payments to merchants or enterprises via mobile phone. IMPS enables mobile banking users a
+facility to make payment to merchants and enterprises, through various access channels such as Internet,
+mobile Internet, IVR, SMS, USSD.
+Sender enter details of merchant's (Customer initiated - Push)
+• Merchant Mobile Number & MMID
+• Amount to be transferred
+• Payment reference (optional)
+• Sender's M-PIN
+Merchant Initiated - P2M(Pull)
+IMPS Merchant Payments (P2M - Person-to-Merchant) service allows customers to make instant, 24*7,
+interbank payments to merchants or enterprises via Mobile & Internet. IMPS enables mobile banking
+users a facility to make payment to merchants and enterprises, through various access channels such as
+Internet, mobile Internet, IVR, SMS, USSD.
+Customer enter own details (Merchant Initiated - Pull)
+• Customer own Mobile Number
+• Customer own MMID
+• OTP (generated from the Issuer Bank)
+29.Aadhaar Based Remittance Service (ABRS)In ABRS, a remitter can initiate IMPS transaction using
+the beneficiary's AADHAAR number, which acts as a financial address & which will be linked to the
+beneficiaries account number. ABRS facilitates in simplifying the IMPS payment initiation process as in
+this service the customer will have to input only AADHAAR number of the beneficiary for initiating an
+This websitIeM sPtoSr etsra dnastaac stiuocnh. aAsnother important utility of this service will be in disbursal of subsidy payment i.e.
+cokies to eEnleacbtlero ensics eBnetinael fsiitt eTransfer (EBT)/ Direct Benefit transfer (DBT) by the Government. ABRS will act as a
+functionalityc,a atas lywset li na se xmpaarnkdeitningg f,inancial Inclusion reach.
+personalization, and analytics. You
+may change your setings at any time
+or acept the default setings.
+Query Service on Aadhaar Mapper (QSAM).
+Privacy Policy
+To facilitate the effective implementation of ABRS, a new feature is being added to the existing NUUP
+Marketing
+(USSD based platform on *99#) service. Under this new service, known as "Query Service on Aadhaar
+Personalization
+Mapper" the customer will be able to know : -
+Analytics
+• Whether his/her AADHAAR number is seeded/linked to any bank account number or not?
+Save Acept Al
+  
+Page 18
+• If yes, then with which bank and when was it last updated?
+30.Various channels
+IMPS transactions can be initiated from Mobile, ATMs and Internet banking channels.
+Appropriate existing two-factor authentication method would be used for all the channels. The limit as
+prescribed by the bank for these channels would apply while transferring money using either of these
+channels.
+While initiating an IMPS transaction using either ATM or Internet channel, mobile banking registration for
+a remitting customer is not mandatory. Similarly, for customers receiving money using account
+number/IFSC, or using AADHAAR number, mobile banking registration is not mandatory.
+Mobile Channel
+For transactions initiated using Mobile, transactions will be authenticated using mobile number & MPIN.
+Mobile number + MPIN
+ATM channel
+Authentication will be done for remitting customers while using the ATM channel as follows:
+Card + ATM PIN
+Internet banking channel
+Authentication will be done for remitting customers while using the Internet banking channel as follows:
+User ID + Internet Banking Password/Transaction Password
+31.NUUP (*99# Service on USSD platform)
+One of the innovative payment service launched by NPCI includes *99# service, which works on
+Unstructured Supplementary Service Data (USSD) channel. This service was launched envisioning the
+potential of Mobile Banking and the need for immediate low value remittances which will help in financial
+deepening and inclusion of underbanked society in the mainstream banking services. *99# service was
+dedicated to the nation by the Honourable Prime Minister of India Shri Narendra Modi on 28th August
+2014 as part of Pradhan Mantri Jan Dhan Yojana (PMJDY).
+This websit*e9 s9t#o rseesr vdiactea hsausch b aesen launched to take the banking services to every common man across the country.
+cokies to eBnaanbklein egs csuesnttoiaml seirtse can avail this service by dialing *99#, a “Common number across all Telecom Service
+functionalityP, raosv iwdeerls a s(T mSaPrsk)e”t inogn, their mobile phone and transact through an interactive menu displayed on the
+personalizamtioonb,i laen ds carneaelny.t icKse. Yy osuervices offered under *99# service include, interbank account to account fund
+may change your setings at any time
+transfer, balance enquiry, mini statement besides host of other services. *99# service is currently offered
+or acept the default setings.
+by 43 leading banks & all GSM service providers and can be accessed in 12 different languages including
+Hindi & English. *99# service is a unique interoperable direct to consumer service that brings together the
+diverse ecosystem partners such as Banks & TSPs (Telecom Service Providers).
+Privacy Policy
+It is a common technology platform developed by NPCI which allows the Banks and TSPs to seamlessly
+Marketing
+integrate with each other to provide banking services to the customers at large over the mobile phones
+Personalization
+(basic as well as smartphone).
+Analytics
+The maximum limit of fund transfer per customer on NUUP is ₹5,000 per day.
+Save Acept Al
+  
+Page 19
+Convenience of *99*99# Service
+It is a value added service from NPCI that facilitates the customers to check the status of his/her Aadhaar
+number seeding/linking in the bank account. The service works across all GSM service providers and
+brings together the diverse ecosystem partners such as Banks & TSPs (Telecom Service Providers).
+Considering that various subsides and benefits of the State and Central Government schemes under the
+Direct Benefit Transfer (DBT) programme are being doled out basis the Aadhaar number of the
+beneficiary; this service has proved to be a convenient mechanism for the users to ascertain his/her
+Aadhaar seeding/ linking status in the bank account.
+Currently, following Financial, Non-financial and Value Added Services (VAS) are offered through
+*99# service:
+A. Send Money
+B. Request Money
+C. Check Balance
+D. My Profile
+E. Pending request
+F. Transactions
+G. UPI PIN
+Financial Services
+A. Send Money : Users can send money to the beneficiary using one of the following
+This website stores data such as 1 2. . M Aao db hil ae r N N Nu um mb be er r , ,
+cokies to enable esential site
+3. Payment address,
+functionality, as wel as marketing,
+4. saved beneficiary,
+personalization, and analytics. You
+5. IFSC code and Account Number
+may change your setings at any time
+or acept the default setings.
+B. Request Money : Users can request money from another account holder using beneficiary’s
+1. Registered mobile number or
+2. Virtual Payment address.
+Privacy Policy
+MarketinCg. Check Balance: View available balance of the bank account linked to user’s mobile number.
+Personalization
+D. My Profile : User can mange the following settings in his profile
+Analytics
+Save Acept Al
+  
+Page 20
+1. Change Bank Account
+2. Change Language
+3. My details
+4. Payment Address
+5. Manage Beneficiary
+6. Merchant
+7. De register
+E. Pending request : pending requests for payments can be seen
+F. Transactions : Previous Transactions can be checked
+G. UPI PIN : UPIN can be set or changed
+32.Value Added Services:
+It is a value added service from NPCI that facilitates the customers to check the status of his/her
+Aadhaar number seeding/linking in the bank account.
+Main Features of *99# Service
+ Works without Internet – Uses voice connectivity
+ Round the clock availability (works even on holidays)
+ Accessible through a common code *99# across all TSPs
+ Works across all GSM service providers and mobile handsets
+ Additional channel for banking and key catalyst for financial inclusion
+ Service also offered through BC Micro ATMs to serve the rural populace
+ No additional charges while roaming for using the service
+ Round the clock availability to customers (works even on holidays)
+ No need to install any application on mobile handset to use the service
+This website stores data such as
+cokies to eWnhabalte k einsde onfti aisl ssuitees are faced by the customer in using *99# service?
+functionalityW, ahsil ew deol inasg mtraanrkseatcintigo,ns on *99#, customers may face following issues:
+personaliza Mtio on b, ia len d h a an na dly st eic tss.: Y*o9u9# service is available only on GSM handsets.Handset Compatibility Issue:
+may change your setings at any time
+Though USSD based transactions works across all GSM handsets; however, owning to various reasons,
+or acept the default setings.
+sometimes few handsets do not support USSD service. Though, the numbers of such handset models is
+few; still users are requested to check if there handset supports the USSD service (in case they are
+facing problems while performing transaction).
+Privacy Policy
+Technical Error or Declined Request: Transaction not getting completed due to
+Network / connectivity issues at TSPs or Banks end.
+Marketing
+Wrong User Inputs: Transaction will get declined if the user enters wrong information like IFS Code,
+Personalization
+Account number, UPIN etc.
+Analytics
+Save Acept Al
+  
+Page 21
+32.Unified Payments Interface ("UPI")
+Unified Payments Interface (UPI) is a payment system launched by
+National Payments Corporation of India and regulated by Reserve Bank of India.
+UPI is a payment system that allows money transfer between any two bank accounts by using a
+smartphone.
+UPI allows a customer to pay directly from a bank account to different merchants, both online and
+offline, without the hassle of typing credit card details, IFSC code, or net banking/wallet passwords
+One needs to download the app from Play Store and install in phone; Set app login; Create virtual
+address; Add bank account; Set M-Pin; and Start transacting using UPI
+It is safe as the customers only share a virtual address and provide no other sensitive information.
+All merchant payments, remittances, bill payments among others can be done through UPI.
+The per transaction limit is Rs.1 lakh.
+A user can make an in-app payment for goods or services purchased online.
+For instance a site allows purchase of a movie-on-demand.
+User clicks buy, the site/app triggers the UPI payment link and is taken to the pay screen of the UPI
+app, where the transaction information is verified and a click followed by entry of a secure PIN completes
+the purchase.
+26 major banks in India offer this facility to their customers.
+The launch of the Unified Payments Interface ("UPI") by National Payments Corporation of India ("NPCI"),
+has provided an impetus to India's move to incentivize digital payments with the vision to transform India
+into a digitally empowered economy and reduce dependence on cash transactions. NPCI is the umbrella
+body for all payment systems in India, which makes digital transactions as effortless as sending a text
+message.
+UPI makes cutting-edge changes by supporting real time transfer of money between accounts across
+banks using smartphones by use of just one single interface besides creating interoperability and superior
+customer experience. Embracing the smartphone boom in India and the inclination of customers to move
+to digital mobile-based solutions, UPI addresses the challenges and limitations of the existing payment
+systems, wherein customers are required to disclose sensitive financial details like bank account details,
+IFSC code, credit/debit card details and sensitive PIN numbers while initiating transactions and juggle
+between different mobile banking applications with their different user IDs and passwords.
+This website stores data such as
+cokies to enable esential site
+Unified Payments Interface (UPI) is an instant payment system developed by the National Payments
+functionality, as wel as marketing,
+Corporation of India (NPCI), an RBI regulated entity. UPI is built over the IMPS infrastructure and allows
+personalization, and analytics. You
+you to instantly transfer money between any two parties' bank accounts.
+may change your setings at any time
+or acept the default setings.
+UPI-PIN
+UPI-PIN (UPI Personal Identification Number) is a 4-6 digit pass code you create/set during first time
+registration with this App .You have to enter this UPI-PIN to authorize all bank transactions. If you
+Privacy Policy
+have already set up an UPI-PIN with other UPI Apps you can use the same on BHIM. (Note: Banks
+Marketingissued MPIN is different from the UPI UPI-PIN, please generate a new UPI-PIN in the BHIM app)
+Note: Please do not share your UPI-PIN with anyone. BHIM does not store or read your UPI-PIN
+Personalization
+details and your bank's customer support will never ask for it.
+Analytics
+Payment Address
+Save Acept Al
+  
+Page 22
+Payment Address is an Address which uniquely identifies a person's bank a/c. For instance, the
+Payment Address for BHIM customers is in the format xyz@upi. You can just share your Payment
+Address with anyone to receive payments (no need for bank account number/ IFSC code, etc.). You
+can also send money to anyone by using their Payment Address. Note: Do not share your
+confidential UPI PIN with anyone.
+Virtual Payment address eliminates the need to provide sensitive information like a bank account
+details, debit/credit card details and CVV numbers. Also, unlike a mobile wallet, a customer is not
+required to set aside funds upfront in the mobile wallet setup with the service provider and all
+transfers under the UPI are made from the bank account linked with your virtual payment address. A
+virtual payment address is an identifier that will be mapped to a customers bank account, enabling
+the bank providing the UPI services to process transactions through the bank account linked with the
+respective virtual payment address.
+Data Security
+In terms of data security, UPI provides for a single click two-factor authorization, which implies that
+with one click, the transaction is authenticated at 2 levels, compliant with the existing regulatory
+guidelines issued by the Reserve Bank of India ("RBI"), without disclosing banking or personal
+information. As UPI primarily works based on an individual's 'virtual payment address', one can send
+and receive payments solely based on their 'virtual payment address' without providing any
+additional details. For example if you need to make a payment to a merchant for purchases made at
+a store, you will need to provide him only your 'virtual payment address', the merchant will then enter
+your 'virtual payment address' into his UPI app, the UPI app will send an authentication messages to
+the 'virtual payment address' linked to your mobile device, once your receive and acknowledge the
+message by entering your password will the transaction be completed and the amount payable to
+the merchant will be debited from your bank account.
+Aggregator of all accounts
+UPI acts as an aggregator of all accounts held by a customer enabling such customers to make
+transactions from multiple accounts owned by them, from one single mobile application or web
+interface and a customer is free to choose to use any bank's UPI application. Consequently, a
+customer can own multiple virtual payment addresses wherein each virtual payment address can be
+linked to a specific account and organise payments or collections, the way it suits them. Moreover,
+special instructions like setting an upper limit for payments on certain handles, and restriction of
+This website stormese rdcahtaan stsu cohr aosutlets at which a certain handle can be used, and standing payment instructions
+cokies to enable esential site
+make the whole process very useful to customers.
+functionality, as wel as marketing,
+The banks offering UPI services are required to be authorised by the RBI to provide mobile banking
+personalization, and analytics. You
+services. It is significant to note that even though the RBI has not issued any specific guidelines on
+may change your setings at any time
+the provision of UPI services, the transactions undertaken through use of UPI are required to be
+or acept the default setings.
+compliant with the guidelines issued by RBI including but not limited to, customer registration
+process and KYC guidelines.
+Privacy Policy
+MarkHeotiwng UPI / BHIM at POS works?
+Personalization
+Analytics This innovative dynamic QR-code based solution uses the store's existing credit/debit card POS
+terminal to enable UPI-based cashless payments.
+Save Acept Al
+  
+Page 23
+ When a customer requests UPI Payment mode, the cashier simply needs to select the 'UPI
+Payment' option on his existing card POS terminal and inputs the relevant bill payment amount.
+ This triggers the generation of a dynamic QR-code on the POS terminal screen itself which can
+be scanned into any mobile-based UPI-apps like BHIM used by the customer.
+ When scanned, the QR code automatically transfers relevant transaction details and displays it
+on the customer's payment app for authorizing payment transfer.
+ Once the payment transfer from customer's UPI-linked bank account to store's UPI-linked
+account is completed, the payment solution triggers a settlement confirmation to the initiating in-
+store POS terminal for printing out a transaction completion charge slip.
+Benefits:
+By enabling such a UPI payment confirmation on the merchant POS terminal itself, the new in-store UPI
+interface addresses a long standing implementation hurdle holding back faster spread of UPI-acceptance
+in large multi-lane retail stores.
+With multiple checkout points, the cashiers in these stores have no direct means of payment receipt prior
+to releasing the purchased goods to the customer. This is unlike a small single cashier store where such
+a confirmation could be received via a simple text message to the single cashier's own mobile phone.
+The new solution enables the crucial payment confirmation to be received on cashier-independent
+infrastructure like the store POS terminal - a necessity for multi-cashier stores with high cashier churn.
+Usage of a Dynamic QR with the merchant VPA (Virtual Private Address) or UPI ID and amount
+embedded in it eliminates the need for typing in of the customer or merchant credentials in the POS.
+This websitTeh sitso prerso cdeastas souffcehr sa sconvenience besides eliminating the cumbersome and error-prone process of typing
+out credentials.
+cokies to enable esential site
+functionality, as wel as marketing,
+personalization, and analytics. You
+Key points about UPI
+may change your setings at any time
+or acept the default setings.
+1. How is UPI different from IMPS?
+Privacy Policy  UPI is providing additional benefits to IMPS in the following ways:
+ Provides for a P2P Pull functionality
+Marketing
+ Simplifies Merchant Payments
+Personalization Single APP for money transfer
+ Single click two factor authentication
+Analytics
+Save Acept Al
+  
+Page 24
+2. Does a customer need to register before remitting funds using UPI?
+Yes, a customer needs to register with his/her PSP before remitting funds using UPI and link his
+accounts
+3. Does the customer need to register a beneficiary before transferring funds through UPI? What
+details of beneficiary will be required?
+No, registration of Beneficiary is not required for transferring funds through UPI as the fund would
+be transferred on the basis of Virtual ID/ Account+IFSC / Mobile No+MMID / Aadhaar Number.
+(Please check with your PSP and Issuing bank with regard to the services enabled on the App).
+4. Can I link more than one bank account to the same virtual address?
+Yes, several bank accounts can be linked to the same virtual address depending on the
+functionalities being made available by the respective PSPs. If the selected Bank name to link
+with UPI does not find your bank a/c, please ensure that the mobile number linked to your bank
+account is same as the one verified in BHIM App. If it is not the same, your bank accounts will not
+be fetched by the UPI platform. Only Savings and Current bank accounts are supported by BHIM.
+5. What are the different channels for transferring funds using UPI?
+ The different channels for transferring funds using UPI are:
+ Transfer through Virtual ID
+ Account Number + IFSC
+ Mobile Number + MMID
+ Aadhaar Number
+ Collect / Pull money basis Virtual ID
+6. What is the limit of fund transfer using UPI?
+At present, the upper limit per UPI transaction is Rs. 1 Lakh.
+This website stores data such as
+cokies to enable esential site
+33. Bharat Interface for Money (BHIM)
+functionality, as wel as marketing,
+The Bharat Interface for Money (BHIM) was rolled out by Prime Minister Narendra Modi on 30th
+personalization, and analytics. You
+December 2016, in an initiative to enable fast, secure and reliable cashless payments through mobile
+may change your setings at any time
+phones.
+or acept the default setings.
+BHIM is inter-operable with other Unified Payment Interface (UPI) applications and bank accounts,
+and has been developed by the National Payments Corporation of India (NPCI).
+The Android app is already available on the Google Play Store. As it is Aadhaarenabled, the app
+Privacy Policy
+puts an end to the fuss around other e-wallets. Moreover, an iOS version will be launched soon. One
+must get their bank accounts registered along with a UPI Pin for their account.
+Marketing
+On the BHIM app, it would be <mobile number@upi> or <preferred user id@upi>. This user id would
+be your primary address, which can be used to send or request money through other ids linked to it.
+Personalization
+The BHIM App supports about 35 banks.
+Analytics
+Save Acept Al
+  
+Page 25
+Bharat Interface for Money (BHIM) is an app that lets you make simple, easy and quick payment
+transactions. BHIM is a digital payments solution app based on the Unified Payments Interface (UPI) from
+the National Payments Corporation of India (NPCI), the umbrella organisation for all retail payments
+systems in India. You can easily make direct bank to bank payments instantly and collect money using just
+Mobile number or Payment address.
+BHIM being UPI-based, is linked directly to a bank account. All the payee needs is a bank account. If this
+account is UPI activated, you can just ask for the payee’s Virtual Payment Address (VPA), and make the
+payment to that account.Otherwise, there’s the option of IFSC or MMID for sending or receiving money. The
+advantage is there’s no need to remember an account number, or to share it with anyone. The VPA is all
+that is needed.
+If you have signed up for UPI-based payments on your bank account, which is also linked to your mobile
+phone number, you’ll be able to use the BHIM app to carry out digital transactions. Services available are as
+follows:
+The following are the features of BHIM:
+1. Send Money: User can send money using a Virtual Payment Address (VPA), Account Number &
+IFSC, Aadhaar Number or QR code.
+2. Request Money: User can collect money by entering Virtual Payment Address (VPA). Additionally
+through BHIM App, one can also transfer money using Mobile No. (Mobile No should be registered
+with BHIM or *99# and account should be linked)
+3. Scan & Pay: User can pay by scanning the QR code through Scan & Pay & generate your QR
+option is also present.
+4. Transactions: User can check transaction history and also pending UPI collect requests (if any)
+and approve or reject. User can also raise complaint for the declined transactions by clicking on
+Report issue in transactions.
+5. Profile: User can view the static QR code and Payment addresses created or also share the QR
+code through various messenger applications like WhatsApp, Email etc. available on phone and
+This website storesd odwatnal osaudc hth aes QR code.
+cokies to enable esential site
+6. Bank Account: User can see the bank account linked with his/her BHIM App and set/change the
+functionality, as wel as marketing,
+UPI PIN. User can also change the bank account linked with BHIM App by clicking Change
+personalization, and analytics. You
+may change your saectctiongusn ta pt raonvyid teimde in Menu and can also check Balance of his/her linked Bank Account by clicking
+or acept the defau“Rlt EseQtUtinEgSsT. BALANCE”
+7. Language: Up to 8 regional languages (Tamil, Telugu, Bengali, Malayalam, Oriya, Gujarati,
+Privacy Policy Kannada ,Hindi) available on BHIM to improve user experience.
+Marketing
+8. Block User: Block/Spam users who are sending you collect requests from illicit sources.
+Personalization
+9. Privacy: Allow a user to disable and enable mobilenumber@upi in the profile if a secondary VPA is
+Analytics
+created (QR for the disabled VPA is also disabled).
+Save Acept Al
+  
+Page 26
+g
+Unique features of BHIM:
+QR code based scan & pay option available, Generate your own QR code option is also
+
+available
+Option to save your beneficiaries for future references
+
+Access transaction history and Request Balance anytime
+
+Create, reset or change UPI PIN
+
+Report Issue and call Bank facilities are given to lodge complaints
+
+FAQ section is created in the app to answer all the queries reg. BHIM
+
+Available in 2 languages English and Hindi
+
+Benefits of BHIM:
+Single App for sending and receiving money and making merchant payments
+
+Go cashless anywhere anytime
+
+Added security of Single click 2 factor authentication
+
+Seamless money collection through single identifiers, reduced risks, real time
+
+Mobile no. or Name used to create VIRTUAL PAYMENT ADDRESS (VPA)
+
+Best answer to Cash on Delivery hassle
+
+Send and collect using VIRTUAL PAYMENT ADDRESS (VPA) or A/c no & IFSC.
+
+Payments through single app in your favourite language.
+
+24X7, 365 days instantaneous money transfer
+
+Transfer Limits:
+Maximum limit per transaction is Rs. 10,000 per transaction
+
+Maximum limit per day is Rs. 20,000
+
+There is limit of 20 transactions per account per bank.
+
+This website stores data such as
+cokies to enable esential site
+functionalityC, haas rwgeelsl afos rm uasriknegti nBgH,IM:
+personalization, and analytics. You
+For Smart Phones with Internet option BHIM can be executed via the app (available in Play store and
+may change your setings at any time
+coming soon for iPhone app store), whereas for feature phones, BHIM can be executed via phone dialler
+or acept the default setings.
+using *99# option.
+The charges for BHIM is one time hard binding SMS charges depending on the mobile operator (Standard
+Privacy PolSicMyS charges of your operator).For *99# the charges are Rs.0.50/- for one transaction.
+Marketing
+HOW TO USE BHIM APP:
+Personalization
+AnalFyitricsst Time User:
+Step 1: Download and Install BHIM app from Google Play store/Apple App Store.
+Save Acept Al
+  
+Page 27
+g
+Step 2: Select your preferred language.
+Step 3: Select SIM card which has the mobile number registered with your respective bank.
+Step 4: Set the application passcode required to enter the app.
+Step 5: Link your bank accounts using bank account option.
+Step 6: Set your UPI PIN by providing last 6 digits of debit card and expiry date of debit card.
+Step 7 (Optional): Create another virtual payment address (VPA) in the profile section. Automatically
+mobilenumber@upi will be your default virtual payment address (VPA) (eg. 9876543210@upi)
+Note: 2 virtual payment address (VPA)s are allowed per user 1. mobilenumber@upi and 2. name@upi)
+Step 8: Set one virtual payment address (VPA) as a primary (default) virtual payment address (VPA) (Eg.
+name@upi can be primary virtual payment address (VPA) making it easy to share with others).
+Step 9: Click on send and enter the virtual payment address (VPA)/Account number+ IFSC/Aadhaar
+number and Scan or Pay option of the person to whom you want to send money.
+Step 10: Enter the UPI Pin you set earlier to authenticate the transaction.
+Step 11: Check transaction history to see the status of the transaction.
+Customer Referral Scheme –
+The scheme is intended to incentivize an existing user of BHIM to bring new users on the BHIM platform
+and encourage the new user to do transaction using BHIM with other users or by referring new users on
+BHIM. Hence, the bonus will be paid to both the referrer and the new user of BHIM (referee) and the
+referral will be considered successful only after 3 successful financial transactions (to any valid UPI user –
+“valid receiver”) performed by the referee.
+The Scheme construct as -
+1. An existing BHIM user (Referrer) to refer BHIM application to new user (Referee)
+2. New BHIM user (Referee) initiates access to BHIM app or by dialing *99# from his/her mobile
+number registered with bank and complete on-boarding process on BHIM i.e. downloading,
+registering and fetching the bank account
+This website sto3r.e s daNtae wsu BchH IaMs user (Referee) completes his/her first eligible financial transaction with any unique
+user
+cokies to enable esential site
+functionality, as wel as marketing,
+To establish the referral relationship between referrer and referee –
+personalization, and analytics. You
+may change your setings at any time
+1. Referee needs to enter the referral code (mobile number) of the referrer at the time doing the
+or acept the default setings.
+first financial transaction with any unique user (to any valid UPI user including BHIM)
+Privacy Policy 2. The referral code field (as an option) will appear on the transaction page and will be visible only
+to the new BHIM user (referee) at the time of their first financial transaction process
+Marketing
+3. In case of *99#, the referee will choose the option of entering the referral code (as an option) at
+Personalization
+the time of on-boarding
+Analytics
+4. System shall validate that if the referrer mobile number is valid BHIM registered
+Save Acept Al
+  
+Page 28
+g
+5. On completion of minimum 3 unique successful transactions totaling to Rs. 50 to any 3 unique
+users (either P2P or P2M), the referrer and the referee will be notified about the bonus amount
+via notification in BHIM app. In this the referrer and referee has to be on BHIM user, however
+he can perform financial transaction with any valid UPI user / merchant.
+6. The bonus will be credited to the bank accounts of the referrer and the referee after meeting
+the eligibility criteria (as stated below)
+Merchant Incentive Scheme –
+1. Merchant can download and install the BHIM App or *99# in his phone and will have an option
+to self-declare himself/herself as merchant by clicking on “I Am A Merchant’ tab in BHIM App.
+2. Once the user clicks on the “I AM A MERCHANT” tab, he/she has to fill in appropriate details
+asked by the BHIM App - business name, contact number (auto populated), merchant category
+(drop-down), merchant address, city, pin-code, account type
+3. The scheme applies to all merchants who receive payments on BHIM App or *99#
+4. Reward section in BHIM app would display the cashback received to the merchant.
+5. Merchant can use any mode available on BHIM [QR Code, VPA, Mobile number, or Aadhaar
+number] to collect the payments from their customers. Both push and pull based payments
+shall qualify for this payments.
+6. On achieving the cashback incentive slab as defined for the merchants, NPCI initiates the
+cashback process using NACH platform and the merchant is notified of the cashback via
+notification in BHIM app
+34. National Automated Clearing House (NACH)
+National Payments Corporation of India (NPCI) has implemented “National Automated Clearing House
+(NACH)” for Banks, Financial Institutions, Corporates and Government a web based solution to facilitate
+interbank, high volume, electronic transactions which are repetitive and periodic in nature.
+This website sEtCorSe sw dilal tbae s ruecphla acsed with NACH from 1.4.2016.
+cokies to enaNbAleC eHs sseysntteiaml s witeill provide a national footprint and is expected to cover the entire core banking enabled
+bank branches spread across the geography of the country irrespective of the location of the bank branch.
+functionality, as wel as marketing,
+NACH System can be used for making bulk transactions towards distribution of subsidies, dividends,
+personalization, and analytics. You
+interest, salary, pension etc. and also for bulk transactions towards collection of payments pertaining to
+may change your setings at any time
+telephone, electricity, water, loans, investments in mutual funds, insurance premium etc.
+or acept the default setings.
+NACH’s Aadhaar Payment Bridge (APB) System has been channelizing the Government subsidies and
+benefits to the intended beneficiaries using their Aadhaar numbers. The APB System links the
+Government Departments and their sponsor banks on one side and beneficiary banks and beneficiary on
+Privacy Policy
+the other hand.
+Marketing
+Personalization
+Analytics
+Save Acept Al
+  
+Page 29
+g
+35. White Label ATM and Brown Label ATM
+Sailent features of WHITE LABEL ATM (WLA) ,BROWN LABEL ATM (BLA) comaprision in each
+point
+1. ATMs set up, owned and operated by non-banks and authorized under Payment & Settlement Systems
+Act, 2007 by the Reserve Bank of India. Any non-bank entity with net worth of Rs.100 crores can apply
+for installation White Label ATMs. ATMs where hardware and the lease of the ATM machine is owned by
+a service provider. Cash management and connectivity to banking networks is provided by a sponsor
+bank. No instructions on net-worth requirements for BLA entities.
+2. Logo displayed on ATM machine and in ATM premises pertain to WLA Operator (WLAO). Logo
+displayed on ATM machine/ premises is of Sponsor Bank.
+3. Services available include:
+Account Information
+Mini/Short Statement
+PIN change
+Request for Cheque Book
+Services available include:
+Account Information
+Mini/Short Statement
+PIN change
+Request for Cheque Book
+Cash deposit
+4. Contact number of officials /toll free numbers/ helpline numbers are to be displayed for lodging any
+complaint regarding failed/disputed transactions. Contact number of officials of the Bank /toll free
+numbers/ helpline numbers are to be displayed for lodging any complaint regarding failed/disputed
+transactions.
+5. The Grievance Redressal Mechanism available to users of WLA is same as that available to users of
+banks’ ATMs for failed/disputed transactions. The primary responsibility to redress grievances of
+customers relating to failed transactions at such WLAs will vest with the card issuing bank. The sponsor
+bank will provide necessary support by ensuring WLAO makes available relevant records and information
+to the Issuing bank. The Grievance Redressal Mechanism available to users of BLA is same as that
+available to users of banks’ ATMs for failed/disputed transactions.
+6. Sponsor Bank provides the cash. The Bank provides the cash for the ATMs to the outsourced agency.
+7. RBI provides license to White Label Companies. RBI is not involved directly, as the banks have
+outsourced the contract.
+36. Desired Features of Mobile Banking
+This website stores data such as
+Apps are fast becoming the primary way to interact with consumers - When banks first launched apps,
+cokies to enable esential site
+they were convenient tools to check your balance and keep on top of your spending. However,
+functionality, as wel as marketing,
+consumers are expecting - and banks are delivering - ever more functionality. Particularly with younger
+personalization, and analytics. You
+consumers, apps are becoming critical to attracting and retaining consumers. The benchmarks for
+may change your setings at any time
+ranking a mobile banking are;
+or acept the default setings.
+Privacy Policy range of touchpoints,
+enrollment and login,
+Marketing account information,
+Personalization
+transactional functionality,
+Analytics service features,
+Save Acept Al
+  
+Page30
+Page 30
+cross channel guidance, and
+marketing and sales.
+Some of the important desired features in a mobile banking app across the world and India are as follows:
+Download apps for a range of smartphone operating systems. This is one of the greatest challenges -to
+make the app work across operating systems with various versions of each. Downloadable smartphone
+apps let digital banking teams use device-specific features to create a smoother and more intuitive
+experience for mobile banking customers. Although some operating systems are more important in some
+countries than others, the major four operating systems are - Android, BlackBerry OS, iOS, and Windows
+Phone.
+Easily complete banking tasks via a mobile website. Many customers use the browser on their mobile
+device to access their bank account information, pay bills on the run, or make other mobile
+transactions — and today they expect to perform these tasks without the hassle of pinching and zooming
+their way through a mobile-unfriendly web experience.
+Interact with the bank via SMS. Most banks report falling use of SMS text messaging relative to other
+mobile banking touchpoints. Yet some consumers — especially those who do not have a smartphone —
+continue to use text banking.
+Enroll in mobile banking directly from their smartphone. As younger generations start opening their first
+bank accounts, the proportion of customers who are mobile-first and mobile-only will rise. Digital banking
+teams need to enable customers to register for digital banking directly from their mobile devices — rather
+than forcing them to sign up for online banking first.
+Understand how to use mobile banking. As content and functionality become more extensive, with
+This website stores data such as
+leading banks offering regular mobile updates, it’s important that digital banking teams communicate
+cokies to ethneasbele i mespsreonvteiaml esnitets and guide new users through how to use mobile banking.
+functionality, as wel as marketing,
+personalization, and analytics. You
+may changeE aysoiulyr saectctiensgss saet caunryit yti maend privacy content. Many customers who are just starting to use mobile banking
+or acept thweo drreyfa aublto suet tptirnivgas.cy and security, while others might want to be reassured in specific situations. This area
+still remains a weak spot for many retail banks.
+Privacy Policy
+Get valuable content and account information pre-login. Digital banking teams have recognized that
+Marketing
+customers don’t need to be logged in for every banking task and that many like the convenience of
+Personalization
+accessing simple information without needing to enter a password. Log in easily. Banks must make the
+mobile banking login process as painless as possible, without compromising security. Leading banks do
+Analytics
+this by using multifactor authentication the first time customers use the app, then letting them use a
+simplified login subsequently. Many banks offer convenient features, such as a “remember this device”
+Save Acept Al
+  
+Page31
+Page 31
+option and the ability to save user names, and they let users opt into an abbreviated login process using a
+simple PIN code rather than entering a full alphanumeric password.
+Log in easily. Banks must make the mobile banking login process as painless as possible, without
+compromising security. Leading banks do this by using multifactor authentication the first time customers
+use the app, then letting them use a simplified login subsequently. Many banks offer convenient features,
+such as a “remember this device” option and the ability to save user names, and they let users opt into an
+abbreviated login process using a simple PIN code rather than entering a full alphanumeric password.
+Quickly work out how to achieve their mobile banking goals. The mobile screen customers land on
+immediately after logging in is a crucial part of their mobile banking experience. Digital banking teams
+must design screens that make it easy for customers to complete the tasks they logged into mobile
+banking to do. Most leading banks display prominent one-click links to the most common tasks directly on
+the home screen.
+Quickly and conveniently find transactions. Different customers will search their transaction history with
+different search tools, according to personal preferences: Many banks are expanding the transaction
+history tools available via mobile. See an accurate forecast for their spending. A growing number of banks
+provide customers with a “future view” of their upcoming payments and transfers. And some are even
+using predictive tools to include transactions the customer hasn’t yet set up.
+Better understand their financial lives with embedded money management tools. Digital money
+management will ultimately be embedded at the heart of digital banking. Not all money management
+features make sense for mobile touchpoints, but digital teams should offer simple, integrated, and
+contextual tools that help customers quickly and easily get the information they want or take the action
+they need.
+Move money without hassles. Overall, the banks offer strong and easy mobile money movement
+This website stores data such as
+functionality such as account-to-account and P2P money transfers.
+cokies to enable esential site
+functionality, as wel as marketing,
+personalization, and analytics. You
+Send money to other people without sensitive personal details- This is one of the important desired
+may change your setings at any time
+features in most of the countries.
+or acept the default setings.
+Buy items in stores without plastic. It is observed that digital wallets integrating offers, coupons, point-of-
+Privacy Policy
+sale (POS) payments, and loyalty rewards are poised to transform the way consumers shop and make
+Markpeatyinmgents.
+Personalization
+AnalSyoticlvse account issues within the mobile app. Self-service features let a customer initiate or complete a
+request without having to interact with a bank employee. Functionality that lets a customer dispute a card
+Savetransaction,A recpcoerptt f rAaluld, or order a new debit card is not widely available on banks’ mobile banking apps.
+  
+Page32
+Page 32
+Set up, receive, and manage alerts. Alerts continue to offer great value to customers. Just a few years
+ago, customers were content to set up and manage alerts via the bank’s secure website and receive the
+alerts via SMS or email. But behavior is changing with the mobile mind shift, and an
+increasing number of banks are differentiating themselves by offering alerts delivery and management
+within the mobile banking app.
+Find branches and ATMs. Most of the banks evaluated make it easy for customers to find nearby
+branches and ATMs, including key information such as hours of operation and providing step-by-step
+directions.
+Easily apply for a new product, account, or service. Application abandonment has been an issue for
+digital sales teams at banks for years, and the physical limitations of mobile devices can amplify the
+problem. Someone trying to open a new account is more likely to give up if he or she needs to pinch and
+zoom through the task flow while also entering information into dozens of data entry fields. So cross-
+selling effectively means making buying as easy and quick as possible for a customer. For example,
+mBank has developed simplified product applications with two-step task flows and embedded them within
+mobile banking.
+36.INTERNET SERVICE PROVIDERS / HOSTING / BANDWIDTH / DATA DOWNLOAD & UPLOAD
+In a typical world scenario, we come across Internet Service Providers (ISPs) advertising about “high
+speed internet”. But when we look at our own internet connections, the download speeds seems to be far
+below compared to what has been advertised. So what did your ISP actually mean by “Connection
+Speed”? Is “Connection Speed” totally different from “Download Speed”?
+This website stores data such as
+cokies to enable esential site
+functionality, as wel as marketing,
+Connection Speeds and Download Speeds
+personalization, and analytics. You
+may change your setings at any time
+or acept the default setings.
+People often confuse connection speed with downloading speed. Though both of these terms refer fairly
+to the same thing, their interpretation is slightly different from one another.
+Privacy Policy
+MarkCeotinnngection speed (or Internet Bandwidth) refers to the raw data transfer rate of the connection provided
+by your ISP. This is the property that is usually advertised and can vary largely among different providers
+Personalization
+and data plans. Nowadays, this figure is usually expressed in terms of Kbps (Kilobit per Second) or Mbps
+Anal(yMtiecsgabit per Second).
+Save Acept Al
+  
+Page33
+Page 33
+On the other hand, when we download files from the internet, the same data transfer rate is interpreted as
+Download Speed. Download speed is usually measured in KBps (Kilobyte per second).
+A Typical Scenario
+Say you have a 1 Mbps Internet connection. With such a connection speed, you might expect to
+download files at a rate of around 1 MB per second, but when you actually download a file, the download
+speed only reaches up to 100 – 120 KB per second.
+Where’s the catch? If connection speed and download speed are fairly one and the same, as we
+mentioned earlier, then we should be ideally getting the same speed for connection and download. So
+what’s missing here?
+Actually, connection and download speeds are measured in two different units, so even though these
+measurements refer to the same thing, their interpreted values turn out to be quite different.
+Connection v/s Download (Units)
+Unit used for Connection Speed: Kbps (Kilobit per Second), Mbps (Megabit per Second), Gbps (Gigabit
+per Second) and so on…
+Unit used for Download Speed: KBps (Kilobyte per Second), MBps (Megabyte per Second) and so on.
+Relation between bit and byte
+This website stores data such as
+cokies to enable esential site
+functionality, as wel as marketing,
+1 byte = 8 bit1 kilobyte (KB) = 8 kilobit (Kb)
+personalization, and analytics. You
+may change your setings at any time
+or acept the default setings.
+Why different units are used for measuring connection and download speed?
+Privacy Policy
+A Bit is the most fundamental unit of representing data. That is why it was adopted as a standard for
+Marketing
+measuring the raw data transfer rate, which refers to the connection speed. Hence, connection speeds
+are measured in Megabit per second (Mbps).
+Personalization
+Analytics
+Save Acept Al
+  
+Page34
+Page 34
+But a bit in itself is quite meaningless. The data in your computer is stored in the form of 8 bit blocks,
+known as a byte. So when you download any file from the internet, it is generally represented in Byte.
+Hence, download speed is usually measured in Kilobyte per second (KBps).
+The noteworthy point here is the difference between bit and byte as used in the two units. Connection
+speed is represented with a (small) ‘b’ for bit while download speed takes a (capital) ‘B’ for Byte. Let us
+have a deeper look at the two units.
+1 Megabyte (MB) = 8 Megabit (Mb)
+1 Megabyte (MB) = 1024 Kilobyte (KB)
+8 Megabit (Mb) = 1024 Kilobyte (KB)
+Therefore,1 Megabit (Mb)= [1024/8 =] 128 Kilobyte (KB)
+So, in a 1 Mbps connection, your maximum download speed would be 128 KBps (=1Mbps). And this
+convention kind of suits the ISPs too, as it helps them to lure consumers into visually greater figures.
+Factors affecting Download Speeds
+So, we should get a maximum download speed of 128 KBps on a 1 Mbps connection. But practically, we
+would only be able to download files at 80 KBps – 120 KBps on average. The fall in the download rate
+can be attributed to several external and internal factors.
+This website stores data such as
+cokies to enable esential site
+functionalityE, xatse rwneall faasc tmorasr kaeffteincgti,ng download speeds
+personalization, and analytics. You
+may change your setings at any time
+or acept the default setings.
+Your downloading speed is affected by several server-side factors:
+Privacy Policy
+Marketing
+Personalization
+Analytics
+Save Acept Al
+  
+Page35
+Page 35
+37.Downloading via Download Managers
+Regular downloaders that are integrated with web browsers download files through a single connection.
+To enhance downloading speeds, third party download manager applications (For example; IDM, DAP,
+Orbit Downloader, etc.) are available which are able to set up multiple connections in parallel to download
+a file. Of course, this feature can be primarily controlled by server restrictions. However, if allowed,
+download managers can simultaneously download several parts of the file and hence improve the overall
+downloading speed.
+38.Downloading from Torrents
+Torrent downloads work in a different way than regular downloads. Instead of the conventional client-
+server model, this technology is based on a peer-to-peer model (P2P). In this model, data can flow
+universally among number of connected users, known as peers. A file being shared on P2P is distributed
+across the entire network.
+There are two types of Peer –Seeder and Leecher. Seeders are users uploading data in the network, and
+leechers are those who are downloading it. In a torrent network, if there are more number of leechers
+than seeders, downloading speed might decrease as there are more nodes downloading the data than
+those who are uploading. On the other hand, if there are more number of seeders, downloading speed
+might be higher.
+Torrent downloads can, in fact, be faster than regular downloads, since there are numerous active
+parallel connections to download parts of the data. Nodes can connect to a torrent network via BitTorrent
+clients. Once peers complete download, they can also seed it for other leechers to download from.
+This website stores data such as
+You can find out your own connection speed by performing an online test. Speedtest.net is a good web
+cokies to enable esential site
+application to rate your connection in terms of Download and Upload speed.
+functionality, as wel as marketing,
+personalization, and analytics. You
+may change your setings at any time
+Connection speed and download speed are fairly the same thing, only measured in different units. So, to
+or acept the default setings.
+get download speed (in KBps) from connection speed (in Mbps), first multiply the connection speed by
+1024 to convert from Megabit (Mb) to Kilobit (Kb), and then divide by 8 to convert it from Kilobit (Kb) to
+Privacy PolKiciylobyte (KB).
+Marketing
+Personalization
+Analytics
+Save Acept Al
+  
+Page36
+Page 36
+39.Cheque Truncation System (CTS) or Image-based Clearing System (ICS), in India, is a project of the
+Reserve Bank of India (RBI), commencing in 2010, for faster clearing of cheques. CTS is based on a
+cheque truncation or online image-based cheque clearing system where cheque images and magnetic
+ink character recognition (MICR) data are captured at the collecting bank branch and transmitted
+electronically.
+Cheque truncation means stopping the flow of the physical cheques issued by a drawer to the drawee
+branch. The physical instrument is truncated at some point en-route to the drawee branch and an
+electronic image of the cheque is sent to the drawee branch along with the relevant information like the
+MICR fields, date of presentation, presenting banks etc. This would eliminate the need to move the
+physical instruments across branches, except in exceptional circumstances, resulting in an effective
+reduction in the time required for payment of cheques, the associated cost of transit and delays in
+processing, etc., thus speeding up the process of collection or realization of cheques.
+CTS has been implemented in New Delhi, Chennai and Mumbai with effect from February 1, 2008,
+September 24, 2011 and April 27, 2013 respectively. After migration of the entire cheque volume from
+MICR system to CTS, the traditional MICR-based cheque processing has been discontinued across the
+country. The CTS-2010 compliant cheques are both image friendly and have enhanced security features.
+All banks providing cheque facility to their customers have been advised to issue only 'CTS-2010'
+standard cheques. Cheques not complying with CTS-2010 standards would be cleared at less frequent
+intervals i.e. weekly once from November 1, 2014 onwards.
+Banks derive multiple benefits through the implementation of CTS, like a faster clearing cycle meaning
+technically possible realization of proceeds of a cheque within the same day. It offers better reconciliation/
+verification, better customer service and enhanced customer window. Operational efficiency provides a
+direct boost to bottom lines of banks as clearing of local cheques is a high cost low revenue activity.
+Besides, it reduces operational risk by securing the transmission route. Centralized image archival
+systems ensure that data storage and retrieval is easy. Reduction of manual tasks leads to reduction of
+errors. Real-time tracking and visibility of the cheques, less frauds with secured transfer of images to the
+This website stores data such as
+RBI are other benefits that banks derive from this solution.
+cokies to enable esential site
+40.NG RTGS-Next Generation RTGS
+functionality, as wel as marketing,
+personalization, and analytics. You
+may change your setings at any time
+NG-RTGS has been introduced in India since October 2013. With its advanced liquidity and queue
+or acept the default setings.
+management features, the new RTGS system is expected to significantly improve the efficiency of
+financial markets. He hoped the new RTGS system would be such a driver for India‘s financial system.
+Privacy Policy
+Marketing
+Reportedly the first in the world to be built on ISO 20022 messaging standards, the new RTGS system is
+highly scalable and will have several new functionalities. These include advance liquidity features,
+Personalization
+including gridlock resolution mechanism and hybrid settlement facility, facility to accept future value dated
+Analtyraticnssactions, options to process multi-currency transactions, etc. These functionalities, as and when
+made available for use, will be notified to the participants.
+Save Acept Al
+  
+Page37
+Page 37
+The new ISO 20022 compliant RTGS system provides three access options to participants thick-client,
+Web-API (through INFINET or any other approved network) and Payment Originator module. The
+participants can decide the mode of participation in the system based on the volume of transactions and
+the cost of setting up the infrastructure.
+The RTGS infrastructure in India is critical in facilitating the orderly settlement of payment obligations. The
+role of central banks as operators of large-value payment systems is important in the context of the
+broader role of the central bank in a nation’s financial system insofar as it offers safety net attributes by
+providing final settlement in central bank money.
+RTGS is a critical Financial market Infrastructure (FMI) operated by the Reserve Bank of India and it will
+be assessed against the Committee on Payment and Settlement Systems and the International
+Organisation of Securities Commissions (CPSS-IOSCO) Principles for Financial Market Infrastructures
+applicable to FMIs.
+With implementation of the new RTGS system, the existing RTGS system will cease to be operational.
+Further, the RTGS System Regulations 2013would replace the RTGS (Membership) Business Operating
+Guidelines, 2004 and RTGS (Membership) Regulations, 2004.
+41.National Electronic Fund Transfer (NEFT)
+National Electronic Funds Transfer (NEFT) is a nation-wide payment system maintained by Reserve Bank
+of India (RBI), facilitating one-to-one funds transfer. Under this Scheme, individuals, firms and corporates
+can electronically transfer funds from any bank branch to any individual, firm or corporate having an
+account with any other bank branch in the country participating in the Scheme. Against the principle of
+RTGS which is a Real-Time as well as Gross Settlement system, NEFT settlement happens in batches.
+This website stores data such as
+cokies to enable esential site
+functionalityF, oars b weeinlg a ps amrta orkfe thtineg N, EFT funds transfer network, a bank branch has to be NEFT- enabled. The list of
+personalizabtiaonnk, -awnids ea bnraalyntcichse. sY owuhich are participating in NEFT is provided in the website of Reserve Bank of India.
+may change your setings at any time
+or acept the default setings.
+Individuals, firms or corporates maintaining accounts with a bank branch can transfer funds using NEFT.
+Privacy PolEicvyen such individuals who do not have a bank account (walk-in customers) can also deposit cash at the
+NEFT-enabled branches with instructions to transfer funds using NEFT. However, such cash remittances
+Marketing
+will be restricted to a maximum of Rs.50,000/- per transaction. Such customers have to furnish full details
+Persinonclauldiziantgio ncomplete address, telephone number, etc. NEFT, thus, facilitates originators or remitters to
+initiate funds transfer transactions even without having a bank account.
+Analytics
+Save Acept Al
+  
+Page38
+Page 38
+Individuals, firms or corporates maintaining accounts with a bank branch can receive funds through the
+NEFT system. It is, therefore, necessary for the beneficiary to have an account with the NEFT enabled
+destination bank branch in the country.
+The NEFT system also facilitates one-way cross-border transfer of funds from India to Nepal. This is
+known as the Indo-Nepal Remittance Facility Scheme. A remitter can transfer funds from any of the
+NEFT-enabled branches in to Nepal, irrespective of whether the beneficiary in Nepal maintains an
+account with a bank branch in Nepal or not. The beneficiary would receive funds in Nepalese Rupees.
+Limit on the amount that could be transferred using NEFT – No. There is no limit – either minimum or
+maximum – on the amount of funds that could be transferred using NEFT. However, maximum amount
+per transaction is limited to Rs.50,000/- for cash-based remittances within India and also for remittances
+to Nepal under the Indo-Nepal Remittance Facility Scheme.
+Operating hours of NEFT - Unlike Real-time gross settlement (RTGS), fund transfers through the NEFT
+system do not occur in real-time basis. NEFT settles fund transfers in half-hourly
+batches with 23 settlements occurring between 8:00 AM and 7:00 PM on week days. Transfers initiated
+outside this time period are settled at the next available window. No settlements are made on the second
+and fourth Saturday of the month or on Sundays.
+Process of NEFT system - An individual / firm / corporate intending to originate transfer of funds through
+NEFT has to fill an application form providing details of the beneficiary (like name of the beneficiary,
+name of the bank branch where the beneficiary has an account, IFSC of the beneficiary bank branch,
+This website stores data such as
+account type and account number) and the amount to be remitted. Customers enjoying net banking
+cokies to efancaibliltey eosffseernetdia bl ysi tteheir bankers can also initiate the funds transfer request online. Some banks offer the
+functionalityN, EasF Tw efalc ailsit ym eavrekent tinhgro,ugh the ATMs.
+personalization, and analytics. You
+may change your setings at any time
+or acept the default setings.
+The originating bank branch prepares a message and sends the message to its pooling centre (also
+called the NEFT Service Centre). The pooling centre forwards the message to the NEFT Clearing Centre
+Privacy Pol(icoyperated by National Clearing Cell, Reserve Bank of India, Mumbai) to be included for the next available
+batch.
+Marketing
+Personalization
+AnalTyhtices Clearing Centre sorts the funds transfer transactions destination bank-wise and prepares accounting
+entries to receive funds from the originating banks (debit) and give the funds to the destination banks
+Save Acept Al
+  
+P 39
+Page 39
+(credit). Thereafter, bank-wise remittance messages are forwarded to the destination banks through their
+pooling centre (NEFT Service Centre).
+Finally, the destination banks receive the inward remittance messages from the Clearing Centre and pass
+on the credit to the beneficiary customers’ accounts.
+IFSC- IFSC or Indian Financial System Code is an alpha-numeric code that uniquely identifies a bank-
+branch participating in the NEFT system. This is an 11 digit code with the first 4 alpha characters
+representing the bank, and the last 6 characters representing the branch. The 5th character is 0 (zero).
+IFSC is used by the NEFT system to identify the originating / destination banks / branches and also to
+route the messages appropriately to the concerned banks / branches.
+Acknowledgement by SMS - In case of successful credit to the beneficiary's account, the bank which had
+originated the transaction is expected to send a confirmation to the originating customer (through SMS or
+e-mail) advising of the credit as also mentioning the date and time of credit. For the purpose, remitters
+need to provide their mobile number / e-mail-id to the branch at the time of originating the transaction.
+Tracking an NEFT transaction - The remitter can track the NEFT transaction through the originating bank
+branch or its CFC using the unique transaction reference number provided at the time of initiating the
+funds transfer. It is possible for the originating bank branch to keep track and be aware of the status of
+the NEFT transaction at all times.
+Benefits of using NEFT:
+This website stores data such as
+cokies to eNnEaFbTle oefsfesresn mtiaal nsyit eadvantages over the other modes of funds transfer:
+functionality, as wel as marketing,
+personalization, and analytics. You
+may change your setings at any time
+or acept the defaTuhlte s eretminigttse.r need not send the physical cheque or Demand Draft to the beneficiary. The
+beneficiary need not visit his / her bank for depositing the paper instruments.
+Privacy Policy
+Marketing
+The beneficiary need not be apprehensive of loss / theft of physical instruments or the likelihood of
+Personalization
+fraudulent encashment thereof.
+Analytics
+Cost effective.
+Save Acept Al
+  
+P 40
+Page 40
+Credit confirmation of the remittances sent by SMS or email.
+Remitter can initiate the remittances from his home / place of work using the internet banking also.
+Near real time transfer of the funds to the beneficiary account in a secure manner.
+NEFT has gained popularity due to its saving on time and the ease with which the transactions can be
+concluded. Introduction of Immediate Payment Services (IMPS) by 41.National Payments Corporation of
+India (NPCI), which is gaining popularity reduces the burden on NEFT systems at RBI.
+National Payments Corporation of India (NPCI) – Its Products & Services
+National Payments Corporation of India (NPCI), is the umbrella organisation for all retail payment systems
+in India, which aims to allow all Indian citizens to have unrestricted access to e-payment services.
+Founded in 2008, NPCI is a not-for-profit organisation registered under section 8 of the Companies Act
+2013. The organisation is owned by a consortium of major banks,[3] and has been promoted by the
+country’s central bank, the Reserve Bank of India. Its recent work of developing Unified Payments
+Interface aims to move India to a cashless society with only digital transactions.
+It has successfully completed the development of a domestic card payment network called RuPay,
+reducing the dependency on international card schemes. The RuPay card is now accepted at all the
+ATMs, Point-of-Sale terminals and most of the online merchants in the country. More than 300
+cooperative banks and the Regional Rural Banks (RRBs) in the country have also issued RuPay ATM
+cards.
+This website stores data such as
+cokies to enable esential site
+More than 250 million cards have been issued by various banks, and it is growing at a rate of about
+functionality, as wel as marketing,
+personalization, and analytics. You
+may change your setings at any time
+3 million per month. A variant of the card called ‘Kisan Card’ is now being issued by all the Public
+or acept the default setings.
+Sector Banks in addition to the mainstream debit card which has been issued by 43 banks. RuPay cards
+are also issued under the Jan Dhan Yojana scheme.
+Privacy Policy
+Marketing
+NPCI has taken over NFS (National Financial Switch) operations from 14 December 2009 from IDRBT.
+PersMoneamlibzeatrisohnip regulations and rules are being framed for enrolling all banks in the country as members so
+that when the nationwide payment systems are launched, all would get included on a standardized
+Analytics
+platform.
+Save Acept Al
+  
+P 41
+Page 41
+The key products of NPCI are:
+National Financial Switch (NFS) which connects 1, 98, 953 ATMs of 449 banks (91 Member Banks, 358
+Sub- Member). Immediate Payment Service (IMPS) provided to 84 member banks, with more than 8.49
+crore MMID (Mobile Money Identifier) issued, and crossed 10 million transactions.
+National Automated Clearing House (NACH) - has close to 400 banks on board. Aadhaar Payments
+Bridge System (APBS) has more than 358 banks. Cheque Truncation System (CTS)
+has fully migrated in 3 grids - southern, western & northern grids from MICR centres. Aadhaar-enabled
+payment system (AEPS) - has 36 member banks. RuPay – Domestic Card Scheme- has issued over 20
+crore cards and enabled 10, 70, 000 PoS terminals in the country. The newest and most advanced
+addition to the NPCI revolution is the Unified Payments Interface (UPI) which has been launched on 11
+April 2016.
+RuPay PaySecure - Over 20 banks now offer this authentication mechanism to their RuPay cardholders.
+The new transaction flow of Card + OTP has infused more simplicity to cardholders. More than 70,000
+merchants accept Rupay cards online. RuPay PaySecure is live on 10 acquiring banks which includes
+Union Bank of India, Kotak Mahindra Bank, Citi Bank, ICICI Bank, HDFC Bank, State Bank of India, IDBI
+Bank, IndusInd Bank, Bank of Baroda and Bank of India.
+42. Debit Cards known as check cards. It operates like cash or a personal check. Debit cards are
+different from credit cards. Credit card is a way to “Pay Later” whereas debit card is a way to “Pay Now.”
+In case of debit card, bank account of the customer will be debited immediately on completion of
+This website stores data such as
+transaction. Debit cards are accepted at many locations, including retail stores, petrol pumps, and
+cokies to erensatbaleu reasnstes.n Ttiahle s liitbeeralized norms coupled with ease of usage have led to increase debit card base over
+functionalityth, aes y weaerls a. sO mf laartkee, tbinagn,ks are consciously driving the customers to alternate delivery channels by issuing
+personalizadtieobni,t acnadrd asn oanly ttihces. dYaoyu of opening of the account itself to reduce the work load and to enable them to pay
+may changefo ycouusre sde attitnegnst ioatn a onny ctiomree banking activities. In order to make Credit/Debit Card transactions more secure,
+or acept thReB dIe mfaaunlt dsaettetidn gtsh.e card holders to enter PIN while transacting at POS terminals. As per recent RBI
+guidelines, all banks are mandated to issue only Chip enabled Cards w.e.f.01.10.16.
+43.Credit Cards: The concept of credit card was used in 1950 with the launch of charge cards in USA by
+Diners Club and American Express. Credit card became more popular with use of magnetic strip in 1970.
+Privacy Policy
+The first Credit Card was issued in 1981 and Gold Card in 1986 by VISA. Credit cardholder need not
+Markceatrinryg cash and purchase goods and services at any approved Merchant Establishments/Point of sale
+Terminals by tendering the card duly signing the charge slip. Further, cardholders can make online
+Perspounraclhizaastieosn through internet using the card and PIN. Added to this, cardholder can withdraw cash at any
+ATM across the globe. However, cash advance attracts charge i.e. transaction fee as well as service
+Analytics
+fee/interest charge.
+Save Acept Al
+  
+Page 42
+44 Charge Card is like any Credit or Debit Card. These cards neither offer revolving credit like the Credit
+Card nor debit the account instantaneously like Debit Card. However, the cardholder is required to settle
+the bill in full by the due date each month. Charge cards make a good option to develop financial
+discipline which likely to enable the cardholders to improve their credit history. Further, charge card offers
+a dynamic limit, while rewarding good payment record.
+45 Prepaid Card looks like a credit card and works like a debit card. These cards resemble credit and
+debit cards in appearance and allow users to load any amount up to ?100000/- and can be used at any
+ATM/Point of Sale Terminal. On use of card, funds are directly debited from the card. Cardholders
+preload the cards with funds via a cash deposit or wire transfer. There are no finance fees or interest
+payments as charges are deducted from the prepaid balance. It is an opportunity for people who have
+had little or no access to the mainstream financial system by loading funds onto a prepaid card. It is a
+secure and convenient alternative to cash. The issuers of prepaid cards should ensure KYC compliance
+while issuing cards to the customers/public. Various types of Prepaid Cards are – Re-loadable Cards
+(value is replenished once it is used), Disposable Cards (discarded once the value is used), Closed Cards
+can be used for a specific purpose (Phone Cards) and Open Cards (multi-purpose). Re-loadable cards
+are most popular among “under-banked” individuals, or those who tend not to possess conventional bank
+accounts.
+46 Gift Card is one of the paperless payment systems and is highly popular in card industry. It is a card
+with predetermined
+limit and value is loaded through cash or transfer from the account. Maximum value of each prepaid gift
+instrument shall
+not exceed Rs.10000/-.However, these instruments shall not be reloadable.
+47 Forex Card: It is similar to a normal prepaid card with a special feature meant for the students going
+to abroad for higher studies. It can be used at POS terminals, ATMs and for online transactions. Parents
+can load/reload the card using the login credentials issued while buying the card. The banks are levying
+reasonable charges for cash withdrawal and some banks waiving the charges too. Another advantage of
+the card is that it can be used to pay fees instead of paying through wire transfer from India. The
+withdrawals or payments are allowed in five currencies viz., USD,GBP, EUR, CAD and AUD. The card
+validity ranges up to five years and the maximum permissible limit by RBI under Liberalized Remittance
+Scheme is $2.50 lakh. At present, ICICI and HDFC banks are issuing forex cards and other banks may
+follow.
+47RuPay Debit Cards: It is a domestic card payment network established by National Payment
+Corporation of India (NPCI) having more than 100 Banks in India as members with its ATM network
+spread across the country. These cards can be used at all ATMs of NPCI network and POS terminals &
+e-com transactions (Internet) enabled for RuPay acquiring. The various types of RuPay Debit cards are
+as under:
+Card Type Meant for
+RuPay Kisan Farmers availing Agriculture production loans (Crop Loans)
+This website stores data such as
+RuPay Aadhaar Beneficiaries of Electronic Benefit Transfer (EBT) scheme
+cokies to enable esential site
+RuPay Debit Beneficiaries under Financial Inclusion schemes
+functionality, as wel as marketing,
+It provides accidental insurance cover up to ?1 lakh without any charge to the customer. To avail this
+personalization, and analytics. You
+benefit, the card must be used minimum once in 90 days. The existing identification modes used in new
+may change your setings at any time
+delivery channels has a major drawback as it recognize the PIN but not the person. Sometimes, it leads
+or acept thtoe idmepfaeurlst osneattiinogns .and may cause financial loss. To overcome the problem, biometric technologies such as
+Fingerprint Recognition, Face Recognition, Voice Authentication, Hand Geometry, Retinal Scanning, Iris
+Scanning and Signature Verification have come in to force. Whenever the user access to delivery channel,
+Privacy Poliitc vyerifies with the server and deliver the service if found correct. Recently, NPCI introduced two variants
+of cards viz., Rupay Platinum and Rupay Select with value added features at competitive interchange fee
+Markceotminpgared to VISA/Master.
+Personalization
+Analytics
+Save Acept Al
+  
+Page 43
+48.NPCI service portfolio now and in the near future include:
+National Financial Switch (NFS) - network of shared automated teller machines in India. Unified
+Payment Interface (UPI) - Single mobile application for accessing different bank
+accounts
+BHIM App - Smartphone app built using UPI interface.
+Immediate Payment Service (IMPS) - Real time payment with mobile number. *99# -
+mobile banking using USSD
+National Automated Clearing House (NACH)-
+Cheque Truncation System -online image-based cheque clearing system
+Aadhaar Payments Bridge System (APBS) -
+Bharat Bill Payment System (BBPS) - integrated bill payment system
+49 IMPS (Immediate Payment Services)
+Immediate Payment Service (IMPS) is an instant real-time inter-bank electronic funds transfer system
+in India. IMPS offers an inter-bank electronic fund transfer service through mobile phones. Unlike
+NEFT and RTGS, the service is available 24/7 throughout the year including bank holidays. When one
+initiates a fund transfer via IMPS, the initiator bank sends a message to IMPS, which debits the money
+and sends it to the receiving account. All this happens within 5-10 seconds.
+This website stores data such as
+IMPS is an innovative real time payment service that is available round the clock. This service is offered
+cokies to enable esential site
+by National Payments Corporation of India (NPCI) that empowers customers to transfer money instantly
+functionality, as wel as marketing,
+through banks and RBI authorized Prepaid Payment Instrument Issuers (PPI) across India.
+personalization, and analytics. You
+may change your setings at any time
+or acept the default setings.
+Benefits of IMPS
+Privacy Policy
+Marketing Instant
+Personalization
+Available 24 x7 (functional even on holidays) Safe and
+Analytics
+secure, easily accessible and cost effective
+Save Acept Al
+  
+Page 44
+Channel Independent can be initiated from Mobile/ Internet / ATM channels
+Debit & Credit Confirmation by SMS to both sender and receiver
+49. National Unified USSD Platform (NUUP):
+NUUP (National Unified USSD Platform) is a USSD based mobile banking service from NPCI that
+brings together all the Banks and Telecom Service Providers. In NUUP, a customer can access
+banking services by just pressing *99# from his/her mobile phones. This service works across all
+GSM mobile handsets.
+IMPS transactions can be sent and received 24X7, (round the clock), including on holidays. Both sender
+& receiver get SMS confirmation.
+For using IMPS on mobile phones, a customer will have to register for mobile banking with his/her
+individual bank. However, for initiating IMPS using Bank branch, Internet banking and ATM channels, no
+prior Mobile banking registration is required. Both banked as well as un-banked customer can avail IMPS.
+However, unbanked customer can initiate IMPS transaction using the services of Pre-Paid Payments
+instrument issuer (PPI). MMID - Mobile Money Identifier is a 7 digit number, issued by banks. MMID is
+one of the input which when clubbed with mobile number facilitates fund transfer. Combination of Mobile
+no. & MMID is uniquely linked with an Account number and helps in identifying the beneficiary details.
+Different MMID’s can be linked to same Mobile Number. (Please contact your bank for getting the MMID
+issued)
+Options available for a customer for doing IMPS transaction
+This website stores data such as
+cokies to enable esential site
+• Using Beneficiary Mobile no. and MMID
+functionality, as • w elUl assin mg aBrkeenteinfigc,iary Account no. and IFS Code
+personalization, and analytics. You
+may change yo•ur seUtsininggs Baet naenfyic tiiamrye Aadhaar Number
+or acept the default setings.
+Privacy Policy
+Bharat Interface for Money (BHIM)
+Marketing
+Personalization
+Bharat Interface for Money (BHIM) is an app that lets you make simple, easy and quick payment
+Analytics
+transactions using Unified Payments Interface (UPI). You can make instant bank-to-bank payments and
+SavePay and colAlecct empotn Aelyl using just Mobile number or Virtual Payment Address (VPA).
+  
+Page 45
+The following are the features of BHIM:
+1. Send Money: User can send money using a Virtual Payment Address (VPA), Account Number &
+IFSC, Aadhaar Number or QR code.
+2. Request Money: User can collect money by entering Virtual Payment Address (VPA). Additionally
+through BHIM App, one can also transfer money using Mobile No. (Mobile No should be
+registered with BHIM or *99# and account should be linked)
+3. Scan & Pay: User can pay by scanning the QR code through Scan & Pay & generate your QR
+option is also present.
+4. Transactions: User can check transaction history and also pending UPI collect requests (if any)
+and approve or reject. User can also raise complaint for the declined transactions by clicking on
+Report issue in transactions.
+5. Profile: User can view the static QR code and Payment addresses created or also share the QR
+code through various messenger applications like WhatsApp, Email etc. available on phone and
+download the QR code.
+6. Bank Account: User can see the bank account linked with his/her BHIM App and set/change the
+UPI PIN. User can also change the bank account linked with BHIM App by clicking Change
+account provided in Menu and can also check Balance of his/her linked Bank Account by clicking
+“REQUEST BALANCE”
+7. Language: Up to 8 regional languages (Tamil, Telugu, Bengali, Malayalam, Oriya, Gujarati,
+Kannada ,Hindi) available on BHIM to improve user experience.
+8. Block User: Block/Spam users who are sending you collect requests from illicit sources.
+9. Privacy: Allow a user to disable and enable mobilenumber@upi in the profile if a secondary VPA
+is created (QR for the disabled VPA is also disabled).
+This website stores data such as
+cokies to enable esential site
+functionality*,* BasH wIMe lAl aPsP m isa rakveatiinlagb,le in play store (for android User) and App Store (for Apple User)**
+personalization, and analytics. You
+50. Bharat QR
+may change your setings at any time
+or acept the default setings.
+In a major push for seamless cashless transactions, Govt. of India has launched Bharat QR Code, which
+Privacy Policy
+is world’s first interoperable payment platform. National Payments Corporation of India (NPCI), which is
+the umbrella organisation for all digital and online retail payment systems in India, has developed this
+Marketing
+platform, which is expected to inspire and encourage more digital payments, without using debit or credit
+Personalization
+card.
+Analytics
+Save Acept Al
+  
+Page 46
+QR Codes are black and white two-dimensional machine readable code, which stores information about
+the merchant’s bank accounts and URLs. With Bharat QR Code interface, merchants need to take a
+printout of their QR code (or have a soft copy) and show it to the consumer, who can simply scan the
+code using his or her smartphone, and the payment would be made. Instantly, seamlessly and without
+any hassles.
+We had reported last year that Govt. is considering to create a common QR Code based payment
+mechanism, which has now been officially launched. The Retail industry is excited by its possibilities
+because QR code-based payments solves two major problems in a single go: a) less time consumed to
+make the payment, compared to debit/credit card b) no requirement to actually flash your credit/debit
+cards for making the payment.
+Here are some interesting facts about Bharat QR Code payment system, which every debit/credit holder
+(who is also a bank account holder) should be aware of:
+51.Smart Cards
+The smartcards have increased data security, an active anti-fraud capabilities, multipurpose capabilities,
+flexibility in applications, and off-line validation. These functions are more or less inter-related but the
+most important of all is the high level of security provided by the smartcard compared to the other type of
+cards in operation. This makes it possible the use the smart cards in transactions dealing with money,
+property and personal data.
+The Reserve Bank of India has set a target for banks to upgrade all ATMs by September 2017 with
+additional safety measures to process EMV chip and PIN cards in order to prevent skimming and cloning
+of debit and credit cards.
+While the POS terminal infrastructure in the country has been enabled to accept and process EMV chip
+and PIN cards, the ATM infrastructure continues to process the card transactions based on data from the
+This website stores data such as
+cokies to emnaagbnlee etics ssetnrtipiael .s iAtes a result, the ATM card transactions remain vulnerable to skimming, cloning, etc.
+frauds, even though the cards are EMV chip and PIN based.
+functionality, as wel as marketing,
+personalization, and analytics. You
+It has become necessary to mandate EMV (Europay, MasterCard, Visa) chip and PIN card acceptance
+may change your setings at any time
+and processing at ATMs also. Contact chip processing of EMV chip and PIN cards at ATMs would not
+or acept the default setings.
+only enhance the safety and security of transactions at ATMs but also facilitate preparedness of the
+banks for the proposed “EMV Liability Shift” for ATM transactions, as and when it comes into effect.
+Privacy Policy
+Further, in order to ensure uniformity in card payments ecosystem, banks should also implement the new
+Markreeqtinugirements at their micro-ATMs which are enabled to handle card-based payments.
+Personalization
+Analytics
+Save Acept Al
+  
+Page 47
+53.CVV OR CSC NUMBER
+The CVV Number ("Card Verification Value") on credit card or debit card is a 3 digit number on VISA,
+MasterCard and Discover branded credit and debit cards. On American Express branded credit or debit
+card it is a 4 digit numeric code.
+The CVV number can be located by looking on credit or debit card, as illustrated in the image below:
+Providing the CVV number to an online merchant proves that one actually has the physical credit or debit
+card - and helps to keep one safe while reducing fraud.
+CVV numbers are NOT the card's secret PIN (Personal Identification Number).
+One should never enter one’s PIN number when asked to provide the CVV. (PIN numbers allow one to
+use one’s credit or debit card at an ATM or when making an in-person purchase with debit card or a cash
+advance with any credit card.)
+CVV numbers are also known as CSC numbers ("Card Security Code"), as well as CVV2 numbers, which
+are the same as CVV numbers, except that they have been generated by a 2nd generation process that
+makes them harder to "guess".
+In 2016, a new e-commerce technology called Motioncode was introduced, designed to automatically
+refresh the CVV code to a new one every hour or so.
+54.ATM & POINT OF SALE (POS)
+ATM (Automated Teller Machine) A typical ATM could duplicate most of the services of a live teller;
+deposits, withdrawals, and money transfers between accounts all could be made with relative ease. More
+significantly, the terminals could be located outside the bank lobby, allowing 24 hour access and greater
+customer convenience. For the banks ATM’s became mini-branches that extended their financial territory
+and customer base far beyond physical buildings. As a result, many ATMs rapidly found homes inside
+major retail outlets, convenience stores, gas stations, and other highly trafficked locations, a situation
+This websitwe esltcooremse dda btay sbuucshin aessses because it provided instant cash for customers.
+cokies to enable esential site
+functionalityW, ahsit ew lealb aesl AmTaMrkse tainreg ,those ATMs which do not belong to any bank but managed by a non-banking entity,
+personalizaeti.ogn.,, Iannddic aansahl,y Itnicdsi.a Y-1o uATM, Prism Payment Services.
+may change your setings at any time
+or acept thHeo dweefavuelrt, sAeTtMing’ss w. ould not be the final solution to the common electronic goal, because they still involved
+the use of paper money. Yet, in a second generation machine called a Point of Sale terminal (POS), the
+prospect of having a truly cashless society suddenly took a giant leap forward. The potential of POS for
+Privacy Policy
+achieving a totally automated economy was enormous. It was logical to assume that if the capability
+existed for electronic banking to the extent of obtaining cash out of an account using a networked ATM
+Marketing
+system, then the technology also must be ripe for eliminating the need for physical money altogether.
+PersPoOnaSli zteartmioinnals were seen as a key ingredient in the transition to this goal.
+Analytics
+Save Acept Al
+  
+Page 48
+A point of sale terminal (POS terminal) is an electronic device used to process card payments at retail
+locations. . Point of sale terminals are a combination of software and hardware that allows retail locations
+to accept card payments without updating their cash registers to read cards directly. The costs of
+installing POS terminals vary with the size of the business and the terms from the supplier. Small
+merchants may have to pay rent for the terminal, as well as pay an additional per-transaction fee.
+The trend is away from the traditional use of just magnetic stripe reader as more options open up for
+mobile payments.
+A POS terminal generally does the following:
+Reads the information off a customer’s credit or debit card
+Checks whether the funds in a customer’s bank account are sufficient
+Transfers the funds from the customer’s account to the seller’s account (or at least,
+accounts for the transfer with the credit card network)
+Records the transaction and prints a receipt
+Despite the more advanced technology of a POS system as compared to a simple cash register, the POS
+system is still as vulnerable to employee theft through the sale window. A dishonest cashier at a retail
+outlet can collude with a friend who pretends to be just another customer. During checkout the cashier
+can bypass scanning certain items or enter a lower quantity for some items thus profiting thereby from the
+"free" goods.
+With the launch of mobile payment particularly Android Pay and Apple Pay both in 2015, it is expected
+that because of its greater convenience coupled with good security features, this would eventually eclipse
+other types of payment services - including the use of payment terminals. However, for mobile payment to
+This website stores data such as
+cokies to egnoa fbullely e msaeinnstitarle saitme, mobile devices like smartphones that are NFC-enabled must first become universal.
+functionalityN, FasC w(enlel aars mfiealrdk ectionmg,munication) is the technology that allows two devices—like your phone and a
+personalizaptiaoynm, aenndts a tnearmlytiincas.l— Yotou talk to each other when they're close together. NFC is the technology that enables
+may changeco ynotuarc tsleestsin pgas yamt aennyts t.ime
+or acept the default setings.
+Electronic funds transfer at point of sale (EFTPOS) is an electronic payment system involving electronic
+funds transfers based on the use of payment cards, such as debit or credit cards, at payment terminals
+Privacy Polliocycated at points of sale. EFTPOS is highly popular in Australia and New Zealand, and being used in NZ
+for about 60% of all retail transactions.
+Marketing
+Personalization
+Analytics
+Save Acept Al
+  
+p y g p
+Page 49
+Latest Trends in eCommerce
+A key outcome of the technology revolution in India has been connectivity, which has fuelled
+unprecedented access to information. Millions of people who had little means to join the national
+discourse can now gain new insights into the world around them. Farmers know crop prices. Consumers
+understand global standards of product and service quality. Rural Indians recognise the differences
+between the opportunities available to them and those available to their urban counterparts. And citizens
+have a mass forum for expressing their political opinions. The upshot of this connectivity revolution has
+been empowerment of Indians.
+An analysis of the demographic profile of internet users further testifies that eCommerce will rise rapidly in
+India in coming years. Around 75% of Indian internet users are in the age group of 15 to 34 years. This
+category shops more than the remaining population. Peer pressure, rising aspirations with career growth,
+fashion and trends encourage this segment to shop more than any other category and India, therefore,
+clearly enjoys a demographic dividend that favours the growth of eCommerce. In coming years, as
+internet presence increases in rural areas, rural India will yield more eCommerce business
+Mobile to be the most influential aspect of eCommerce -With mobile apps being developed by most
+eCommerce websites, smartphones are increasingly replacing PCs for online shopping. In 2013, only
+10% of the mobile users used smartphones, and only 5% of the eCommerce transactions were made
+through a mobile device. This figure has more than doubled, and more than 13% of all eCommerce
+transactions today happen via mobile3. According to some industry players, over 50% of the orders are
+being placed through mobile apps, which is not only leading to substantial customer acquisition but also
+building customer loyalty for various brands. However, most mobile transactions so far are for
+entertainment, such as booking movie tickets and music downloads. This trend will change soon with
+more and more merchandise being ordered online.
+More business coming from smaller towns - eCommerce is increasingly attracting customers from Tier 2
+and 3 cities, where people have limited access to brands but have high aspirations. According to
+This websiteeC sotomremse draceta c soumchp aansies, these cities have seen a 30% to 50% rise in transactions.
+cokies to enable esential site
+functionality, as wel as marketing,
+personalization, and analytics. You
+Enhanced shopping experience - Besides general online shopping, customers are also shopping online
+may change your setings at any time
+for weddings and festivals, thanks to wider range of products being offered and aggressive
+or acept the default setings.
+advertisements. The free and quick shipment and wider choice of products, along with the ease of
+Privacy Policy
+shopping online as compared to in-store shopping, is also helping eCommerce gather momentum.
+Marketing
+PersFounrathlizear,t ieoCnommerce companies are doing rapid business due to sales.
+AnalEyxticcslusive partnerships with leading brands - Over the year or so, there has been a trend of exclusive tie-
+ups between eTailers and established boutiques, designers, and high-end lifestyle and fashion brands.
+SaveFor instanceA,c cJeapbot nAgl added international fashion brands such as Dorothy Perkins, River Island, Blue
+  
+p y @g p
+Page 50
+saint and Miss Selfridge, along with local fashion brands through Jabong Boutiques. Similarly, Myntra
+benefited from exclusive tie-ups with brands such as Harvard Lifestyle, Desigual and WROGN from Virat
+Kohli.
+Expanding the product basket - There is a recent trend of relatively newer products such as grocery,
+hygiene, and healthcare products being purchased online. Similarly, lingerie and Indian jewellery has also
+been in great demand among customers outside India. Export comprises 95% of cross-border
+eCommerce, with the US, UK, Australia, Canada and Germany being the major markets.
+Innovation in online business models
+To get the maximum benefit from eCommerce business, a large number of companies such as Amazon,
+Alibaba etc. are adopting different innovative ideas and operating models including partnering with online
+marketplaces or setting up their own online stores. Some key operating models include the following:
+• Marketplace and pick-up & drop is a model where sellers often partner with leading marketplaces
+to set up a dedicated online store on the latter’s website. Here sellers play a key role of managing
+inventory and driving sales. They leverage on high traffic on the marketplaces’ website and
+access their distribution network. However, the sellers have limited say on pricing and customer
+experience.
+• Self-owned inventory is a model where the eCommerce player owns the inventory. The model
+provides better post-purchase customer experience and fulfilment. It provides smoother
+operations due to ready information on the inventory, location, supply chain and shipments,
+effectively leading to better control over inventory. On the flipside, however, there are risks of
+potential mark downs and working capital getting tied up in inventory.
+• Private label reflects a business where an eCommerce company sets up its own brand goods,
+which it sells through its own website. This model offers a wide-ranging products and pricing to its
+customers and competes with branded labels. Here, margins are typically higher than third-party
+branded goods.
+This website stores data such as
+cokies to enable esential site
+functionality, as• w elWl ahsi tme alarkbeetiln ign,volves the setting up of a branded online store managed by the eCommerce player
+personalization, ando ra naa ltyhtiircds . pYaoruty. The brand takes the responsibility of generating website traffic and providing
+services by partnering with payment gateways. It helps build trust, customer affinity and loyalty
+may change your setings at any time
+and provides better control of brand and product experience.
+or acept the default setings.
+54.SMS BANKING & BANKING ALERTS
+Privacy Policy
+Marketing
+SMS banking is a form of mobile banking. It is a facility used by some banks or other financial institutions
+Perstoon saelinzda tmioenssages (also called notifications or alerts) to customers' mobile phones using SMS messaging,
+or a service provided by them which enables customers to perform some financial transactions using
+Analytics
+SMS.
+Save Acept Al
+  
+p y @g p
+Page 51
+SMS banking services may use either push and pull messages. Push messages are those that a bank
+sends out to a customer's mobile phone, without the customer initiating a request for the information.
+Typically, a push message could be a mobile marketing message or an alert of an event which happens
+in the customer's bank account, such as a large withdrawal of funds from an ATM or a large payment
+involving the customer's credit card, etc. It may also be an alert that some payment is due, or that an e-
+statement is ready to be downloaded.
+Another type of push message is one-time password (OTPs). OTPs are the latest tool used by financial
+institutions to combat cyber fraud. Instead of relying on traditional memorized passwords, OTPs are sent
+to a customer's mobile phone via SMS, who are required to repeat the OTP to complete transactions
+using online or mobile banking. The OTP is valid for a relatively short period and expires once it has been
+used.
+Bank customers can select the type of activities for which they wish to receive an alert. The selection can
+be done either using internet banking or by phone.
+Pull messages are initiated by the customer, using a mobile phone, for obtaining information or
+performing a transaction in the bank account. Examples of pull messages include an account balance
+enquiry, or requests for current information like currency exchange rates and deposit interest rates, as
+published and updated by the bank. Depending on the selected extent of SMS banking transactions
+offered by the bank, a customer can be authorized to carry out either non-financial transactions, or both
+and financial and non-financial transactions. SMS banking solutions offer customers a range of
+functionality, classified by push and pull services as outlined below.
+Typical push services would include:
+periodic account balance reporting (say at the end of month);
+This website stores rdeaptoar tsinugch o fa ssalary and other credits to the bank account;
+cokies to enable esential site
+functionality, as wel as marketing,
+personalization, ands uacncaelystsicfus.l oYro uun-successful execution of a standing order;
+may change your sestuticncgess astf ualn pya tyimmeent of a cheque issued on the account;
+or acept the default setings.
+insufficient funds;
+Privacy Policy
+large value withdrawals on an account;
+Marketing
+large value withdrawals on the ATM or EFTPOS on a debit card;
+Personalization
+Analytics
+large value payment on a credit card or out of country activity on a credit card. one-
+Save timeA pcacsespwt oArldl and authentication
+  
+  
+Page 52
+an alert that some payment is due
+an alert that an e-statement is ready to be downloaded.
+Typical pull services would include:
+Account balance enquiry; Mini statement request; Electronic bill payment;
+Transfers between customer's own accounts, like moving money from a savings account to a
+current account to fund a cheque;
+Stop payment instruction on a cheque;
+Requesting for an ATM card or credit card to be suspended;
+De-activating a credit or debit card when it is lost or the PIN is known to be
+compromised;
+Foreign currency exchange rates enquiry;
+Fixed deposit interest rates enquiry
+Security concerns in SMS Banking
+The lack of encryption on SMS messages is an area of concern that is often discussed. This concern
+sometimes arises within the group of the bank’s technology personnel, due to their familiarity and past
+experience with encryption on the ATM and other payment channels. The lack of encryption is inherent to
+the SMS banking channel and several banks that use it have overcome their fears by introducing
+compensating controls and limiting the scope of the SMS banking application to where it offers an
+advantage over other channels.
+This website stores data such as
+cokies to enable esential site
+functionality, as wel as marketing,
+personalizaStiuonp,p aliendrs a onfa SlyMticSs .b Yaonuking software solutions have found reliable means by which the security concerns
+may changec ayno ubre s eatdtindgress aste adn. yT tyimpiecally the methods employed are by pre-registration and using security tokens
+or acept thweh deerefa tuhlte s teratninsgasc.tion risk is perceived to be high.
+Privacy Policy
+Most online banking platforms are owned and developed by the banks using them. There is only one
+open source online banking platform supporting mobile banking and SMS payments called Cyclos, which
+Marketing
+is developed to stimulate and empower local banks in development countries.
+Personalization
+Analytics
+Save Acept Al
+  
+  
+Page 53
+SMS & Email Alerts in Banking
+This is a very useful facility that sends customer information on customer’s banking transactions. The
+alerts are either event based or frequency based. When register for certain alerts they are sent to
+customer either via SMS or email, or both. Some alerts are made mandatory by regulator whereas for
+others they customer may choose as per his requirement. Some banks send email alerts for monthly
+account statements in encrypted pdf format which may be opened using a password only.
+RBI’s has made SMS for clearing cheque transactions mandatory- Expressing concern over the rise in
+cheque-related fraud cases, the Reserve Bank of India (RBI) has made SMS alerts mandatory for such
+transactions since November 2014. Banks now send SMS alerts to both payer and drawer in cheque
+transactions as soon as the instruments are received for clearing.
+56.Bharat Bill Payment System (BBPS)
+Bharat Bill Payment System (BBPS) is an integrated bill payment system in India offering interoperable
+and accessible bill payment service to customers online as well as through a network of agents, enabling
+multiple payment modes, and providing instant confirmation of payment.
+57. National Payments Corporation of India (NPCI) will function as the authorised Bharat Bill Payment
+Central Unit (BBPCU), which will be responsible for setting business standards, rules and procedures for
+technical and business requirements for all the participants. NPCI, as the BBPCU, will also undertake
+clearing and settlement activities related to transactions routed through BBPS. Existing bill aggregators
+and banks are envisaged to work as Operating Units to provide an interoperable bill payment system
+irrespective of which unit has on-boarded a particular biller. Payments may be made through the BBPS
+using cash, transfer cheques, and electronic modes. To start with, the scope of BBPS will cover repetitive
+payments for everyday utility services such as electricity, water, gas, telephone and Direct-to-Home
+(DTH). Gradually, the scope would be expanded to include other types of repetitive payments, like school
+This websit/e u sntoivreerss idtya tfae essu,c mh uasnicipal taxes etc.
+cokies to enable esential site
+Computer Security which is also at times referred to as information security is concerned with three main
+functionality, as wel as marketing,
+areas:
+personalization, and analytics. You
+may change your setings at any time
+1. Confidentiality:- Only authorized users can access the data resources and information.
+or acept the default setings.
+2. Integrity:- Only authorized users should be able to modify the data when needed.
+Privacy Policy
+3. Availability:- Data should be available to users when needed.
+Marketing
+PersEoancahliz oaft itohne above three areas is critical for computer security. Confidentiality deals with prevention of
+data theft such as bank account information, credit card information, passwords etc. Integrity refers to
+Analytics
+prevention of unauthorized data creation, modification or deletion. Last but not the least is availability,
+which ensures that the users are able to access data whenever needed.
+Save Acept Al
+ 
+  
+Page 54
+58.Aadhaar Enabled Payment System
+Background
+In order to further speed track Financial Inclusion in the country, Two Working Group were constituted by
+RBI on MicroATM standards and Central Infrastructure & Connectivity for Aadhaar based financial
+inclusion transactions with members representing RBI, Unique Identification Authority of India, NPCI,
+Institute for Development and Research in Banking Technology and some special invitees representing
+banks and research institutions.
+The working group on MicroATM standards & Central Infrastructure & Connectivity has submitted its
+report to RBI. As a part of the working group it was proposed to conduct a Lab level Proof of concept
+(PoC), integrating the authentication & encryption standards of UIDAI, to test the efficacy of MicroATM
+standards and transactions using Aadhaar before they are put to actual use. The PoC was successfully
+demonstrated at various venues.
+AEPS is a new payment service offered by the National Payments Corporation of India to banks, financial
+institutions using ‘Aadhaar’. This shall be known as ‘Aadhaar Enabled Payment System’ and may also be
+referred to as “AEPS”. AEPS is a bank led model which allows online interoperable financial inclusion
+transaction at PoS (MicroATM) through the Business correspondent of any bank using the Aadhaar
+authentication. Any resident of India holding an Aadhaar number and having a bank account may be a
+part of the Aadhaar Enabled Payment System.
+The customer conducting an AEPS transaction may visit a BC Customer Access Point. The BC using
+the Point of Sale (MicroATM) device will be able to process transactions like Cash Withdrawal, Cash
+Deposit, Balance Enquiry and Fund Transfer by selecting the transaction of their choice. The Customer
+needs to provide their Aadhaar Number and their bank name or bank IIN number.
+IIN number identifies the bank to which the customer has mapped his/her Aadhaar number. Each bank
+This website stores data such as
+cokies to ewnoaubldle ebses eisnstiuael dsi tea unique Issuer Identification Number (IIN) NPCI. This is a six digit number. The
+functionalityc,u asst owmeel ra sse mrvaicrkee ptionign,t will have the IIN number represented on the terminal by various bank logos/ bank
+personalizantiaomn,e asn odr a tnhael yBtiucssi.n Yeosus Correspondent (BC) agent will have a chart displayed of various banks IIN in the
+may changecu ysotuorm seert tsinegrsv iacte a cneyn ttimree. Therefore the customer need not necessarily remember the IIN. It is however
+or acept three cdoemfamulet nsdeetdin tghsa.t the customer be aware of their bank IIN to completely ensure an AEPS transaction.
+Privacy Policy
+The four Aadhaar enabled basic types of banking transactions are as follows:-
+Marketing
+• Balance Enquiry
+Personalization
+• Cash Withdrawal
+Analytics
+• Cash Deposit
+Save Acept Al
+• Aadhaar to Aadhaar Funds Transfer
+ 
+  
+Page 55
+The only inputs required for a customer to do a transaction under this scenario are:-
+• IIN (Identifying the Bank to which the customer is associated)
+• Aadhaar Number
+• Fingerprint captured during their enrollment
+Objectives
+ To empower a bank customer to use Aadhaar as his/her identity to access his/ her respective
+Aadhaar enabled bank account and perform basic banking transactions like balance enquiry,
+Cash deposit, cash withdrawal, remittances that are intrabank or interbank in nature, through a
+Business Correspondent.
+ To sub-serve the goal of Government of India (GoI) and Reserve Bank of India (RBI) in furthering
+Financial Inclusion.
+ To sub-serve the goal of RBI in electronification of retail payments.
+ To enable banks to route the Aadhaar initiated interbank transactions through a central switching
+and clearing agency.
+ To facilitate disbursements of Government entitlements like NREGA, Social Security pension,
+Handicapped Old Age Pension etc. of any Central or State Government bodies, using Aadhaar
+and authentication thereof as supported by UIDAI.
+ To facilitate inter-operability across banks in a safe and secured manner.
+ To build the foundation for a full range of Aadhaar enabled Banking services.
+Services Offered by AEPS
+ Balance Enquiry
+ Cash Withdrawal
+ Cash Deposit
+This website store s Adaadtah asuarc hto a Asadhaar Fund Transfer
+cokies to enable esential site
+ Gateway Authentication Services
+functionality, as wel as marketing,
+personalization, and analytics. You
+may change your setings at any time
+or acept the default setings.
+Privacy Policy
+Marketing
+Personalization
+Analytics
+Save Acept Al
+ 
+  
+Page 56
+Digital Banking Recollected questions:::
+1.CTS abbreviation cheque truncation system
+2. What is firewall?: A software programme for protecting against unauthorized access to the information.
+3.BBPS … Bhatart Bill payment sytem
+4.MDR: merchant discount rate
+5. minimum amount which can be remitted under RTGS by a customer: Minimum Rs. 2 lac and no
+Maximum.
+6.Max amount of NEFT can be remitted ..no limit
+7. AEPS stands for : Aadhar Enabled Payment System.
+8. CPPC stands for : Central Pension Processing Cell.
+9. IBPP stands for : Internet Bill Presentation & Payment.
+10. Rupay Platform refers to: National Payments Corporation of India (NPCI) initiated the launch of
+RuPay card in India. It was
+done with the intention of integration of payment systems in the country. It has led to lower transaction
+cost as
+processing is being done within country. Also, transactions will be faster.
+11. Encryption means: Conversion of plain language into secret language, i.e., coding and The extent of
+coverage under
+12. Maximum RTGS Charge for Rs.2 lac to 5 lac: Rs.25.00 + service tax
+13. Application under ASBA can be applied for: a) IPO b) Right Issue c) Mutual fund
+14. E-sahyog portal:belongs to Income Tax
+15. A Proxy server is for: To provide security against unauthorized users
+16. Phising?: To steal the customers personal / confidential data
+17. In case of failed ATM transaction customer will get money in 7 working days after compliant
+This website stores data such as
+18. CVV: Customer Verification Value
+cokies to enable esential site
+19.NPCI: National Payment Corporation of India.
+functionality, as wel as marketing,
+20. NUUP: National Unified USSD Platform.
+personalization, and analytics. You
+21.IMEI: International Mobile Equipment Identity.
+may change your setings at any time
+22. CVD: Customer Verification Data.
+or acept th2e3 .dSeTfaPu lst tsraeitgtihntg tsh.rough process
+24. . Forward Market Commission is established for:.- Commodity futures
+25. Full form of ALU: Arithmetical Logical Unit
+Privacy Pol2ic6y. Full form of HTTP: Hyper Text Transfer Protocol
+27. Full form of INFINET? Indian Financial Network
+Mark2e8t.i nGgBM: Govt. Business Module
+29. IBPP stands for: Internet Bill Presentation & Payment
+Personalization
+30. IMPS: Immediate Mobile Payment Service - Mobile to account
+31. Starting of a computer is called: Booting
+Analytics
+32. Universal set of standards and guidelines for communication by EDI is called: EDIFACT.
+33. Full form of ISDN: Integrated Services Digital Network.
+Save Acept Al
+34. RTGS amount limit for customers: Min Rs.2 lac and no max
+35. Which bank has max share in INFINO PAYTECH Ltd : ICICI Bank
+ 
+  
+Page 57
+36. USSD: Unstructured Supplementary Service Data.
+37. LAN: Local Area Network
+38. AEPS stands for : Aadhar Enabled Payment System
+39 ATM : Anywhere, anytime,
+40. BCP- Business continuity Plan
+41. First committee on computerization in banks was headed by: Dr C Rangarajan.
+42. In an Organisation communication between the same organization, what type of system applicable:
+Intranet.
+43. In CBS, signatures are loaded through scanning..
+44. WAN: Wide area network
+45.WAN uses ….interconnecting computers at different Geographical locations
+46.CHI : Clearing Housing interface
+47.ECE: electronic clearing system
+48.APB: Aadhaar pay bridge
+49. When in a computer network one network protocol encapsulates a different payload protocol, it is
+called: Tunnel.
+50 Computer Security Day : 30th November
+51. customer’s account should be credited within how many days of the complaint?: 7 working
+52. First step towards computerisation in Banking: Setting up ALPM (Advance Ledger Posting Machine)
+53. CIDR: central identities data repository
+54.BBPCU:Bharat bill payment central unit
+Today Digital banking recollected
+Aeps
+Nach
+Upi
+Virtual keyboard to safegaurd against keylogger
+4 questions on process of chargeback
+Nfc technology and RFID
+Approx 8-10 question on security of POS terminals
+2 que on MDR
+This websitWe shtoaret si sd actaas shu cwh iatshdrawal through pos called
+cokies to enable esential site
+functionality, as wel as marketing,
+personalization, and analytics. You
+may change your setings at any time
+or acept the default setings.
+Many questions were there from BC
+Privacy Policy
+, POS,
+Markoeftfin ugs,
+Persoonna luizsa ttiorannsactions,
+pharming attack,
+Analytics
+phishing attack,
+Save Acept Al
+ATM skimming,
+business risk,
+ 

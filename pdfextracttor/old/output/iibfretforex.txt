@@ -1,0 +1,2160 @@
+SYLLABUS
+1)IntroductiontoFEMA
+a)GenesisofFEMAandrepealofFERA
+b)ComparisonbetweenFEMA1999andFERA1973
+c)ImportantsectionsofFEMA1999anduptodateamendments,schedules-I,
+IIandIII
+d)CompoundingprovisionsunderFEMAandtheeffectofnon-adherenceto
+FEMAprovisions
+2)FacilitiesavailabletoresidentsunderFEMAandtheregulationsthatareapplicabletoIndividuals
+coveringareassuchas
+a)MeaninganddefinitionofresidentinIndia
+b)Foreigntravel
+c)Outwardremittances/advanceremittances/inwardremittances
+d)RefundofinwardremittancesandimportanceAML
+e)Maintenanceofforeigncurrencyaccounts
+f)Permissionsforinvestmentsabroad
+g)Borrowingsinforeigncurrency
+h)Exportofgiftsandforwardcontracts
+I)ForeigncurrencyTCspurchaseandencashment
+j)Internationalcreditcards
+3)Facilitiesavailabletoandregulationsapplicabletonon-residentindividuals
+a)Meaninganddefinitionofnon-residentIndianandForeignnational
+b)Variousschemesfornon-residentIndians
+c)NRE,FCNRandONRaccountschemes
+d)DeductionofTDSforNROaccounts-taxtreaties
+e)Taxhavensandcautionsinhandlingremittances
+f)BorrowingopportunitiesandinvestmentfacilitiesinIndia
+g)Guaranteesbynon-residentsanddepositsotherthanbankdeposits
+h)Riskmanagementfornon-residents
+4)Miscellaneousaspects
+a)Inandoutboundremittances
+b)OpeningofforeigncurrencyandRupeeaccountsinandoutsideIndia
+c)GuidelinesontaxationandTDS
+4
+ 
+Foreign Exchange Management Act (FEMA)
+Main Features of the Foreign Exchange Management Act (FEMA)
+The Foreign Exchange Management Act (FEMA) was an act passed in the winter
+session of Parliament in 1999, which replaced Foreign Exchange Regulation Act. This
+act seeks to make offences related to foreign exchange civil offences. It extends to the
+whole of India.
+The Foreign Exchange Regulation Act (FERA) of 1973 in India was replaced on June
+2000 by the Foreign Exchange Management Act (FERA), which was passed in 1999.
+The FERA was passed in 1973 at a time when there was acute shortage of foreign
+exchange in the country.
+It had a controversial 27 years stint during which many bosses of the Indian corporate
+world found themselves at the mercy of the Enforcement Directorate. Moreover, any
+offence under FERA was a criminal offence liable to imprisonment. But FEMA makes
+offences relating to foreign civil offences.
+FEMA had become the need of the hour to support the pro- liberalisation policies of the
+Government of India. The objective of the Act is to consolidate and amend the law
+relating to foreign exchange with the objective of facilitating external trade and
+payments for promoting the orderly development and maintenance of foreign exchange
+market in India.
+FEMA extends to the whole of India. It applies to all branches, offices and agencies
+outside India owned or controlled by a person, who is a resident of India and also to
+any contravention there under committed outside India by two people whom this Act
+applies.
+5
+ 
+The Main Features of the FEMA:
+The following are some of the important features of Foreign Exchange
+Management Act:
+i. It is consistent with full current account convertibility and contains provisions for
+progressive liberalisation of capital account transactions.
+ii. It is more transparent in its application as it lays down the areas requiring specific
+permissions of the Reserve Bank/Government of India on acquisition/holding of foreign
+exchange.
+iii. It classified the foreign exchange transactions in two categories, viz. capital account
+and current account transactions.
+iv. It provides power to the Reserve Bank for specifying, in , consultation with the
+central government, the classes of capital account transactions and limits to which
+exchange is admissible for such transactions.
+v. It gives full freedom to a person resident in India, who was earlier resident outside
+India, to hold/own/transfer any foreign security/immovable property situated outside
+India and acquired when s/he was resident.
+vi. This act is a civil law and the contraventions of the Act provide for arrest only in
+exceptional cases.
+vii. FEMA does not apply to Indian citizen’s resident outside India.
+6
+ 
+Difference between the FERA and FEMA:
+4 Main Participants of Foreign Exchange Market
+The participants are: 1. Commercial Banks or Market Makers 2. Foreign Exchange
+Brokers 3. Central Banks or Reserve Bank of India 4. Corporates and Entrepreneurs.
+Participant # 1. Commercial Banks or Market Makers:
+Commercial banks are normally taking over the position to support the economy of the
+country by carrying over the foreign currency from one period to another, for meeting
+the future need of the country. They are also sometime making short sale (agree to sell
+or actually sell the foreign currency without any real capacity to sell through or borrow
+the required currency from others) of foreign currency to satisfy the need of firms to
+make payments.
+Later on to bring the position in equilibrium, they quote the rates for buying and selling
+of foreign currency accordingly. As they are buying the foreign currency from the
+customer, the rate they quote for buying the foreign currency is technically named as
+Bid rate. When they sell the foreign currency to customer, the rate they quote is
+technically known as Ask rate.
+Participant # 2. Foreign Exchange Brokers:
+ADVERTISEMENTS:
+7
+ 
+FE brokers do not buy or sell the foreign currency on their own account, as done by
+market makers. They are working as an intermediary between two parties, to satisfy
+their respective needs. As they are working as a bridge between buyers and sellers of
+the foreign currency, they are only earning the fees in the form of brokerage charges.
+Participant # 3. Central Banks or Reserve Bank of India:
+To protect the financial strength and stability of the country’s balance of payments,
+internal money supply, interest rates and inflation, RBI intervenes in the foreign
+exchange markets to protect the disequilibrium in the prices of foreign exchange
+conversion.
+Participant # 4. Corporates and Entrepreneurs:
+Corporate are the players in the FE market, to satisfy their need of payment in foreign
+currency towards imports of goods, commodities and services. On the opposite way,
+they need to convert foreign currency in home currency on account of export of goods,
+commodities, and services. The need of conversion also happens on account of
+transactions in financial markets across the globe, for loan disbursement, repayment of
+loans, receipt and payment of annual charges, etc.
+Provisions of Foreign Exchange Management Act
+Provisions of Foreign Exchange Management Act (FEMA) provides free transaction on
+current account subject to the guidelines by the RBI. Enforcement of Foreign Exchange
+Management Act (FEMA) is entrusted to a separate directorate, which undertakes
+investigations on contraventions of the Act.
+Provisions of FEMA are grouped under four heads. Important provisions under each of
+the four heads, having a bearing on promoting economic development through foreign
+investment with enabling provisions to ensure the curtailing of inflationary trends from
+such transactions, are outlined below.
+Regulation for Current Account Transaction:
+Any person can sell or draw foreign exchange to or from an authorised dealer (if such
+sale or withdrawal is a current account transaction) except for certain prohibited
+transactions like remittance of lottery winnings, remittance of interest income on funds
+held in Non-Resident Special Rupee (NRSR) account scheme, etc.
+Besides these cases, there are certain other transactions, for which specific RBI
+approval will be required. For instance, Reserve Bank approval is required for
+importers availing of Supplier’s Credit beyond 180 days and Buyer’s Credit irrespective
+of the period of credit.
+Authorised dealers are permitted remittance of surplus freight/passage collections by
+shipping/airline companies or their agents, multimodal transport operators, etc. after
+verification of documentary evidence in support of the remittance.
+8
+ 
+Regulations Relating to Capital Account Transactions:
+i. Foreign nationals are not allowed to invest in any company or partnership firm or
+proprietary concern, which is engaged in the business of Chit Fund or in Agricultural or
+Plantation activates or in Real Estate business (other than development of township,
+construction of residential/commercial premises, roads or bridges) or construction of
+farm houses or trading in Transferable Development Rights (TDRs). Listing of
+permissible classes of Capital account transaction for a person resident in India and
+also by a person resident outside India has been provided in the regulations.
+ii. Detailed rules and regulations are provided on borrowing and lending in Foreign
+Currency as well as India Rupee by a person resident in India form/to a person
+resident outside India either on non-repatriation or repatriation basis.
+iii. Authorised dealers are now permitted to grant rupee loans to NRIs against security
+of shares or immovable property in India, subject to certain terms and conditions.
+Authorised dealers or housing finance institutions approved by National Housing Bank
+can also grant rupee loans to NRIs for acquisition of residential accommodations
+subject to certain terms and conditions.
+iv. General permission has been granted to Indian company (including Non-Banking
+Finance Company) registered with Reserve Bank to accept deposits from NRIs on
+repatriation basis subject to the terms and conditions specified in the schedule.
+Indian proprietorship concern/firm or a company (including Non-Banking Finance
+Company) registered with Reserve Bank can also accept deposits from NRIs on non-
+repatriation basis subject to the terms and conditions specified in the schedule.
+Regulations relating to export of goods and services:
+Export proceeds are required to be realised within a period of 6 months from the date
+of shipment. In the case of exports to a warehouse established abroad with the
+approval of Reserve Bank, the proceeds have to be realised within 15 months from the
+date of shipment.
+An enabling provision has been made in this regulation to delegate powers to
+authorised dealers to allow extension of time. Export of goods on elongated credit
+terms beyond six months requires prior approval of Reserve Bank.
+Other Regulations:
+i. A person resident in India to whom any foreign exchange is due or has accrued is
+obligated to take reasonable steps to realise and repatriate to India such foreign
+exchange unless an exemption has been provided in the Act or regulations made
+under the general or special permission of Reserve Bank.
+9
+ 
+ii. Any foreign exchange due or accrued as remuneration for services rendered or in
+settlement of any lawful obligation or an income on assets held outside India or as
+inheritance, settlement or gift to a person resident in India should be sold to an
+authorised person within a period of seven days of its receipt and in all other cases
+within 90 days of its receipt.
+iii. Any person who has drawn exchange for any purpose but has not utilised it for the
+same or any other purpose permissible under the provisions of the Act should
+surrender such foreign exchange or un-utilised foreign exchange to an authorised
+person within a period of 60 days from the date of acquisition.
+Where, however, exchange was drawn for travel abroad, the un-utilised exchange in
+excess of the limit up to which foreign exchange is permitted to be retained, should be
+surrendered to an authorised person within 90 days from the date of return of the’
+traveller to India if unspent exchange is in the form of travellers cheques.
+iv. The Reserve Bank has specified the limit for possession and retention of foreign
+currency by a person resident in India. There is no restriction on possession of foreign
+coins by any person. Any person resident in India is permitted to retain in aggregate
+foreign currency not exceeding US$ 2000 or its equivalent in the form of currency
+notes/bank notes or travellers cheques acquired by him from approved sources.
+v. The Reserve Bank has granted general permission to any person to receive any
+payment:
+(a) made in rupees by order or on behalf of a person resident outside India during his
+stay in India by converting the foreign exchange into rupees by sale to an authorised
+person;
+(b) made by means of a cheque drawn on a bank outside India or a bank draft or
+travellers cheques issued outside India or made in foreign currency notes directly,
+provided the cheques, drafts or foreign currency is sold to an authorised person within
+seven days of its receipt;
+(c) by means of a postal order or money order issued by a post office outside India.
+vi. Reserve bank has also granted general permission to a person resident in India to
+make payment in rupees;
+(a) for extending hospitality’ to a person resident outside India;
+(b) to a person resident outside India for purchase of gold or silver imported by such
+person in accordance with the provisions of any order issued by Central Government
+under the Foreign Trade (Development and Regulation) Act, 1992 or under any law or
+rules or regulations in force.
+OVERVIEW OF FOREIGN EXCHANGE MANAGEMENT ACT
+BACKGROUND – EVOLUTION OF FOREIGN EXCHANGE REGULATIONS IN INDIA
+10
+ 
+Exchange regulations have always remained at the centre of Indian economy.
+Exchange controls
+were first introduced in India during the Second World War (1942). Soon after
+independence, they
+were formally reaffirmed in form of the first Foreign Exchange Regulation Act, 1949
+(FERA). This was
+followed by FERA, 1973. The control framework under FERA was essentially
+transaction based in
+terms of which all transactions in foreign exchange including those between residents
+to nonresidents
+were prohibited unless specifically permitted.
+Transformation from control-to-management: FERA to FEMA
+The 1970s and 1980s saw the rise of large external sector imbalances on account of
+persistent
+increase in adverse balance of payments situation. There was over dependence on
+official foreign
+aid. It was this balance of payment crisis that triggered the wave of economic
+liberalization. The
+Indian rupee became market determined in 1993. The need was felt to consolidate and
+amend the
+law relating to foreign exchange with the objectives of facilitating external trade and
+payments and
+for promoting the orderly development and maintenance of foreign exchange market in
+India.
+Accordingly, on June 1, 2000, the Foreign Exchange Management Act, 1999 (FEMA)
+was brought in
+force to replace the then existing Foreign Exchange Regulation Act, 1973 (FERA).
+FEMA has been
+enacted with an objective of facilitating external trade and payments and for promoting
+the orderly
+development and maintenance of foreign exchange market tin India. As such it is quite
+opposed to
+FERA which was enacted to regulate or control the foreign exchange. FEMA provided
+a de jure status
+to the shift in policies with regard to the external sector reforms that began in 1990-91.
+STRUCTURE OF FEMA
+The present framework of exchange controls in India, consist of basic legislation
+(FEMA, 1999) and
+Notifications, Rules and Circulars [known as Authorized Persons Directions – AP (Dir
+Series)] issued
+by RBI. FEMA applies to the whole of India and all branches, offices and agencies
+outside India which
+are owned or controlled by a person resident in India. It also applies to any
+contraventions
+committed outside India by any person to whom FEMA applies.
+There are 49 sections under FEMA, of which 9 sections (section 1 to 9) are substantive
+and the rest
+are procedural / administrative provisions as tabulated below:
+Section Description
+1 Application and Commencement of FEMA
+2 Definitions
+11
+ 
+3 to 9 Provisions relating to Regulations and Management of Foreign Exchange
+10 to 12 Provisions relating to Authorized Person
+13 to 15 Provisions relating to Contraventions and Penalties
+16 to 38 Provisions relating to Adjudication, Appeal and Directorate of Enforcement
+39 to 49 Miscellaneous Provisions
+Section 46 of FEMA grants power to the Central Government to make rules to carry out
+the
+provisions of FEMA and Section 47 of FEMA grants power to the Reserve Bank of
+India (RBI) to make
+regulations to implement provisions and the rules made under FEMA. Thus RBI is
+entrusted with the
+administration and implementation of FEMA.
+CAPITAL ACCOUNT TRANSACTION AND CURRENT ACCOUNT TRANSACTION:
+In August 1994 India accepted Article VIII of the Articles of agreement of the
+International Monetary
+Fund and became fully convertible on the current account. Since India is fully
+convertible on the
+current account, all current account transactions (barring a small list of restricted items)
+are allowed
+through the normal banking channels. In case of capital account transactions, only the
+transactions
+which are explicitly enabled under the guidelines are allowed, remaining require
+specific approvals
+under FEMA.
+Accordingly it is very important to understand the concept of Capital and Current
+Account
+Transactions to Comprehend FEMA.
+A. Capital Account Transaction:
+“Capital Account transaction” is defined under section 2(e) of FEMA as ‘a transaction
+which
+alters the assets or liabilities, including contingent liabilities, outside India of persons
+resident in
+India or assets or liabilities in India of persons resident outside India, and includes
+transactions
+referred to in sub-section (3) of section 6.’
+Thus any transaction as a result of which the assets or liabilities outside India of a
+person who is
+resident in India and assets or liabilities in India of a person who is resident outside
+India are
+altered i.e. either increased or decreased, is a capital account transaction.
+To put it in example, if a person resident in India acquires shares of a foreign company,
+his/her
+overseas assets will increase. Similarly, if the same person borrows from a non
+resident through
+External Commercial Borrowings (ECBs) his/her liability is created outside India.
+Hence, both the
+transactions lead to creation of asset or liability outside India of a person resident in
+India. Both
+the transactions are capital account transactions.
+In case of a person resident outside India, if he acquires shares of an Indian company,
+his/her
+12
+ 
+asset is created in India and if same person borrows from an institution in India for
+acquiring
+house in India, his/her liability will be created in India. Both these transactions lead to
+creation
+of asset or liability in India of a person resident outside India. Hence, both the
+transactions are
+capital account transactions.
+The concept of Capital and Current Account transaction is to be seen from Balance of
+Payment
+point of view. If after the completion of transaction there remains any obligation to
+either pay
+or receive foreign exchange, the transaction would get colour of Capital Account
+transaction.
+For example, import of Plant &amp; Machinery is a current account transaction, as
+upon import the
+machinery is received in India and overseas supplier is say paid within six months from
+import
+and accordingly there is no future obligation on India as a country to honour foreign
+exchange
+obligation. In this example, from accounting perspective, though Plant &amp;
+Machinery would be
+capital goods, but for FEMA it would be a current account transaction.
+RBI has been empowered under section 6(2) of FEMA to specify, in consultation with
+the Central
+Government, any class or classes of Capital Account transactions which are
+permissible [i.e. over
+and above the transactions permitted under section 6(3)]. Section 6(3) of FEMA
+specifies the
+classes of capital account transactions which are regulated by RBI. Every transaction
+listed in this
+section is regulated by a corresponding notification/regulation.
+FEMA Notification No. 1/2000-RB dated 3-5-2000 contains the list of permissible
+capital account
+transactions as well as list of prohibited capital account transactions.
+Prohibited Capital Account Transactions:
+General Prohibition:
+A person shall not undertake or sell or draw foreign exchange to or from an Authorized
+person
+for any capital account transactions other than those permitted in the Schedules,
+provided the
+transaction is within the limit.
+Special Prohibition:
+No person resident outside India shall make investment in India, in any form, in any
+company or
+partnership firm or proprietary concern or any entity, whether incorporated or not,
+which is
+engaged or proposes to engage-
+ In the business of chit fund, or
+ As nidhi company, or
+ In agricultural or plantation activities, or
+13
+ 
+ In real estate business, or construction of farm houses, or
+ In trading in Transferable Development Rights (TDRs)
+(real estate shall not include development of townships, construction of
+residential/commercial
+premises, roads or bridges).
+B. Current Account Transaction:
+“Current account transaction” is defined under section 2(j) of FEMA to mean ‘a
+transaction
+other than a capital account transaction and without prejudice to the generality of the
+foregoing
+such transaction includes,-
+(i) payments due in connection with foreign trade, other current business, services and
+shortterm
+banking and credit facilities in the ordinary course of business,
+(ii) payments due as interest on loans and as net income from investments,
+(iii) remittances for living expenses of parent, spouse and children residing abroad, and
+(iv) expenses in connection with foreign travel, education and medical care of parents,
+spouse
+and children.’
+All Current Account transactions are generally permitted unless specifically prohibited
+whereas
+all Capital Account transactions are generally prohibited unless specifically permitted.
+Current Account transactions are divided into 3 schedules in Current Account
+Transaction rules:
+Schedule I – Prohibited Transactions
+Schedule II – Transactions requiring prior approval of Government of India
+Schedule III – Transactions requiring prior approval of RBI
+EXAMPLES TO UNDERSTAND CAPITAL AND CURRENT ACCOUNT
+TRANSACTIONS:
+a. Import of Machinery on hire purchase:
+In this transaction the person has created future obligation for making payment to
+nonresident
+and hence has liability towards the non-resident. Therefore the said transaction is a
+capital account transaction.
+b. Transaction representing creation or acquisition of wealth, shares, loans or
+immovable
+properties:
+Since such types of transactions would lead to creation of assets in or outside India by
+person resident outside or in India, as the case may be, the same are in nature of
+capital
+account transactions.
+c. Remittances out of winnings from lottery:
+This comes under Prohibited list (Schedule I) of the Current account transaction.
+Hence
+although the same is in nature of current account such transactions are prohibited.
+However, an entity engaged in lottery business, imports any software or machinery to
+be
+utilized in lottery business in India, the same is a permissible transaction. Import of
+software
+or machinery will not result in violation of FEMA regulations in relation to current
+account
+14
+ 
+transactions.
+But any type of technical collaboration for lottery business including licensing for
+franchise,
+trademark, brand name, management contract or any contract for payment of royalty
+as
+such for such collaboration is prohibited under both current account transaction rules
+and
+also under FDI Policy. Hence, such transactions are not permissible.
+d. Options premium payable under NASDAQ:
+Options premium is the price paid by a person to buy an option contract, whether it is a
+call
+or put. So option premium is paid to acquire only specified rights for a contract. Under
+option contract there is no future obligation in addition to option premium paid at the
+time
+of entering into contract so it does not result into creation of any contingent liability and
+hence is a current account transaction. Whereas future contract would be a capital
+account
+transaction. Option contract may result into creation of contingent asset, and such
+contingent asset is not covered in the definition of Capital Account transaction.
+e. Opening a branch outside India:
+Opening a branch outside India is a current account transaction as it does not result
+into
+alteration of any assets and liabilities overseas, since overseas branch would be
+regarded as
+Resident of India. If however, such overseas branch proposes to acquire immovable
+property (say office premises) outside India, such acquisition would be regarded as
+Capital
+Account Transaction.
+Opening a branch outside India is a permissible current account transaction and
+regulated
+by Notification No. 10/2000-RB dated 3-5-2000 dealing with Foreign Currency
+accounts by a
+person resident in India.
+OTHER IMPORTANT SECTIONS – SEC 6(4) AND SEC 6(5):
+Section 6(4):
+A person resident in India may hold, own, transfer or invest in foreign currency, foreign
+security or
+any immovable property situated outside India if such currency, security or property
+was acquired,
+held or owned by such person when he was resident outside India or inherited from a
+person who
+was resident outside India.
+However, there was no clarity on the type of transactions that would be covered under
+section 6(4).
+Hence, RBI with a view to resolve the doubts, vide its A. P. (DIR Series) Circular No.
+90 dated January
+9, 2014 clarified that the following transactions shall be covered under Section 6(4) of
+FEMA, 1999:
+a. Foreign currency accounts opened and maintained by such a person when he was
+resident
+15
+ 
+outside India.
+b. Income earned through employment or business or vocation outside India taken up
+or
+commenced, or from investments made, or from gift or inheritance received while such
+a person
+was resident outside India.
+c. Foreign exchange including any income arising there from, and conversion or
+replacement or
+accrual to the same, held outside India acquired by way of inheritance from a person
+resident
+outside India.
+d. A person resident in India may freely utilize all their eligible assets abroad as well as
+income on
+such assets or sale proceeds thereof received after their return to India for making any
+payments or to make any fresh investments abroad without prior approval of RBI
+Thus, section 6(4) gives liberty to a person resident in India to keep with him any
+foreign currency or
+foreign security or immovable property which he might have acquired when he was
+resident outside
+India, without any compliance and reporting under FEMA.
+Section 6(5):
+A person resident outside India may hold, own, transfer or invest in Indian currency,
+security or any
+immovable property situated in India if such currency, security or property was
+acquired, held or
+owned by such person when he was resident in India or inherited from a person who
+was resident in
+India.
+This section allows a person resident outside India to keep with him any currency,
+security or
+immovable property which he might have acquired when he was resident in India. In
+case if the
+person liquidates his investment owned by him in India, he can keep the funds in his
+NRO account.
+RBI vide Notification 13 (Remittance of assets) allows to remit the balances of sales
+proceeds of
+assets held by NRI subject to the limit of USD 1 million per financial year.
+THE FOREIGN EXCHANGE MANAGEMENT ACT, 1999
+ACT NO. 42 OF 1999 [29th December, 1999.]
+16
+ 
+An Act to consolidate and amend the law relating to foreign exchange with the
+objective of facilitating external trade and payments and for promoting the orderly
+development and maintenance of foreign exchange market in India.
+BE it enacted by Parliament in the Fiftieth Year of the Republic of India as follows:-
+• PRELIMINARY
+Short title, extent, application and commencement.
+• This Act may be called the Foreign Exchange Management Act, 1999.
+• It extends to the whole of India.
+• It shall also apply to all branches, offices and agencies outside India owned or
+controlled by a person resident in India and also to any contravention
+thereunder committed outs ide India by any person to whom this Act applies .
+• It shall come into force on such date as the Central Government may, by
+notification in the Official Gazette, appoint: Provided that different dates may
+be appointed for different provisions of this Act and any reference in any such
+provision to the commencement of this Act shall be construed as a reference to
+the coming into force of that provision.
+Definitions
+• Definitions.-In this Act, unless the context otherwise requires,- (a)
+"Adjudicating Authority" means an officer authorized under sub-section (1) of
+section 16
+• "Appellate Tribunal" means the Appellate Tribunal for Foreign Exchange
+established under section 18;
+• "authorized person" means an authorized dealer, money changer, off-shore
+banking unit or any other person for the time being authorized under subsection
+(1) of section 10 to deal in foreign exchange or foreign securities;
+• "Bench" means a Bench of the Appellate Tribunal;
+• "capital account transaction" means a transaction which alters the assets or
+liabilities, including contingent liabilities, outside India of persons resident in
+India or assets or liabilities in India of persons resident outside India, and
+includes t ansactions referred to in sub-section (3) of section 6;
+• "Chairperson" means the Chairperson of the Appellate Tribunal;
+• "chartered accountant" shall have the meaning assigned to it in clause (b) of
+sub-section (1) of section 2 of the Chartered Accounts Act, 1949 (38 of 1949);
+• "currency" includes all currency notes, postal notes, postal orders, money
+orders, cheques, drafts, travelers cheques, letters of credit, bills of exchange
+and promissory notes, credit cards or such other similar instruments, as may be
+notified by the Reserve Bank;
+• "currency notes" means and includes cash in the form of coins and bank notes;
+• "current account transaction" means a transaction other than a capital account
+transaction and without prejudice to the generality of the foregoing such
+transaction includes,-
+o payments due in connection with foreign trade, other current business,
+services, and short-term banking and credit facilities in the ordinary
+course of business,
+o payments due as interest on loans and as net income from investments,
+o remittances for living expenses of parents, spouse and children residing
+abroad, and
+o expenses in connection with foreign travel, education and medical care
+17
+ 
+of parents, spouse and children;
+• "Director of Enforcement" means the Director of Enforcement appointed
+under sub-section (1) of section 36;
+o "export", with its grammatical variations and cognate expressions,
+meanso
+the taking out of India to a place outside India any goods,
+o provision of services from India to any person outside India;
+• "foreign currency" means any currency other than Indian currency;
+• "foreign exchange" means foreign currency and includes,-
+o deposits, credits and balances payable in any foreign currency
+o drafts, travelers cheques, letters of credit or bills of exchange,
+expressed or drawn in Indian currency but payable in any foreign
+currency,
+o drafts, travelers cheques, letters of credit or bills of exchange drawn by
+banks, institutions or persons outside India, but payable in Indian
+currency;
+• "foreign security" means any security, in the form of shares, stocks, bonds,
+debentures or any other instrument denominated or expressed in foreign
+currency and includes securities expressed in foreign currency, but where
+redemption or any form of re urn such as interest or dividends is payable in
+Indian currency;
+• "import", with its grammatical variations and cognate expressions, means
+bringing into India any goods or services;
+• "Indian currency" means currency which is expressed or drawn in Indian
+rupees but does not include special bank notes and special one rupee notes
+issued under section 28A of the Reserve Bank of India Act, 1934 (2 of 1934);
+• "legal practitioner" shall have the meaning assigned to it in clause (i) of subsection
+(1) of section 2 of the Advocates Act, 1961 (25 of 1961);
+• "Member" means a Member of the Appellate Tribunal and includes the
+Chairperson thereof;
+• "notify" means to notify in the Official Gazette and the expression
+"notification" shall be construed accordingly;
+• "person" includeso
+an individual,
+o a Hindu undivided family,
+o a company,
+o a firm,
+o an association of persons or a body of individuals, whether
+incorporated or not,
+o every artificial juridical person, not falling within any of the preceding
+sub-clauses, and
+o any agency, office or branch owned or controlled by such person;
+• "person resident in India" means- (i) a person residing in India for more than
+one hundred and eighty-two days during the course of the preceding financial
+year but does not includeo
+a person who has gone out of India or who stays outside India, in either
+case-
+for or on taking up employment outside India, or
+for carrying on outside India a business or vocation outside
+India, or
+for any other purpose, in such circumstances as would indicate
+18
+ 
+his intention to stay outside India for an uncertain period;
+o a person who has come to or stays in India, in either case, otherwise
+than-
+for or on taking up employment in India, or
+for carrying on in India a business or vocation in India, or
+o (i) for any other purpose, in such circumstances as would indicate his
+intention to stay in India for an uncertain period;
+any person or body corporate registered or incorporated in
+India
+an office, branch or agency in India owned or controlled by a
+person resident outside India,
+an office, branch or agency outside India owned or controlled
+by a person resident in India;
+• "person resident outside India" means a person who is not resident in India;
+• "prescribed" means prescribed by rules made under this Act;
+• "repatriate to India" means bringing into India the realized foreign exchange
+ando
+the selling of such foreign exchange to an authorized person in India in
+exchange for rupees, or
+o the holding of realized amount in an account with an authorized person
+in India to the extent notified by the Reserve Bank, and includes use of
+the realized amount for discharge of a debt or liability denominated in
+foreign exchange and the expression "repatriation" shall be construed
+accordingly;
+• "Reserve Bank" means the Reserve Bank of India constituted under subsection
+(1) of section 3 of the Reserve Bank of India Act, 1934 (2 of 1934);
+o "security" means shares, stocks, bonds and debentures, Government
+securities as defined in the Public Debt Act, 1944 (18 of 1944), savings
+certificates to which the Government Savings Certificates Act, 1959
+(46 of 1959) applies, deposit receipts in espect of deposits of securities
+and units of the Unit Trust of India established under sub-section (1) of
+section 3 of the Unit Trust of India Act, 1963 (52 of 1963) or of any
+mutual fund and includes certificates of title to securities, but does not
+in lude bills of exchange or promissory notes other than Government
+promissory notes or any other instruments which may be notified by
+the Reserve Bank as security for the purposes of this Act;
+o "service" means service of any description which is made available to
+potential users and includes the provision of facilities in connection
+with banking, financing, insurance, medical assistance, legal
+assistance, chit fund, real estate, transport, processing, supply of
+electrical or other energy, boarding or lodging or both, entertainment,
+amusement or the purveying of news or other information, but does not
+include the rendering of any service free of charge or under a contract
+of personal servic ;
+o "Special Director (Appeals)" means an officer appointed under section
+18;
+o "specify" means to specify by regulations made under this Act and the
+expression "specified" shall be construed accordingly;
+o "transfer" includes sale, purchase, exchange, mortgage, pledge, gift,
+loan or any other form of transfer of right, title, possession or lien.
+CHAP
+19
+ 
+REGULATION AND MANAGEMENT OF FOREIGN EXCHANGE
+CHAPTER II-REGULATION AND MANAGEMENT OF FOREIGN EXCHANGE
+Dealing in foreign exchange, etc.
+Dealing in foreign exchange, etc.-Save as otherwise provided in this Act, rules or
+regulations made thereunder, or with the general or special permission of the Reserve
+Bank, no person shall-
+• deal in or transfer any foreign exchange or foreign security to any person not
+being an authorized person;
+• make any payment to or for the credit of any person resident outside India in
+any manner;
+• receive otherwise through an authorized person, any payment by order or on
+behalf of any person resident outside India in any manner. Explanation.-For
+the purpose of this clause, where any person in, or resident in, India receives
+any payment by order or on behalf of any person resident outside India
+through any other person (including an authorized person) without a
+corresponding inwa d remittance from any place outside India, then, such
+person shall be deemed to have received such payment otherwise than through
+an authorized person;
+• enter into any financial transaction in India as consideration for or in
+association with acquisition or creation or transfer of a right to acquire, any
+asset outside India by any person. Explanation.-For the purpose of this clause,
+"financial transaction" means making any payment to, or for the credit of any
+person, or receiving any payment for, by order or on behalf of any person, or
+drawing, issuing or negotiating any bill of exchange r promissory note, or
+transferring any security or acknowledging any debt.
+Holding of foreign exchange, etc.
+Holding of foreign exchange, etc.-Save as otherwise provided in this Act, no person
+resident in India shall acquire, hold, own, possess or transfer any foreign exchange,
+foreign security or any immovable property situated outside India.
+Current account transactions.
+Current account transactions.-Any person may sell or draw foreign exchange to or
+from an authorized person if such sale or drawal is a current account transaction:
+Provided that the Central Government may, in public interest and in consultation with
+the Reserve Bank, impose such reasonable restrictions for current account
+transactions as may be prescribed
+Capital account transactions.
+• Capital account transactions. -(1) Subject to the provisions of sub-section (2),
+any person may sell or draw foreign exchange to or from an authorized person
+for a capital account transaction.
+• The Reserve Bank may, in consultation with the Central Government, specifyo
+any class or classes of capital account transactions which are
+permissible;
+o the limit up to which foreign exchange shall be admissible for such
+transactions: Provided that the Reserve Bank shall not impose any
+restriction on the drawal of foreign exchange for payments due on
+account of amortization of loans or for depreciation of direct
+investments in the ordinary courts of business.
+• Without prejudice to the generality of the provisions of sub-section (2), the
+Reserve Bank may, by regulations, prohibit, restrict or regulate the followingo
+transfer or issue of any foreign security by a person resident in India;
+o transfer or issue of any security by a person resident outside India;
+20
+ 
+o transfer or issue of any security or foreign security by any branch,
+office or agency in India of a person resident outside India;
+o any borrowing or lending in rupees in whatever form or by whatever
+name called;
+o any borrowing or lending in rupees in whatever form or by whatever
+name called between a person resident in India and a person resident
+outside India;
+o deposits between persons resident in India and persons resident outside
+India;
+o export, import or holding of currency or currency notes;
+o transfer of immovable property outside India, other than a lease not
+exceeding five years, by a person resident in India;
+o acquisition or transfer of immovable property in India, other than a
+lease not exceeding five years, by a person resident outside India;
+o giving of a guarantee or surety in respect of any debt, obligation or
+other liability incurred-
+by a person resident in India and owed to a person resident
+outside India; or
+by a person resident outside India.
+• A person resident in India may hold, own, transfer or invest in foreign
+currency, foreign security or any immovable property situated outside India if
+such currency, security or property was acquired, held or owned by such
+person when he was resident outside India or inherited from a person who was
+resident outside India.
+• A person resident outside India may hold, own, transfer or invest in Indian
+currency, security or any immovable property situated in India if such
+currency, security or property was acquired, held or owned by such person
+when he was resident in India or inherited from a person who was resident in
+India.
+• A person resident outside India may hold, own, transfer or invest in Indian
+currency, security or any immovable property situated in India if such
+currency, security or property was acquired, held or owned by such person
+when he was resident in India or inherited from a person who was resident in
+India.
+Export of goods and services.
+• Every exporter of goods shallo
+furnish to the Reserve Bank or to such other authority a declaration in
+such form and in such manner as may be specified, containing true and
+correct material particulars, including the amount representing the full
+export value or, if the full export value of the goods is not ascertainable
+at the time of export, the value which the exporter, having regard to the
+prevailing market conditions, expects to receive on the sale of the
+goods in a market outside India;
+o furnish to the Reserve Bank such other information as may be required
+by the Reserve Bank for the purpose of ensuring the realization of the
+export proceeds by such exporter.
+• The Reserve Bank may, for he purpose of ensuring that the full export value of
+the goods or such reduced value of the goods as the Reserve Bank determines,
+having regard to the prevailing market conditions, is received without any
+delay, direct any e porter to comply with such requirements as it deems fit.
+• Every exporter of services shall furnish to the Reserve Bank or to such other
+21
+ 
+authorities a declaration in such form and in such manner as may be specified,
+containing the true and correct material particulars in relation to payment for
+such services
+Realisation and repatriation of foreign exchange.
+Realisation and repatriation of foreign exchange.-Save as otherwise provided in this
+Act, where any amount of foreign exchange is due or has accrued to any person
+resident in India, such person shall take all reasonable steps to realize and repatriate
+to
+India such foreign exchange within such period and in such manner as may be
+specified by the Reserve Bank.
+Exemption from realization and repatriation in certain cases.
+Exemption from realization and repatriation in certain cases. -The provisions of
+sections 4 and 8 shall not apply to the following, namely:-
+• possession of foreign currency or foreign coins by any person up to such limit
+as the Reserve Bank may specify;
+• foreign currency account held or operated by such person or class of persons
+and the limit up to which the Reserve Bank may specify;
+• foreign exchange acquired or received before the 8th day of July, 1947 or any
+income arising or accruing thereon which is he ld outside India by any person
+in pursuance of a general or spec ial permission granted by the Reserve Bank;
+• foreign exchange held by a person resident in India up to su ch limit as the
+Reserve Bank may specify, if such foreign exchan ge was acquired by way of
+gift or inheritance from a person refe rred to in clause (c), including any
+income arising therefrom;
+• foreign exchange acquired from employment, business, trade, vocation,
+services, honorarium, gifts, inheritance or any other legitimate means up to
+such limit as the Reserve Bank may specif y; and
+• such other receipts in foreign exchange as the Reserve Bank may specify.
+CHAP
+AUTHORISED PERSON
+CHAPTER III- AUTHORISED PERSON
+Authorised person.
+• The Reserve Bank may, on an application made to it in this behalf, authorize
+any person to be known as authorized person to deal in foreign exchange or in
+foreign securities, as an authorized dealer, money changer or off-shore anking
+unit or in any other manner as it deems fit.
+• An authorization under this section shall be in writing and shall be subject to
+the conditions laid down therein.
+• An authorization granted under sub-section (1) may be revoked by the Reserve
+Bank at any time if the Reserve Bank is satisfied thato
+it is in public interest so to do; or
+o the authorized person has failed to comply with the condition subject
+to which the authorization was granted or has contravened any of the
+provisions of the Act or any rule, regulation, notification, direction or
+order made thereunder:
+Provided that no such authorization shall be revoked on any
+ground referred to in clause (b) unless the authorized person
+has been given a reasonable opportunity of making a
+representation in the matter.
+• An authorized person shall, in all his dealings in foreign exchange or foreign
+security, comply with such general or special directions or orders as the
+22
+ 
+Reserve Bank may, from time to time, think fit to give, and, except with the
+previous permission f the Reserve Bank, an authorized person shall not engage
+in any transaction involving any foreign exchange or foreign security which is
+not in conformity with the terms of his authorization under this section.
+• An authorized person shall, before undertaking any transaction in foreign
+exchange on behalf of any person, require that person to make such
+declaration and to give such information as will reasonably satisfy him that the
+transaction will not involve and is not designed for the purpose of any
+contravention or evasion of the provisions of this Act or of any rule,
+regulation, notification, direction or order made thereunder, and where the said
+person refuses to comply with any such requirement or make only
+unsatisfactory compliance therewith, the authorized person shall refuse in
+writing to undertake the transaction and shall, if he has reason to believe that
+any such contravention or evasion as aforesaid is contemplated by the person,
+report the mat er to the Reserve Bank.
+• Any person, other than an authorized person, who has acquired or purchased
+foreign exchange for any purpose mentioned in the declaration made by him to
+authorized person under sub-section (5) does not use it for such purpose or
+does not surrender it o authorized person within the specified period or uses
+the foreign exchange so acquired or purchased for any other purpose for which
+purchase or acquisition or foreign exchange is not permissible under the
+provisions of the Act or the rules or regulatio s or direction or order made
+thereunder shall be deemed to have committed contravention of the provisions
+of the Act for the purpose of this section.
+Reserve Bank's powers to issue directions to authorized person.
+• Reverve Bank's powers to issue directions to authorized person.-(1) The
+Reserve Bank may, for the purpose of securing compliance with the provisions
+of this Act and of any rules, regulations, notifications or directions made
+thereunder, give to the a thorized persons any direction in regard to making of
+payment or the doing or desist from doing any act relating to foreign exchange
+or foreign security.
+• The Reserve Bank may, for the purpose of ensuring the compliance with the
+provisions of this Act or of any rule, regulation, notification, direction or order
+made thereunder, direct any authorized person to furnish such information, in
+such manner, a it deems fit.
+• Where any authorized person contravenes any direction given by the Reserve
+Bank under this Act or fails to file any return as directed by the Reserve Bank,
+the Reserve Bank may, after giving person a penalty which may extend to ten
+thousand rupees and in the case of continuing contravention with an additional
+penalty which may extend to two thousand rupees for every day during which
+such contravention continues. reasonable opportunity of being heard, impose
+on the author sed
+Power of Reserve Bank to inspect authorised person.
+• The Reserve Bank may, at any time, cause an inspection to be made, by any
+officer of the Reserve Bank specially authorised in writing by the Reserve
+Bank in this behalf, of the business of any a thorised person as may appear to
+it to be necessary or expedient for the purpose ofo
+verifying the correctness of any statement, information or particulars
+furnished to the Reserve Bank;
+o obtaining any information or particulars which such authorised person
+has failed to furnish on being called upon to do so;
+23
+ 
+o securing compliance with the provisions of this Act or of any rules,
+regulations, directions or orders made thereunder.
+• It shall be the duty of every authorised person, and where such person is a
+company or a firm, every director, partner or other officer of such company or
+firm, as the case may be, to produce to any officer making an inspection under
+sub-section (1), such books, accounts and other documents in his custody or
+power and to furnish any statement or information relating to the affairs of
+such person, company or firm as the said officer may require within such time
+and in such manner as the said officer m y direct.
+CONTRAVENTION AND PENALTIES
+CHAPTER IV-CONTRAVENTION AND PENALTIES
+Penalties
+• If any person contravenes any provision of this Act, or contravenes any rule,
+regulation, notification, direction or order issued in exercise of the powers
+under this Act, or contravenes any condition subject to which an authorization
+s issued by the Reserve Bank, he shall, upon adjudication, be liable to a
+penalty up to thrice the sum involved in such contravention where such
+amount is quantifiable, or up to two lakh rupees where the amount is not
+quantifiable, and where such contrav ntion is a continying one, further penalty
+which may extend to five thousand rupees for every day after the first day
+during which the contravention continues.
+• Any Adjudicating Authority adjudging any contravention under sub-section
+(1), may, if he thinks fit in addition to any penalty which he may impose for
+such contravention direct that any currency, security or any other money or
+property in respect of hich the contravention has taken place shall be
+confiscated to the Central Government and further direct that the foreign
+exchange holdings, if any, of the persons committing the contraventions or
+any part thereof, shall be brought back into India or sha l be retained outside
+India in accordance with the directions made in this behalf. Explanation.-For
+the purposes of this sub-section, "property" in respect of which contravention
+has taken place, shall includeo
+deposits in a bank, where the said property is converted into such
+deposits;
+o Indian currency, where the said property is converted into that
+currency; and
+o any other property which has resulted out of the conversion of that
+property.
+Enforcement of te orders of Adjudicating Authority.
+• Subject to the provisions of sub-section (2) of section 19, if any person fails to
+make full payment of the penalty imposed on him under section 13 within a
+period of ninety days from the date n which the notice for payment of such
+penalty is served on him, he shall be liable to civil imprisonment under this
+section.
+• No order for the arrest and detention in civil prison of a defaulter shall be
+made unless the Adjudication Authority has issued and served a notice upon
+the defaulter calling upon him to appear before him on the date specified in the
+notice and to sh w cause why he should not be committed to the civil prison,
+24
+ 
+and unless the Adjudicating Authority, for reasons in writing, is satisfiedo
+that the defaulter, with the object or effect of obstructing the recovery
+of penalty, has after the issue of notice by the Adjudicating Authority,
+dishonestly transferred, concealed, or removed any part of his property,
+or
+o that the defaulter has, or has had since the issuing of notice by the
+Adjudicating Authority, the means to pay the arrears or some
+substantial part thereof and refuses or neglects or has refused or
+neglected to pay the same.
+• Notwithstanding anything contained in sub-section (1), a warrant for the arrest
+of the defaulter may be issued by the Adjudicating Authority if the
+Adjudicating Authority is satisfied, by affidavit or otherwise, that with the
+object or effect of dela ing the execution of the certificate the defaulter is
+likely to abscond or leave the local limits of the jurisdiction of the
+Adjudicating Authority.
+• Where appearance is not made pursuant to a notice issued and served under
+sub-section (1), the Adjudicating Authority may issue a warrant for the arrest
+of the defaulter.
+• A warrant of arrest issued by the Adjudicating Authority under sub-section (3)
+or sub-section (4) may also be executed by any other Adjudicating Authority
+within whose jurisdiction the defaulter may for the time being be found.
+• Every person arrested in pursuance of a warrant of arrest under this section
+shall be brought before the Adjudicating Authority issuing the warrant as soon
+as practicable and in any event within twenty-four hours of his arrest
+(exclusive of the time equired for the journey): Provided that, if the defaulter
+pays the amount entered in the warrant of arrest as due and the costs of the
+arrest to the officer arresting him, such officer shall at once release him.
+Explanation.-For the purposes of this sub-section, where the defaulter is a
+Hindu undivided family, the karta thereof shall be deemed to be the defaulter.
+• When a defaulter appears before the Adjudicating Authority pursuant to a
+notice to show cause or is brought before the Adjudicating Authority under
+this section, the Adjudicating Authority shall give the defaulter an opportunity
+showing cause why he hould not be committed to the civil prison.
+• Pending the conclusion of the inquiry, the Adjudicating Authority may, in his
+discretion, order the defaulter to be detained in the custody of such officer as
+the Adjudicating Authority may think fit or release him on his furnishing the
+security to t e satisfaction of the Adjudicating Authority for his appearance as
+and when required.
+• Upon the conclusion of the inquiry, the Adjudicating authority may make an
+order for the detention of the defaulter in the civil prison and shall in that
+event cause him to be arrested if he is not already under arrest: Provide that in
+order to give a defaulter an opportunity of satisfying the arrears, the
+Adjudicating Authority may, before making the order of detention, leave the
+defaulter in the custody of the officer arresting him or of any other officer for
+a specif ed period not exceeding fifteen days, or release him on his furnishing
+security to the satisfaction of the Adjudicating Authority for his appearance at
+the expiration of the specified period if the arrears are not satisfied.
+• When the Adjudicating Authority does not make an order of detention under
+sub-section (9), he shall, if the defaulter is under arrest, direct his release.
+• Every person detained in the civil prison in execution of the certificate may be
+so detained,-
+25
+ 
+o where the certificate is for a demand of an amount exceeding rupees
+one crore, up to three years, and
+o in any other case, up to six months: Provided that he shall be released
+from such detention on the amount mentioned in the warrant for his
+detention being paid to the officer-in-charge of the civil prison.
+• A defaulter released from detention under this section shall not, merely by
+reason of his release, be discharged from his liability for the arrears, but he
+shall not be liable to be arrested under the certificate in execution of which he
+was detaine in the civil prison.
+• A detention order may be executed at any place in India in the manner
+provided for the execution of warrant of arrest under the Code of Criminal
+Procedure, 1973 (2 of 1974).
+Power to compound contravention.
+• Any contravention under section 13 may, on an application made by the
+person committing such contravention, be compounded within one hundred
+and eighty days from the date of receipt of application by the Director f
+Enforcement or such other officers of the Directorate of Enforcement and
+officers of the Reserve Bank as may be authorised in this behalf by the Central
+Government in such manner as may be prescribed.
+• Where a contravention has been compounded under sub-section (1), no
+proceeding or further proceeding, as the case may be, shall be initiated or
+continued, as the case may be, against the person committing such
+contravention under that section, in re pect of the contravention so
+compounded.
+ADJUDICATION AND APPEAL
+CHAPTER V- ADJUDICATION AND APPEAL
+Appointment of Adjudicating Authority.
+• For the purpose of adjudication under section 13, the Central Government
+may, by an order published in the Official Gazette, appoint as many officers of
+the Central Government as it may think fit, as the Adj dicating Authorities for
+holding an inquiry in the manner prescribed after giving the person alleged to
+have committed contravention under section 13, against whom a complaint
+has been made under sub-section (3) (hereinafter in this section referred to a
+the said person) a reasonable opportunity of being heard for the purpose of
+imposing any penalty: Provided that where the Adjudicating Authority is of
+opinion that the said person is likely to abscond or is likely to evade in any
+manner, the payment of penalty, if levied, it may direct the said person to
+furnish a bond or guarantee for such amount an subject to such conditions as it
+may deem fit.
+• The Central Government shall, while appointing the Adjudicating Authorities
+under sub-section (1), also specify in the order published in the Official
+Gazette, their respective jurisdictions.
+• No Adjudicating Authority shall hold an enquiry under sub-section (1) except
+upon a complaint in writing made by any officer authorised by a general or
+26
+ 
+special order by the Central Government.
+• The said person may appear either in person or take the assistance of a legal
+practitioner or a chartered accountant of his choice for presenting his case
+before the Adjudicating Authority.
+• Every Adjudicating Authority shall have the same powers of a civil court
+which are conferred on the Appellate Tribunal under sub-section (2) of section
+28 ando
+all proceedings before it shall be deemed to be judicial proceedings
+within the meaning of sections 193 and 228 of the Indian Penal Code
+(45 of 1860);
+o shall be deemed to be a civil court for the purposes of sections 345 and
+346 of the Code of Criminal Procedure, 1973 (2 of 1974).
+• Every Adjudicating Authority shall deal with the complaint under sub-section
+(2) as expeditiously as possible and endeavor shall be made to dispose of the
+complaint finally within one year from the date of receipt of the complaint:
+Provided that where the complaint cannot be disposed of within the said
+period, the Adjudicating Authority shall record periodically the reasons in
+writing for not disposing of the complaint within the said period.
+Appeal to Special Director (Appeals).
+• The Central Government shall, by notification, appoint one or more Special
+Directors (Appeals) to hear appeals against the orders of the Adjudicating
+Authorities under this section and shall also specify in t e said notification the
+matter and places in relation to which the Special Director (Appeals) may
+exercise jurisdiction.
+• Any person aggrieved by an order made by the Adjudicating Authority, being
+an Assistant Director of Enforcement or a Deputy Director of Enforcement,
+may prefer an appeal to the Special Director (Appeals).
+• Every appeal under sub-section (1) shall be filed within forty-five days from
+the date on which the copy of the order made by the Adjudicating Authority is
+received by the aggrieved person and it shall be in such form, verified in such
+manner and be ccompanied by such fee as may be prescribed: Provided that
+the Special Director (Appeals) may entertain an appeal after the expiry of the
+said period of forty-five days, if he is satisfied that there was sufficient cause
+for not filing it within that period.
+• On receipt of an appeal under sub-section (1), the Special Director (Appeals)
+may after giving the parties to the appeal an opportunity of being heard, pass
+such order thereon as he thinks fit, confirming, modifying or setting aside the
+order appeale against.
+• The Special Director (Appeals) shall send a copy of every order made by him
+to the parties to appeal and to the concerned Adjudicating Authority.
+• The Special Director (Appeals) shall have the same powers of a civil court
+which are conferred on the Appellate Tribunal under sub-section (2) of section
+28 ando
+all proceedings before him shall be deemed to be judicial proceedings
+within the meaning of sections 193 and 228 of the Indian Penal Code
+(45 of 1860);
+o shall be deemed to be a civil court for the purposes of sections 345 and
+346 of the Code of Criminal Procedure, 1973 (2 of 1974).
+Establishment of Appellate Tribunal.
+Establishment of Appellate Tribunal.-The Central Government shall, by notification,
+establish an Appellate Tribunal to be known as the Appellate Tribunal for Foreign
+27
+ 
+Exchange to hear appeals against the orders of the Adjudicating Authorities and the
+pecial Director (Appeals) under this Act.
+Appeal to Appellate Tribunal.
+• Save as provided in sub-section (2), the Central Government or any person
+aggrieved by an order made by an Adjudicating Authority, other than those
+referred to in sub-section (1) of section 17, or the Special Directo (Appeals),
+may prefer an appeal to the Appellate Tribunal: Provided that any person
+appealing against the order of the Adjudicating Authority or the Special
+Director (Appeals) levying any penalty, shall while filing the appeal, deposit
+the amount of such penalty with such authority as may be notified by the Cent
+al Government:
+Provided further that where in any particular case, the Appellate Tribunal is of
+the opinion that the deposit of such penalty would cause undue hardship to
+such person, the Appellate Tribunal may dispense with such deposit subject to
+such conditions as i may deem fit to impose so as to safeguard the realisation
+of penalty.
+• Every appeal under sub-section (1) shall be filed within a period of forty-five
+days from the date on which a copy of the order made by the Adjudicating
+Authority or the Special Director (Appeals) is received by the aggrieved
+person or by the Central Government and it shall be in such form, verified in
+such manner and be accompanied by such fee as may be prescribed : Provided
+that the Appellate Tribunal may entertain an appeal after the expiry of the said
+period of forty-five days if it is satisfied that there was sufficient cause for not
+filing it within that period.
+• On receipt of an appeal under sub-section (1), the Appellate Tribunal may,
+after giving the parties to the appeal an opportunity of being heard, pass such
+orders thereon as it thinks fit, confirming, modifying or setting aside the order
+appealed agai st.
+• The Appellate Tribunal shall send a copy of every order made by it to the
+parties to the appeal and to the concerned Adjudicating Authority or the
+Special Director (Appeals), as the case may be.
+• The appeal filed before the Appellate Tribunal under sub-section (1) shall be
+dealt with by it as expeditiously as possible and endeavour shall be made by it
+to dispose of the appeal finally within one hundred and eighty days from the
+date of receipt of the appeal: Provided that where any appeal could not be
+disposed of within the said period of one hundred and eighty days, the
+Appellate Tribunal shall record its reasons in writing for not disposing off the
+appeal within the said period.
+• The Appellate Tribunal may, for the purpose of examining the legality,
+propriety or correctness of any order made by the Adjudicating Authority
+under section 16 in relation to any proceeding, on its own motion or otherwise,
+call for the records of su h proceedings and make such order in the case as it
+thinks fit.
+Composition of Appellate Tribunal.
+• The Appellate Tribunal shall consist of a Chairperson and such number of
+Members as the Central Government may deem fit.
+• Subject to the provisions of this Act,-]
+o the jurisdiction of the Appellate Tribunal may be exercised by Benches
+thereof;
+o a Bench may be constituted by the Chairperson with one or more
+Members as the Chairperson may deem fit;
+28
+ 
+o the Benches of the Appellate Tribunal shall ordinarily sit at New Delhi
+and at such other places as the Central Government may, in
+consultation with the Chairperson, notify;
+o the Central Government shall notify the areas in relation to which each
+Bench of the Appellate Tribunal may exercise jurisdiction
+• Notwithstanding anything contained in sub-section (2), the Chairperson may
+transfer a Member from one Bench to another Bench.
+• If at any stage of the hearing of any case or matter it appears to the
+Chairperson or a Member that the case or matter is of such a nature that it
+ought to be heard by a Bench consisting of two Members, the case or matter
+may be transferred by the Ch irperson or, as the case may be, referred to him
+for transfer, to such Bench as the Chairperson may deem fit.
+Qualifications for appointment of Chairperson, Member andSpecial Director
+(Appeals).
+• A person shall not be qualified for appointment as the Chairperson or a
+Member unless heo
+in the case of Chairperson, is or has been, or is qualified to be, a Judge
+of a High Court; and
+o in the case of a Member, is or has been, or is qualified to be, a District
+Judge.
+• A person shall not be qualified for appointment as a Special Director
+(Appeals) unless heo
+has been a member of the Indian Legal Service and has held a post in
+Grade I of that Service; or
+o has been a member of the Indian Revenue Service and has held a post
+equivalent to a Joint Secretary to the Government of India.
+Term of Office.
+The Chairperson and every other Member shall hold office as such for a term of five
+years from the date on which he enters upon his office: Provided that no Chairperson
+or other Member shall hold office as such after he has attained,-
+• in the case of the Chairperson, the age of sixty-five years;
+• in the case of any other Member, the age of sixty-two years.
+Term and Conditions of service.
+The salary and allowances payable to and the other terms and conditions of service of
+the Chairperson, other Members and the Special Director (Appeals) shall be such as
+may be prescribed:
+Provided that neither the salary and allowances nor the other terms and conditions of
+service of the Chairperson or a Member shall be varied to his disadvantage after
+appointment.
+Vacancies.
+-If, for reason other than temporary absence, any vacancy occurs in the office of the
+Chairperson or a Member, the Central Government shall appoint another person in
+accordance with the provisions of this Act to fill the vacancy and the pro eedings may
+be continued before the Appellate Tribunal from the stage at which the vacancy is
+filled.
+Resignation and removal.
+• The Chairperson or a Member may, by notice in writing under his hand
+addressed to the Central Government, resign his office:Provided that the
+Chairperson or a Member shall, unless he is permitted by the Central
+Government to relinquish his office sooner, continue to hold office until the
+expiry of three months from the date of receipt of such notice or until a person
+29
+ 
+duly app inted as his successor enters upon his office or until the expiry of
+term of office, whichever is the earliest.
+• The Chairperson or a Member shall not be removed from his office except by
+an order by the Central Government on the ground of proved misbehaviour or
+incapacity after an inquiry made by such person as the President may appoint
+for this purpose in whi h the Chairperson or a Member concerned has been
+informed of the charges against him and given a reasonable opportunity of
+being heard in respect of such charges.
+Member to act as Chairperson in certain circumstances.
+• In the event of the occurrence of any vacancy in the office of the Chairperson
+by reason of his death, resignation or otherwise, the senior-most Member shall
+act as the Chairperson until the ate on which a new Chairperson, appointed in
+accordance with the provisions of this Act to fill such vacancy, enters upon his
+office.
+• When the Chairperson is unable to discharge his functions owing to absence,
+illness or any other cause, the senior-most Member shall discharge the
+functions of the Chairperson until the date on which the Chairperson resumes
+his duties.
+Staff of Appellate Tribunal and Special Director (Appeals).
+• The Central Government shall provide the Appellate Tribunal and the Special
+Director (Appeals) with such officers and employees as it may deem fit.
+• The officers and employees of the Appellate Tribunal and office of the Special
+Director (Appeals) shall discharge their functions under the general
+superintendence of the Chairperson and the Special Director (Appeals), as the
+case may be.
+• The salaries and allowances and other conditions of service of the officers and
+employees of the Appellate Tribunal and office of the Special Director
+(Appeals) shall be such as may be prescribed.
+Procedure and powers of Appellate Tribunal and Special Director(Appeals).
+• The Appellate Tribunal and the Special Director (Appeals) shall not be bound
+by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908),
+but shall be guid d by the principles of natural justice and, subject to the other
+provisions of this Act, the Appellate Tribunal and the Special Director
+(Appeals) shall have powers to regulate its own procedure.
+• The Appellate Tribunal and the Special Director (Appeals) shall have, for the
+purposes of discharging its functions under this Act, the same powers as are
+vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908)
+while trying a suit in respect of the following matters, namely:-
+o summoning and enforcing the attendance of any person and examining
+him on oath;
+o requiring the discovery and production of documents;
+o receiving evidence on affidavits;
+o subject to the provisions of sections 123 and 124 of the Indian
+Evidence Act, 1872 (1 of 1872), requisitioning any public record or
+document or copy of such record or document from any office;
+o issuing commissions for the examination of witnesses or documents;
+o reviewing its decisions;
+o dismissing a representation of default or deciding it ex parte;
+o setting aside any order of dismissal of any representation for default or
+any order passed by it ex parte; and
+o any other matter which may be prescribed by the Central Government.
+30
+ 
+• An order made by the Appellate Tribunal or the Special Director (Appeals)
+under this Act shall be executable by the Appellate Tribunal or the Special
+Director (Appeals) as a decree of civil court and, for this purpose, the
+Appellate Tribunal and the pecial Director (Appeals) shall have all the powers
+of a civil court.
+• Notwithstanding anything contained in sub-section (3), the Appellate Tribunal
+or the Special Director (Appeals) may transmit any order made by it to a civil
+court having local jurisdiction and such civil court shall execute the order as if
+it were a ecree made by that court.
+• All proceedings before the Appellate Tribunal and the Special Director
+(Appeals) shall be deemed to be judicial proceedings within the meaning of
+sections 193 and 228 of the Indian Penal Code (45 of 1860) and the Appellate
+Tribunal shall be deemed to be a civil court for the purposes of sections 345
+and 346 of the Code of Criminal Procedure, 1973 (2 of 1974).
+Distribution of business amongst Benches.
+Distribution of business amongst Benches.-Where Benches are constituted, the
+Chairperson may, from time to time, by notification, make provisions as to the
+distribution of the business of the Appellate Tribunal amongst the Benches and also
+provide fo the matters which may be dealt with by each Bench.
+Power of Chairperson to transfer cases.
+Power of Chairperson to transfer cases.-On the application of any of the parties and
+after notice to the parties, and after hearing such of them as he may desire to be heard,
+or on his own motion without such notice, the Chairperson may transfer any ase
+pending before one Bench, for disposal, to any other Bench.
+Decision to be by majority.
+Decision to be by majority.-If the Members of a Bench consisting of two Members
+differ in opinion on any point, they shall state the point or points on which they differ,
+and make a reference to the Chairperson who shall either hear the point or poi ts
+himself or refer the case for hearing on such point or points by one or more of the
+other Members of the Appellate Tribunal and such point or points shall be decided
+according to the opinion of the majority of the Members of the Appellate Tribunal
+who have heard the case, including those who first heard it.
+Right of appellant to take assistance of legal practitioner orchartered accountant and
+of Government, to appoint presentingofficers.
+Right of appellant to take assistance of legal practitioner or chartered accountant and
+of Government, to appoint presenting officers.-
+• A person preferring an appeal to the Appellate Tribunal or the Special Director
+(Appeals) under this Act may ei her appear in person or take the assistance of
+a legal practitioner or a chartered accountant of his choice to present his case
+before the Appellate Tribunal or the Special Director (Appeals), as the case
+may be.
+• The Central Government may authorise one or more legal practitioners or
+chartered accountants or any of its officers to act as presenting officers and
+every person so authorised may present the case with respect to any appeal
+before the Appellate Tri unal or the Special Director (Appeals), as the case
+may be.
+Members, etc., to be public servants.
+Members, etc., to be public servants.-The Chairperson, Members and other officers
+and employees of the Appellate Tribunal, the Special Director (Appeals) and the
+Ajudicating Authority shall be deemed to be public servants within the meaning of
+secti n 21 of the Indian Penal Code (45 of 1860).
+31
+ 
+Civil court not to have jurisdiction.
+Civil court not to have jurisdiction.-No civil court shall have jurisdiction to entertain
+any suit or proceeding in respect of any matter which an Adjudicating Authority or
+the Appellate der this Act to determine and no injunction shall be granted by any
+court or other authority in respect of any action taken or to be taken in pursuance of
+any power conferred by or under this Act. Tribunal or the Special Director (Appeals)
+is empowered by or u
+Appeal to High Court.
+Appeal to High Court.-Any person aggrieved by any decision or order of the
+Appellate Tribunal may file an appeal to the High Court within sixty days from the
+date of communication of the decision or order of the Appellate Tribunal to him on
+any quest on of law arising out of such order:
+Provided that the High Court may, if it is satisfied that the appellant was prevented by
+sufficient cause from filing the appeal within the said period, allow it to be filed
+within a further period not exceeding sixty days.
+Explanation.-In this section "High Court" means-
+• the High Court within the jurisdiction of which the aggrieved party ordinarily
+resides or carries on business or personally works for gain; and
+• where the Central Government is the aggrieved party, the High Court within
+the jurisdiction of which the respondent, or in a case where there are more
+than one respondent, any of the respondents, ordinarily resides or carries on
+business or personall works for gain.
+DIRECTORATE OF ENFORCEMENT
+CHAPTER VI-DIRECTORATE OF ENFORCMENT
+Directorate of Enforcement.
+• The Central Government shall establish a Directorate of Enforcement with a
+Director and such other officers or class of officers as it thinks fit, who shall
+be called officers of Enforcement, for the purposes of this A t.
+• Without prejudice to the provisions of sub-section (1), the Central
+Government may authorise the Director of Enforcement or an Additional
+Director of Enforcement or a Special Director of Enforcement or a Deputy
+Director of Enforcement to appoint offi ers of Enforcement below the rank of
+an Assistant Director of Enforcement.
+• Subject to such conditions and limitations as the Central Government may
+impose, an officer of Enforcement may exercise the powers and discharge the
+duties conferred or imposed on him under this Act.
+Power of search, seizure, etc.
+• The Director of Enforcement and other officers of Enforcement, not below the
+rank of an Assistant Director, shall take up for investigation the contravention
+referred to in section 13.
+• Without prejudice to the provisions of sub-section (1), the Central
+Government may also, by notification, authorise any officer or class of
+32
+ 
+officers in the Central Government, State Government or the Reserve Bank,
+not below the rank of an Under Secre ary to the Government of India to
+investigate any contravention referred to in section 13.
+• The officers referred to in sub-section (1) shall exercise the like powers which
+are conferred on income-tax authorities under the Income-tax Act, 1961 (43 of
+1961) and shall exercise such powers, subject to such limitations laid down
+under that A t.
+Empowering other officers.
+• The Central Government may, by order and subject to such conditions and
+limitations as it thinks fit to impose, authorise any officer of customs or any
+central excise officer or any police officer or any other officer o the Central
+Government or a State Government to exercise such of the powers and
+discharge such of the duties of the Director of Enforcement or any other
+officer of Enforcement under this Act as may be stated in the order.
+• The officers referred to in sub-section (1) shall exercise the like powers which
+are conferred on the income-tax authorities under the Income-tax Act, 1961
+(43 of 1961), subject to such conditions and limitations as the Central
+Government may impose.
+MISCELLANEOUS
+CHAPTER VII-MISCELLANEOUS
+Presumption as to documents in certain cases.
+Presumption as to documents in certain cases.-Where any document-
+• is produced or furnished by any person or has been seized from the custody or
+control of any person, in either case, under this Act or under any other law; or
+• has been received from any place outside India (duly authenticated by such
+authority or person and in such manner as may be prescribed) in the course of
+investigation of any contravention under this Act alleged to have been
+committed by any person, and such document is tendered in any proceeding
+under this Act in evidence against him, or against him and any other person
+who is proceeded against jointly with him, the court or the Adjudicating
+Authority, as the case may be, shallo
+presume, unless the contrary is proved, that the signature and every
+other part of such document which purports to be in the handwriting of
+any particular person or which the court may reasonably assume to
+have been signed by, or to be in the handwri ing of, any particular
+person, is in that person's handwriting, and in the case of a document
+executed or attested, that it was executed or attested by the person by
+whom it purports to have been so executed or attested;
+o admit the document in evidence notwithstanding that it is not duly
+stamped, if such document is otherwise admissible in evidence;
+o in a case falling under clause (i), also presume, unless the contrary is
+proved, the truth of the contents of such document.
+Suspension of operation of this Act.
+• If the Central Government is satisfied that circumstances have arisen rendering
+it necessary that any permission granted or restriction imposed by this Act
+should cease to be granted or imposed, or if it consi ers necessary or expedient
+33
+ 
+so to do in public interest, the Central Government may, by notification,
+suspend or relax to such extent either indefinitely or for such period as may be
+notified, the operation of all or any of the provisions of this Act.
+• Where the operation of any provision of this Act has under sub-section (1)
+been suspended or relaxed indefinitely, such suspension or relaxation may, at
+any time while this Act remains in force, be removed by the Central
+Government by notification.
+• Every notification issued under this section shall be laid, as soon as may be
+after it is issued, before each House of Parliament, while it is in session, for a
+total period of thirty days which may be comprised in one session or in two or
+more succe sive sessions, and if, before the expiry of the session immediately
+following the session or the successive sessions aforesaid, both Houses agree
+in making any modification in the notification or both Houses agree that the
+notification should not be issu d, the notification shall thereafter have effect
+only in such modified form or be of no effect, as the case may be; so,
+however, that any such modification or annulment shall be without prejudice
+to the validity of anything previously done under that not fication.
+Power of Central Government to give directions.
+Power of Central Government to give directions.-For the purposes of this Act, the
+Central Government may, from time to time, give to the Reserve Bank such general or
+special directions as it thinks fit, and the Reserve Bank shall, in the discharge of its
+functions under this Act, comply with any such directions.
+Contravention by companies.
+• Where a person committing a contravention of any of the provisions of this
+Act or of any rule, direction or order made thereunder is a company, every
+person who, at the time the contravention was committed, was in char e of,
+and was responsible to, the company for the conduct of the business of the
+company as well as the company, shall be deemed to be guilty of the
+contravention and shall be liable to be proceeded against and punished
+accordingly: Provided that nothing contained in this sub-section shall render
+any such person liable to punishment if he proves that the contravention took
+place without his knowledge or that he exercised due diligence to prevent such
+contravention.
+• Notwithstanding anything contained in sub-section (1), where a contravention
+of any of the provisions of this Act or of any rule, direction or order made
+thereunder has been committed by a company and it is proved that the
+contravention has taken pla e with the consent or connivance of, or is
+attributable to any neglect on the part of, any director, manager, secretary or
+other officer of the company, such director, manager, secretary or other officer
+shall also be deemed to be guilty of the contraven ion and shall be liable to be
+proceeded against and punished accordingly.Explanation.-For the purposes of
+this section-(i) "company" means any body corporate and includes a firm or
+other association of individuals; and
+(ii) "director", in relation to a firm, means a partner in the firm.
+Death or insolvency in certain cases.
+Death or insolvency in certain cases.-Any right, obligation, liability, proceeding or
+appeal arising in relation to the provisions of section 13 shall not abate by reason of
+death or insolvency of the person liable under that section and upon such de th or
+insolvency such rights and obligations shall devolve on the legal representative of
+such person or the official receiver or the official assignee, as the case may be:
+Provided that a legal representative of the deceased shall be liable only to the extent
+34
+ 
+of the inheritance or estate of the deceased.
+Bar of legal proceedings.
+Bar of legal proceedings.-No suit, prosecution or other legal proceeding shall lie
+against the Central Government or the Reserve Bank or any officer of that
+Government or of the Reserve Bank or any other person exercising any power or
+discharging any functions or performing any duties under this Act, for anything in
+good faith done or intended to be done under this Act or any rule, regulation,
+notification, direction or order made thereunder.
+Removal of difficulties.
+• If any difficulty arises in giving effect to the provisions of this Act, the Central
+Government may, by order, do anything not inconsistent with the provisions
+of this Act for the purpose of removing the difficulty: Provided that no such
+order shall be made under this section after the expiry of two years from the
+commencement of this Act.
+• Every order made under this section shall be laid, as soon as may be after it is
+made, before each House of Parliament.
+Power to make rules.
+The Central Government may, by notification, make rules to carry out the provisions
+of this Act. (2) Without prejudice to the generality of the foregoing power, such rules
+may provide for,-
+• the imposition of reasonable restrictions on current account transactions under
+section 5;
+• the manner in which the contravention may be compounded under sub-section
+(1) of section 15;
+• the manner of holding an inquiry by the Adjudicating Authority under subsection
+(1) of section 16;
+• the form of appeal and fee for filing such appeal under sections 17 and 19;
+• the salary and allowances payable to and the other terms and conditions of
+service of the Chairperson and other Members of the Appellate Tribunal and
+the Special Director (Appeals) under section 23;
+• the salaries and allowances and other conditions of service of the officers and
+employees of the Appellate Tribunal and the office of the Special Director
+(Appeals) under sub-section (3) of section 27;
+• the additional matters in respect of which the Appellate Tribunal and the
+Special Director (Appeals) may exercise the powers of a civil court under
+clause (i) of sub-section (2) of section 28;
+• the authority or person and the manner in which any document may be
+authenticated under clause (ii) of section 39; and
+• any other matter which is required to be, or may be, prescribed.
+Power to make regulations.
+• The Reserve Bank may, by notification, make regulations to carry out the
+provisions of this Act and the rules made thereunder.
+• Without prejudice to the generality of the foregoing power, such regulations
+may provide for,-
+o the permissible classes of capital account transactions, the limits of
+admissibility of foreign exchange for such transactions, and the
+prohibition, restriction or regulation of certain capital account
+transactions under section 6;
+o the manner and the form in which the declaration is to be furnished
+under clause (a) of sub-section (1) of section 7;
+o the period within which and the manner of repatriation of foreign
+35
+ 
+exchange under section 8;
+o the limit up to which any person may possess foreign currency or
+foreign coins under clause (a) of section 9;
+o the class of persons and the limit up to which foreign currency account
+may be held or operated under clause (b) of section 9;
+o the limit up to which foreign exchange acquired may be exempted
+under clause (d) of section 9;
+o the limit up to which foreign exchange acquired may be retained under
+clause (e) of section 9;
+o any other matter which is required to be, or may be, specified.
+Rules and regualations to be laid before Parliament.
+Every rule and regulation made under this Act shall be laid, as soon as may be after it
+is made, before each House of Parliament, while it is in session for a total period of
+thirty days which may b comprised in one session or in two or more successive
+sessions, and if, before the expiry of the session immediately following the session or
+the successive sessions aforesaid, both Houses agree in making any modification in
+the rule or regulation, or b th Houses agree that the rule or regulation should not be
+made, the rule or regulation shall thereafter have effect only in such modified form or
+be of no effect, as the case may be; so, however, that any such modification or
+annulment shall be without p ejudice to the validity of anything previously done under
+that rule or regulation.
+Repeal and saving.
+• The Foreign Exchange Regulation Act, 1973 (46 of 1973) is hereby repealed
+and the Appellate Board constituted under sub-section (1) of section 52 of the
+said Act (hereinafter referred to as the repealed Act) shall stand dissolv d.
+• On the dissolution of the said Appellate Board, the person appointed as
+Chairman of the Appellate Board and every other person appointed as
+Member and holding office as such immediately before such date shall vacate
+their respective offices and no su h Chairman or other person shall be entitled
+to claim any compensation for the premature termination of the term of his
+office or of any contract of service.
+• Notwithstanding anything contained in any other law for the time being in
+force, no court shall take cognizance of an offence under the repealed Act and
+no adjudicating officer shall take notice of any contravention under section 51
+of the repealed A t after the expiry of a period of two years from the date of
+the commencement of this Act.
+• Subject to the provisions of sub-section (3) all offences committed under the
+repealed Act shall continue to be governed by the provisions of the repealed
+Act as if that Act had not been repealed.
+• Notwithstanding such repeal,-
+o anything done or any action taken or purported to have been done or
+taken including any rule, notification, inspection, order or notice made
+or issued or any appointment, confirmation or declaration made or any
+licence, permission, authorization or e emption granted or any
+document or instrument executed or any direction given under the Act
+hereby repealed shall, in so far as it is not inconsistent with the
+provisions of this Act, be deemed to have been done or taken under the
+corresponding provision of this Act;
+o any appeal preferred to the Appellate Board under sub-section (2) of
+section 52 of the repealed Act but not disposed of before the
+commencement of this Act shall stand transferred to and shall be
+36
+ 
+disposed of by the Appellate Tribunal constituted unde this Act;
+o every appeal from any decision or order of the Appellate Board under
+sub-section (3) or sub-section (4) of section 52 of the repealed Act
+shall, if not filed before the commencement of this Act, be filed before
+the High Court within a period of sixty days of such commencement
+:Provided that the High Court may entertain such appeal after the
+expiry of the said period of sixty days if it is satisfied that the appellant
+was prevented by sufficient cause from filing the appeal within the said
+period.
+• Save as otherwise provided in sub-section (3), the mention of particular
+matters in sub-sections (2), (4) and (5) shall not be held to prejudice or affect
+the general application of section 6 of the General Clauses Act, 1897 (10 of
+1897) with regard to the effect of repeal.
+37
+ 
+Foreign Exchange
+Foreign Exchange
+It includes all Currency, deposits, Credits and Balances payable in Foreign
+currency. It also includes Drafts/TCs, LCs and Bills of Exchange payable in
+Foreign currency. In nut shell, all claims payable abroad is Foreign
+Exchange.
+On the other hand, Foreign Currency is narrow term which includes hard
+currency say Pounds, Dollars etc.
+Forex Market It comprises of individuals and entities including banks across the globe
+without geographical boundaries. Forex market is dynamic and it operates
+round the clock. Exchange rate of major currencies change after about
+every 4 seconds. It opens from Monday to Friday except in Middle east
+countries where it is closed on Friday and opens on Saturday and Sunday.
+Exchange Rate mechanism
+When settlement of funds and exchange
+of currency takes place_________
+TOD rate or Cash Rate Same day (it is also called ready rate)
+TOM Rate Next working day
+Spot Rate 2nd working day (48 hours)
+Forward Rate After few days/months
+If Next day or 2nd day is holiday in either of the two countries, the
+settlement will take place on next day. For example Spot deal is
+stuck on 23rd Dec. 25th is Christmas Day and 26th is Sunday. Under
+such circumstances, value date will be 27th i.e. Monday.
+There are two types of rates- Fixed and Floating. Floating rates are
+determined by market forces of Demand and Supply. India
+switched to Floating exchange rates regime in 1993.
+Buy and Sell
+Maxim
+Buy Low Sell High (Direct Quotations)
+Buy rate is also called Bid Rate and Sell Rate is called Offer Rate.
+Buy High Sell Low (Indirect Quotations)
+When Local Currency is fixed, bank will like to have more foreign
+currency while buying and give less foreign currency while selling.
+Forward Rates
+(Premium is
+always added and
+Discount is
+always deducted
+from Spot Rate to
+arrive at Forward
+Rate)
+It is required when currency is exchanged after few months/days.
+Buy Transactions :
+Spot Rate (+ ) premium OR ( - ) Discount
+( Lower premium is added OR Higher discount is deducted )
+38
+ 
+Sale Transactions:
+Spot Rate (+ )Higher premium OR (-) Lower discount
+(So that currency may become cheaper while buying and dearer while
+selling
+In India, Forward Contracts are available for Maximum period
+of 12 Months
+EXCHANGE CONTROL REGULATIONS
+Exchange control was first introduced in India on Sept 3, 1939. Subsequently it was
+brought under Foreign
+Exchange Regulation Act, 1973. At present it is regulated through FEMA 1999.
+The objectives of ECR are
+a conservation of foreign exchange;
+b proper accounting of foreign exchange receipts and payments;
+c stabilizing the external value of the rupee;
+d to prevent flight of scarce capital by control over remittances abroad and supervision
+of accounts of nonresidents,
+so that the balance of payments deficit does not occur or does'not worsen;
+e to check smuggling;
+f to fulfil IMF obligations .
+LIBERALISED REMITTANCE SCHEME (LRS) FOR RESIDENT INDIVIDUALS
+RBI introduced LRS on Feb 04, 2004. Major changes were made by RBI in LRS w.e.f.
+01.06.2015 (based
+on Govt. notification 15.05.15).
+Eligibility: All resident individuals including minors and non-individuals are eligible.
+Remittances under the facility can be consolidated in respect of family members
+subject to individual family
+members complying with the terms and conditions.
+It is mandatory to have PAN number to make remittances.
+Forex can be purchased from authorised person which indude AD Category-1 Banks,
+AD Category-2 and
+Full Fledged Money Changers.
+Capital Accounts transactions Remittances up to USD 250,000 per financial year
+can be allowed for
+permissible capital account transactions as under: I) opening of foreign currency
+account abroad; ii)
+purchase of property abroad;
+ill) making investments abroad;
+iv) setting up Wholly owned subsidiaries and Joint Ventures abroad;
+v) loans including in Indian Rupees to Non-resident Indians relatives as defined in
+Companies Act, 2013.
+Current account transactions • : All facilities (Including private/business visits) for
+remittances have been
+subsumed under overall limit of USD 250,000/FY.
+39
+ 
+Facilities for Individuals
+1. Individuals can avail of forex facility for the following purposes within the limit of USD
+250000. Additional
+remittance shall require prior approval of RBI.
+1. Private visits to a country (except Nepal & Bhutan)
+2. Gift or donation.
+3. Going abroad for employment or immigration.
+4. Maintenance of close relatives abroad
+5. Travel for business, or attending a conference or specialized training or for meeting
+medical expenses, or
+check-up abroad, or for accompanying as attendant to a patient going abroad for
+medical treatment/ check-up.
+7. Expenses for medical treatment abroad
+B. Studies abroad
+9. Any other current account transaction
+Exception : For immigration,medical treatment and studies abroad, the individualmay
+avail of exchange facility in
+excess of LRS limit if required by a country of emigration,medical institute offering
+treatment or the university,
+respectively.
+Facilities for persons other than individual The following remittances shall require RBI
+approval:
+(i) Donations beyond 1%of forex earnings in previous 3 FY or USD 5000000,
+whichever is less, for:
+a) creation of Chairs in reputed educational institutes,
+b) contribution to funds (not being an investment fund) promoted by educational
+institutes; and
+c) technical institution/body/ association in the field of activity of the donor Company.
+(ii) Commission, per transaction, to agents abroad for sale of residential flats or
+commercial plots in India exceeding
+USD 25,000 or 5%of inward remittance whichever ismore.
+(iii) Remittances exceeding USD 10000000 per project for any consultancy services for
+infrastructure projects and
+USD 1,000,000 per project, for other consultancy services procured fromoutside India.
+(iv) Remittances exceeding 5%of investment brought into India or USD 100,000
+whichever is higher, by an entity in
+India by way of reimbursement of pre-incorporation expenses.
+Mode of remittance: The Scheme can be used for outward remittance in the formof 'a
+DD either in the resident
+individual's own name or in the name of beneficiary with whomhe intends putting
+through the permissible transactions
+at the time of private visit abroad, can be effected, against self declaration of the
+remitter in the format prescribed.
+Loan facility : Banks should not extend any kind of credit facilities to resident
+individuals to facilitate remittances under
+the Scheme.
+Remittances not available under the scheme:
+40
+ 
+i. Remittance for any purpose specifically prohibited under Schedule-I (like purchase of
+lottery/sweep stakes,
+tickets, prescribedmagazines etc.) or itemrestricted under Schedule II of FEMA
+(Current A/c Transactions) Rules,
+2000.
+ii. Remittancesmade to Bhutan,Nepal,Mauritius or Pakistan.
+iii. Remittancesmade to countries identified by the Financial Action Task Force (FATF)
+as "non co-operative
+countries and territories" as available on FATF website (viz Cook Islands, Egypt,
+Guatemala, Indonesia, Myanmar,
+Nauru, Nigeria, Philippines and Ukraine) or as notified by RBI.
+iv. Remittances to individuals and entities identified as posing significant risk of
+committing acts of terrorismas advised
+separately by RBI to the banks.
+Reporting of the transactions: The remittancesmade will be reported in the R-Return
+in the normal course. The
+ADsmay also prepare and keep on record dummy FormA2, in respect of remittances
+exceeding USD 5000.
+With effect from01.07.13, the banks are required to upload the data inOnline Return
+Filing System(OAFS) on a
+monthly basis, by 5th of the followingmonth to which it relates.Where there is no
+information, 'nil' figure is to be
+uploaded.
+Rules related to release / remittance of foreign exchange to residents
+ADbanks can release forex to residents in India as per Rules framed u/s Sec 5 of
+FEMA. Forex cannot be released for
+Schedule I transactions. For Schedule II transactions,Govt. permission is required. For
+Schedule III transactions, forex
+can be released up to specified limit byADbanks. Beyond that limit, approval of RBI is
+required.
+Ceilings on release of amount by ADs without RBI approval are given above, under
+LRS.
+Nepal & Bhutan - Forex for any kind of travel to or for any transactionwith persons
+resident inNepal andBhutan cannot
+be released. Any amount of Indian currency can be used.Highest denomination of
+currency note can beRs.100.
+Up to Rs.25000, any denomination is allowed.
+Form of foreign currency: 1. Coins, currency notes and traveller's cheques. Currency
+notes/coins can be up to US$
+3000. The balance can be traveller's cheque or banker's draft.
+2. For Iraq and Libya currency notes and coins can be obtained up toUS$ 5000 or its
+equivalent.
+3. For Iran, Russian Federation, and other Republics of Commonwealth of Independent
+Countries, no ceiling.
+Mode of purchase: In cash up toRs.50,000/-.Above this, payment byway of a crossed
+cheque/banker's cheque/pay
+order/demand draft / debit card / credit card only.
+41
+ 
+Surrender of unused forex: Currency notes and travellers' cheques within 180 days of
+return.
+Retention of unused forex : US$2,000 or its equivalent. There is no restriction on
+residents for holding foreign
+currency coins.
+Use of International Credit Card (ICC): Use of the ICCs / ATMs/ Debit Cards can be
+made for personal
+payments and for travel abroad for various purposes, only up to specified limits.
+Export / Import of Indian currency by Residents or non-residents : Up to Rs. 25000
+each to or from
+any country other than Nepal or Bhutan (Pakistan & Bangladesh Rs.10000).
+Import of Foreign exchange from abroad: Any amount subject to declaration on CDF.
+Mandatory CDF : Where total amount exceeds US$ 10,000 (or its equivalent) and/or
+value of foreign
+currency notes exceeds US$ 5,000, declaration should be made to the Customs
+Authorities through
+Currency Declaration Form (CDF), on arrival in India.
+Application for purchase of FC : Form A2. It is not required up to $ 25000. A2 to be
+preserved by banks for one
+year for verification by Auditors. endorsement on Passport : It is not mandatory for
+Authorised Dealers to
+endorse the amount of foreign exchange sold for travel abroad on the passport of the
+traveller. However, if
+requested by the traveller, AD may record under its stamp, date and signature, details
+of foreign exchange sold
+for travel
+.
+Inward Remittance
+1. Any person foreigner or Indian coming to India can bring any amount of foreign
+exchange in India.
+2. If foreign currency being brought ismore than US$ 5000 or foreign currency and
+traveler cheque ismore than
+US $ 10,000, then the person bringing forex shouldmake declaration before Customs
+on the Currency Declaration
+form. If it is not submitted to Customs, then it can be submitted to Authorised Dealer
+while surrendering foreign
+exchange.
+3. Unspent Foreign exchange should be surrendered within 180 days of arrival in India
+whether it is
+foreign currency or foreign traveler cheque.
+4. A resident individual can retain up to US $ 2000. There is no limit on coins.
+5. Indian rupees can be brought up to Rs 25000.
+6. Full fledgedMoney Changers (FFMCs) are permitted to encash foreign currency
+andmake cash payment only
+up to USD 3000 or its equivalent. Amount exceeding USD 3000 or its equivalent has to
+be paid by way of demand
+42
+ 
+draft or bankers' cheque. RBI has allowed banks to credit proceeds of demand drafts /
+bankers' cheques issued
+against encashment of foreign currency to the NRE account of the NRI account holder
+where the instruments
+issued to the NRE account holder are supported by encashment certificate issued by
+AD Category—I / Category
+—II.
+7. Exchange regulations are not applicable in case of remittance to or from Nepal and
+Bhutan. Therefore, forex
+can neither be taken to nor brought from Nepal and Bhutan. Indian rupees can be
+taken to Nepal and Bhutan in
+the denomination of Rs 100 or below.
+Non Residents and their Accounts
+Who is Resident Indian? Who is Non- Resident
+A person who resides in India for more than 182 days during preceding
+financial year is Resident Indian. A person who is not resident is Non-
+Resident.
+Who is NRI? A person who is citizen of India but resides outside India owing to:
+Employment, Business, vocation-------indicating indefinite period of
+stay outside.
+Work abroad on assignment with Foreign Govt., UNO, and IMF etc.
+Deputation officially.
+Study abroad.
+PIO - Persons of Indian Origin
+PIO is a person who is citizen of any other country, but he at any time:
+Held Indian Passport
+He or his grand-parents or grand grand parents were Indian citizens
+by virtue of constitution of India or under Indian Citizenship Act.
+The person is spouse of Indian Citizen.
+Resident: As per section 2(v) of the FEMA 1999, a person is called resident in India if
+he stays in India formore than
+182 days during the preceding financial year except those who have gone out of India
+for taking up employment
+outside India or for carrying on a business or vocation 'outside India or for any other
+purpose indicating his intention
+to stay abroad for indefinite period.
+Non Resident: Person resident outside Indiameans a person who is not resident in
+India.
+NRI has been defined in Income Tax Act.
+RBI definition of NRI: However, as per RBI guidelines, a non resident Indian can be a
+person of Indian
+Nationality or a person of Indian Origin.
+Person of Indian Nationality (PIN): A Person of Indian Nationality is one who holds an
+Indian passport at
+the time of opening the account.
+43
+ 
+Person of IndianOrigin: A Person of IndianOrigin is one who is presently not a national
+of Pakistan or Bangladesh
+and : (a) who at anytime held an Indian passport; or (b) he himself, either-of his parents
+or any of his grand parents
+was a citizen of India by virtue of Constitution of India or the Citizenship Act,1955 ; or
+(c) the person is a spouse of
+Person of Indian Nationality / Origin.
+Overseas Corporate Bodies are those in which at least 60% shareholding is of NRI.
+OCBs are not
+allowed to open NRI accounts.
+Students who go abroad for studies have also been given the facility of opening NRI
+accounts.
+Non resident accounts are of 3 types (a) Non Resident ordinary (b) Non Resident
+(External) (c) Foreign
+Currency Non Resident (Bank) account. Salient features of these accounts are as
+under
+Non Resident Ordinary account:
+1. Type of account: Saving, Current, FD and RD
+2. Credit: can be local income as well as remittance from abroad.
+3. Currency of deposit Indian Rupees
+4. Period of Deposit and interest rate : Fixed deposit can be opened for 7 days to 10
+years and interest
+rate as applicable to domestic deposits
+5. Joint account allowed with residents as well non residents (NRO is the only account
+which can be
+opened jointly with residents)
+6. Interest income is taxable and tax will be deducted at source irrespective of type of
+account and amount of
+interest. The rate of tax on interest on deposits out of foreign remittance is 20%and on
+deposits from local income
+is 30%. Surcharge and education cess will be extra.
+7. Power of Attorney is allowed to residents formaking local payments. Power of
+Attorney can undertake all
+focal payments in rupees including payments for eligible investments subject to
+compliance with relevant regulations
+made by the Reserve Bank; and Remittance outside India of current income in India of
+the nonresident individual
+account holder, net of applicable taxes. The resident Power of Attorney holder is not
+permitted to repatriate outside
+India funds held in the account other than to the non-resident individual account holder
+nor tomake payment by way
+of gift to a resident on behalf of the non-resident account holder or transfer funds
+fromthe account to another NRO
+account.
+8. Repatriation is allowed as per following details: (i) Remittance outside India of
+current income like rent, dividend,
+pension, interest, etc. in India of the account holder. (ii) Remittance up to USD
+onemillion, per financial year (April-
+44
+ 
+March), for all bonafide purposes, to the satisfaction of the authorised dealer bank. (iii)
+sale proceeds of immovable
+property up to US $ 10 lakh per financial year without waiting for 10 year period.
+Non-Resident accounts can be opened:
+By any person resident outside India (other than a person resident
+in Nepal and Bhutan) can open NRO account, maintain it for 6M
+and can convert it into foreign currency after completion of stay
+provided no local funds are credited to the account.
+Deposit may be held jointly with residents
+Currency of Deposit is Indian Rupees
+Not Repatriable except for the following in the account - 1) Current
+income 2) Up-to USD 1 Million per financial year.
+Type of Deposit may be Savings, Current, Recurring, Fixed Deposit.
+Existing accounts of residents are converted to NRO category
+consequent upon their becoming NRIs.
+TDS called withholding Tax is applicable at 30% + Service Tax
++Education Cess.
+Prior permission of RBI is required to open NRO account of
+Pakistani national. However permission is not required
+Non Resident (External) and ForeignCurrencyNon Resident (Bank) account
+There are certain common features in these accounts like
+1. Credits: Only amount received from abroad can be credited to these accounts.
+2. Joint account is allowed only with Non residents and not allowed with residents.
+3. Power of attorney is allowed to residents. He can make local payments. POA can
+remit money abroad if
+permitted by Power of Attorney.
+4. Maximum loan against NRE and FCNR(B) is allowed up to Rs 100 lakh.
+5. Interest income is free of Income tax and therefore tax is not deducted at source
+6. Repatriation: Entire balance including interest can be repatriated abroad.
+The other features are:
+Deposits are held in Indian currency.
+The Principal and Interest both can be repatriated.
+Account holder bears the risk of fluctuations in currency rates.
+Account will be opened with proceeds from abroad.
+Funds originating in India cannot be deposited.
+Interest rates Have since been deregulated by RBI..
+No lien is permitted to be marked against SB deposits.
+Joint account with Indians can be opened as Former or Survivor.
+Cheque book and IBS allowed.
+Nomination in favor of NRI/Resident Indian allowed.
+Interest Income is exempt from Income Tax, Gift Tax or Wealth Tax.
+TOD allowed up to Rs. 50000/- for maximum 2 weeks.
+Account can be operated in India through mandate also.
+Loans against FDR to 3rd parties allowed provided NRI is personally
+present for documentation.
+45
+ 
+FCNR- B accounts
+FCNRB accounts can also be opened by NRIs. The conditions of NRE
+deposits as explained above are also applicable on FCNR-B deposits with
+the following additional features:
+Only FD 1-5 years tenure can be opened.
+The amount is kept in Foreign Currency and repaid in the Foreign
+Currency.
+6 currencies i.e. GBP, USD, Euro, JPY, CAD. AUD are eligible
+currencies for opening the account.
+No exchange risk for the customer. The bank bears the risk.
+Interest on the basis of 360 days in a year
+Half yearly intervals of 180 days
+Interest exemptions from I.T.
+Operating by P/A not permitted.
+The amount of Principle and Interest is freely repatriable
+Interest Rate on 1-3 years FD is LIBOR + 200 bps and that of 3-5
+years FD is LIBOR + 400 bps.(Previously, it was LIBOR + 300 bps)
+Rupee Loans against NRE/FCNRB FDRs
+Demand Loan or Overdraft is allowed against FDR. There is no maximum
+limitof loan against pledge of FDR (Which was100 lac earlier). The loan
+can be availed for :
+Personal purpose.
+Investment.
+Purchase of property.
+The loan can be repaid :
+From proceeds of abroad
+From NRE/FCNR account
+From local resources through NRO account.
+Resident Accounts Operation Either or Survivor with non- resident
+It has been decided that AD banks may include an NRI close relative
+(relatives as defined in Section 6 of the Companies Act, 1956) in existing /
+new resident bank accounts as joint holder with the resident account holder
+on “Either or Survivor” basis subject to the following conditions:
+Such account will be treated as resident bank account
+Cheques, instruments, remittances, cash, card belonging to the NRI
+close relative shall not be eligible for credit to this account
+The NRI close relative shall operate such account only for and on
+behalf of the resident for domestic payment
+Where due to any eventuality, the non-resident account holder becomes
+46
+ 
+the survivor, it shall be categorized as NRO account
+Investments by NRIs in India
+NRIs are allowed to invest in India on Repatriation basis as well as on Non-
+Repatriation basis. NRI can purchase Equity Shares, Preference shares
+and Convertible Debentures in Indian companies subject to conditions
+under following categories:
+1. Foreign Direct Investments.
+2. Portfolio Investment
+3. Purchase and Sale of Shares on Non-Repatriation basis.
+4. Purchase of other securities of Indian Companies.
+5. Exchange Traded Derivatives.
+Besides above, NRIs are permitted to invest in:
+Units of UTI and Mutual Funds
+Company Deposits – Minimum 3 years‟ period.
+Share in Proprietorship firm/partnership firm provided the firm is not
+engaged in Agriculture and Plantation activity or Property business.
+Acquiring of Immovable property not being Agriculture, Plantation or
+Farm House.
+NRI can acquire IP by way of :
+Purchase out of funds received in India
+By way of gift from resident in India or outside India.
+By way of Inheritance from a person resident outside India.
+The Income from the property or sale proceeds of the property can be
+repatriated outside India up to monetary limit of USD1 Million per financial
+year provided all the applicable taxes are paid.
+NRIs can invest in Govt. securities, treasury bills on non- repatriation
+basis. However, NRI cannot invest in Small saving Schemes including
+PPF.
+Loans to NRIs NRI can avail the following loans:
+1. Rupee Loans in India
+- Up to up to any limit subject to prescribed margin.
+- For personal purpose, contribution to Capital in Indian
+Companies or for acquisition of property.
+- Repayment of loan will be either from inward remittances or
+from local resources through NRO accounts.
+2. Foreign Currency Loans in India
+- Against security of funds in FCNR-B deposits.
+- Maturity of loan should not exceed due date of deposits.
+- Repayment from Fresh remittances or from maturity proceeds of
+deposits.
+3. Loans to 3rd Parties provided
+47
+ 
+- There is no direct or indirect consideration for NRE depositor
+agreeing to pledge his FD.
+- Margin, rate of Interest and Purpose of loan shall be as per RBI
+guidelines.
+- The loan will be utilized for personal purpose or business
+purpose and not for re-lending or carrying out
+Agriculture/Plantation/Real estate activities.
+- Loan documents will be executed personally by the depositor
+and Power of attorney is not allowed.
+4. Housing Loans to NRIs : HL can be sanctioned to NRIs subject to
+following conditions:
+- Quantum of loan, Margin and period of Repayment shall be
+same as applicable to Indian resident.
+- The loan shall not be credited to NRE/FCNR account of the
+customer.
+- EM of IP is must and lien on assets.
+- Repayment from remittance abroad or by debit to NRE/FCNR
+account or from rental income derived from property.
+Portfolio Investment Scheme for NRIs
+RBI has permitted NRIs to invest in PIS subject to following conditions:
+Investment on repatriation as well as non-repatriation basis.
+Purchase/Sale of shares and debentures
+Through Regd. Brokers
+Amount is routed through designated branch.
+Only delivery based transactions
+Investment on Repatriation basis can be made out of inward
+remittances or out of NRE/FCNR deposits.
+Investment on Non-Repatriation basis can be made out of NRO
+deposits besides NRE/FCNR deposits.
+Ceiling PER Investor
+5% of paid up capital of Indian Company or 5% of Value of each issue of
+convertible debentures.
+Ceiling PER Investor Company
+10% of paid up capital of Indian Company or 10% of Value of each issue of
+convertible debentures.
+48
+ 
+RBI controls Foreign Exchange
+RBI is empowered to
+Control and regulate Foreign Exchange Reserves
+Supervise Foreign Exchange dealings
+Maintain external value of Rupee
+FERA was replaced by FEMA in the year 1999.
+FEMA provisions
+The important FEMA guidelines with regard to Foreign exchange are as
+under:
+1. No drawl of exchange for Nepal and Bhutan
+2. If Rupee equivalent exceeds Rs. 50000/-, payment by way of
+crossed Cheque.
+3. During visit abroad, one can carry foreign currency notes up to USD
+3000 or equivalent. For Libya and Iraq, the limit is USD5000 and the
+entire amount for Iran and Russian states.
+4. Indian citizens can retain and possess foreign currency up to USD
+2000 or its equivalent.
+5. Unspent currency must be surrendered within a period of 180 days
+after arrival in India.
+Basic Travel Quota (BTQ)
+Purpose of Visit Up to USD or equivalent
+Personal/Tourism 10000 per financial year
+Business Purpose 25000 per visit
+Seminars/conferences 25000 per visit
+Employment/Immigration 100000
+Studies 100000 per academic year
+Medical 100000
+Donations/Gifts 5000 per donor per year
+Consultancy services 100000 per project
+Debit Credit/Credit Card As per BTQ as above
+*AD can release Foreign Exchange 60 days ahead of journey
+LRS (Liberalized Remittance Scheme)
+The scheme is meant for Resident Indians individuals. They can freely
+remit up USD 125000 per financial year in respect of any current or capital
+account transaction without prior approval of RBI. The precondition is that
+the remitter should have been a customer of the bank for the last 1 year.
+PAN is mandatory.
+Not Applicable
+The scheme is not applicable for remittance to Nepal, Bhutan, Pak,
+Mauritius or other counties identified by FATF.
+The scheme is not meant for remittance by Corporate.
+Latest Guidelines
+49
+ 
+The scheme should not be used for making remittances for any
+prohibited or illegal activities such as margin trading, lottery etc., as
+hitherto.
+Resident individuals have now been allowed to set up Joint
+Ventures (JV) / Wholly Owned Subsidiaries (WOS) outside India for
+bonafide business activities outside India within the limit of USD
+125000
+The limit for gift in Rupees by Resident Individuals to NRI close
+relatives and loans in Rupees by resident individuals to NRI close
+relatives shall accordingly stand modified to USD 1,25,000 per
+financial year.
+RBI has clarified that Scheme can now be used for acquisition of IP
+outside India.
+Import and Export of Indian Rupees
+Any person resident in India
+a) May take outside India (other than Nepal and Bhutan) currency
+notes up to Rs. 25000/- or
+b) May bring into India (from country other than Nepal and Bhutan)
+currency notes up to Rs. 25000/-
+Any person Resident Outside India (Not being citizen of Pak and
+Bangladesh)
+a) May take outside India currency up to Rs. 25000/-
+b) May bring into India currency notes up to 25000/-
+(Previously, the limit was Rs. 10000/-)
+Any amount can be taken out while going to Nepal and Bhutan in any
+denomination. (Prev. Notes up to 100 denomination were allowed)
+Restrictions Customer is required to furnish PAN No. for cash remittance beyond
+25000/-.
+If rupee equivalent is 50000/- and above, the entire payment has to
+be made by way of crossed cheque or DD.
+RETURNS TO BE SUBMITTED TO RBI
+Following important returns are submitted to RBI
+R- Returns Forex Operations (Fortnightly)
+BAL statement Balance in Nostro/Vostro account
+STAT 5 Transactions in FCNR B accounts
+(Fortnightly)
+STAT 8 Transactions in NRE/NRO accounts
+(Fortnightly
+LRS Statement UP to USD 200000 (monthly)
+Trade Credit Statement Buyers‟ and Suppliers‟ Credit
+XOS O/S Overdue Export bills (6M overdue)
+BEF Import Remittance effected but Bill of Entry
+not submitted for >3M.
+50
+ 

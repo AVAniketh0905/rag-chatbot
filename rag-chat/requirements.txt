@@ -1,0 +1,12 @@
+numpy
+fastapi
+uvicorn
+python-dotenv
+
+faiss-cpu
+
+langchain
+langgraph 
+langchain-core 
+langchain-cohere 
+langchain-community 
