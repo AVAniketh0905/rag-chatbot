@@ -4,4 +4,8 @@ venv/
 
 faiss_index/
 
+*/outputs/*
+
+*/data/*
+
 .dockerignore
