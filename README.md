@@ -2,9 +2,7 @@
 
 ## Custom LLM
 
-### AWS bedrock models
-
-- can use the bedrock models
+Custom LLM using huggingface(transformers). To build it locally, follow the given steps.
 
 ### Custom LLM Endpoint
 
@@ -13,20 +11,23 @@
 
 ## PDF Extractor
 
-### Next Steps
+Custom wrapper to extract important features from PDFs.
 
-- extract data into text files
-- extract based on topics in index
-- extract based on page numbers
-- create sep folder for each book
-- create seperate text files for each topic
+### Features
 
-### Notes
+- [x] extract data into text files
+- [x] extract based on topics in index
+- [x] extract based on page numbers
+- [x] create sep folder for each book
+- [x] create seperate text files for each topic
 
-- first 3 pdfs are from the same book
-- last 2 have no index page
+## Embedder
+
+Embeds the extarcted text into numerical vectors for model to understand. Uses `langchain` to create the custom embedder, with an In-Memory Vectore Store.
 
 ## Deployment
+
+Rag chat app deployment to AWS,
 
 `aws ecr get-login-password --region {region} | docker login --username AWS --password-stdin {username}.dkr.ecr.{region}.amazonaws.com`
 
